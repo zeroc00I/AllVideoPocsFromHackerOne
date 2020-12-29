@@ -17,4 +17,8 @@ I'm just uploading here if someone would like to use this JSONs to another purpo
 ## Drafts
 
 - Download all attachments from report
-curl -sf https://hackerone.com/reports/1026752.json | jq -r '.attachments|.[]|.expiring_url' | xargs -I@ -P5 wget @
+
+```
+curl -sf https://hackerone.com/reports/1026752.json | 
+jq -r '.attachments|.[]|.expiring_url' | xargs -I@ -P5 wget @
+```
