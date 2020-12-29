@@ -50,18 +50,18 @@ getHackerOneReportJson(){
 
 main(){
 
-[[ ! -d "jsonReports" ]] && 
-mkdir jsonReports || 
-echo '[INFO] Json Output Folder already exist. Using It ...'
+	[[ ! -d "jsonReports" ]] && 
+	mkdir jsonReports || 
+	echo '[INFO] Json Output Folder already exist. Using It ...'
 
-[[ -f "reportLinksHackerOne" ]] &&
-echo '[INFO] HackerOne report id files found. Using it ...';
-allReportsId=`cat reportLinksHackerOne`
- getHackerOneReportJson "$allReportsId" ||
-echo '[INFO] Extracting all disclosed id reports from H1'
-#getOnlyHackeroneReportLinks
-allReportsId=`getOnlyHackeroneReportLinks`
-getHackerOneReportJson "$allReportsId"
+	[[ -f "reportLinksHackerOne" ]] &&
+	echo '[INFO] HackerOne report id files found. Using it ...';
+	allReportsId=`cat reportLinksHackerOne`
+	getHackerOneReportJson "$allReportsId" ||
+	echo '[INFO] Extracting all disclosed id reports from H1'
+	#getOnlyHackeroneReportLinks
+	allReportsId=`getOnlyHackeroneReportLinks`
+	getHackerOneReportJson "$allReportsId"
 }
 
 main	
