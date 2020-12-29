@@ -1,6 +1,10 @@
 # AllVideoPocsFromHackerOne
 
-This script grabs public report from hacker one and makes some folders with POC videos  
+This script grabs public report from hacker one and makes some folders with POC videos 
+
+# Files
+## reportLinksHackerOne
+All ids from hackerOne disclosed reports
 
 # Work in progress!
 
