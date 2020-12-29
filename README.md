@@ -10,6 +10,11 @@ These JSON will be used to categorize by vulnerabilities.
 
 Other filters can be made.
 
-# Please remove jsonReports folder
+## Please remove jsonReports folder
 
 I'm just uploading here if someone would like to use this JSONs to another purpose / tool
+
+## Drafts
+
+- Download all attachments from report
+curl -sf https://hackerone.com/reports/1026752.json | jq -r '.attachments|.[]|.expiring_url' | xargs -I@ -P5 wget @
