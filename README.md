@@ -10,3 +10,6 @@ These JSON will be used to categorize by vulnerabilities.
 
 Other filters can be made.
 
+# Please remove jsonReports folder
+
+I'm just uploading here if someone would like to use this JSONs to another purpose / tool
