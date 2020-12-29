@@ -12,7 +12,7 @@ getMaxPaginationFromNobdd(){
 
 generatePaginationToNobddWebsite(){
 	maxPagNobdd=`getMaxPaginationFromNobdd`
-	echo {0..20..$maxPagNobdd} | 
+	echo {0..$maxPagNobdd..20} | 
 	tr ' ' '\n'
 }
 
