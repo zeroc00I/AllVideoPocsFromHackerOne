@@ -1,0 +1,120 @@
+Information Disclosure
+Cross-site Scripting (XSS) - Generic
+Violation of Secure Design Principles
+Improper Authentication - Generic
+Cross-site Scripting (XSS) - Stored
+Cross-Site Request Forgery (CSRF)
+Denial of Service
+Cross-site Scripting (XSS) - Reflected
+Privilege Escalation
+Memory Corruption - Generic
+Improper Access Control - Generic
+Open Redirect
+Code Injection
+SQL Injection
+Business Logic Errors
+Command Injection - Generic
+Insecure Direct Object Reference (IDOR)
+Server-Side Request Forgery (SSRF)
+Cryptographic Issues - Generic
+Path Traversal
+UI Redressing (Clickjacking)
+Cross-site Scripting (XSS) - DOM
+Brute Force
+Privacy Violation
+Buffer Over-read
+Use After Free
+OS Command Injection
+Heap Overflow
+NULL Pointer Dereference
+CRLF Injection
+Information Exposure Through an Error Message
+HTTP Request Smuggling
+Cleartext Storage of Sensitive Information
+Classic Buffer Overflow
+XML External Entities (XXE)
+Deserialization of Untrusted Data
+Out-of-bounds Read
+Phishing
+Improper Authorization
+Information Exposure Through Directory Listing
+Man-in-the-Middle
+Insufficient Session Expiration
+Insecure Storage of Sensitive Information
+Improper Input Validation
+Information Exposure Through Debug Information
+Stack Overflow
+Modification of Assumed-Immutable Data (MAID)
+Resource Injection
+Insufficiently Protected Credentials
+Improper Certificate Validation
+Cleartext Transmission of Sensitive Information
+Remote File Inclusion
+Misconfiguration
+HTTP Response Splitting
+Unrestricted Upload of File with Dangerous Type
+Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition')
+Authentication Bypass Using an Alternate Path or Channel
+Use of Hard-coded Credentials
+Session Fixation
+Client-Side Enforcement of Server-Side Security
+Weak Password Recovery Mechanism for Forgotten Password
+Weak Cryptography for Passwords
+Time-of-check Time-of-use (TOCTOU) Race Condition
+Improper Null Termination
+Forced Browsing
+Array Index Underflow
+Reliance on Untrusted Inputs in a Security Decision
+Reliance on Cookies without Validation and Integrity Checking in a Security Decision
+Plaintext Storage of a Password
+Integer Overflow
+File and Directory Information Exposure
+Externally Controlled Reference to a Resource in Another Sphere
+Incorrect Authorization
+Double Free
+Buffer Underflow
+Use of a Broken or Risky Cryptographic Algorithm
+Unverified Password Change
+Password in Configuration File
+Inadequate Encryption Strength
+Write-what-where Condition
+User Interface (UI) Misrepresentation of Critical Information
+Use of Cryptographically Weak Pseudo-Random Number Generator (PRNG)
+Use of a Key Past its Expiration Date
+Type Confusion
+Security Through Obscurity
+Missing Required Cryptographic Step
+Missing Encryption of Sensitive Data
+Missing Authentication for Critical Function
+Malware
+LDAP Injection
+Integer Underflow
+Information Exposure Through Sent Data
+Improper Privilege Management
+Allocation of Resources Without Limits or Throttling
+XML Entity Expansion
+Use of Inherently Dangerous Function
+Use of Hard-coded Cryptographic Key
+Off-by-one Error
+Missing Authorization
+Incorrect Calculation of Buffer Size
+Improper Neutralization of HTTP Headers for Scripting Syntax
+Improper Handling of Insufficient Permissions or Privileges
+Failure to Sanitize Special Elements into a Different Plane (Special Element Injection)
+Execution with Unnecessary Privileges
+Buffer Under-read
+XML Injection
+Use of Hard-coded Password
+Use of Externally-Controlled Format String
+Unprotected Transport of Credentials
+Reusing a Nonce, Key Pair in Encryption
+Reliance on Reverse DNS Resolution for a Security-Critical Action
+Key Exchange without Entity Authentication
+Insecure Temporary File
+Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS)
+Improper Neutralization of Escape, Meta, or Control Sequences
+Improper Handling of URL Encoding (Hex Encoding)
+Improper Export of Android Application Components
+Improper Check or Handling of Exceptional Conditions
+Exposed Dangerous Method or Function
+Embedded Malicious Code
