@@ -2,17 +2,25 @@
 
 
 helper(){
-	usage="Helping you finding keys and values into JSON \n$(basename "$0") [-h] [-s] [-k] -- 
-	\nwhere:
+	usage="Helping you finding keys and values into JSON \n\n$(basename "$0") [-h] [-s] [-k] [-r]  
+	\n\n[Commands]\n
 	\n-h  show this help text\n-s  search 'key' 'value' into JSON files
-	\n-k  list all keys available
-	\n e.g: ./script search weakness.name ssrf"
+	\n-s return all files with key and values defined [Output: filenames]
+	\n-r raw search [Output: Value from all JSON keys]
+	\n-k list all keys available
+	\n\n[e.g]\n ./script search weakness.name ssrf
+	\n ./script raw weakness.name"
 	echo -e $usage;
 	exit
 }
 
-
 rawSearch(){
+	find $(dirname $(pwd)) -name "*.json" |
+	xargs -P50 -I@ sh -c "gron "@" 2>&1 |
+	grep -Ei '$1 = .*$2.*'"
+}
+
+searchFiles(){
 	find $(dirname $(pwd)) -name "*.json" |
 	xargs -P50 -I@ sh -c "gron "@" 2>&1 |
 	grep -qEi '$1 = .*$2.*' && echo @"
@@ -20,10 +28,11 @@ rawSearch(){
 
 main(){
 	case "$1" in
-		search|-s) rawSearch "$2" "$3" ;;
+		search|-s) searchFiles "$2" "$3" ;;
+		raw|-r) rawSearch "$2" "$3" ;;
 		keys|-k) cat allKeys; exit ;;
 		help|-h) helper ;;
-		*) echo "Invalid Option. Type ./script help" ;;
+		*) helper;exit ;;
 	esac
 }
 
