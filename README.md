@@ -1,4 +1,4 @@
-# AllVideoPocsFromHackerOne
+# AllPocsFromHackerOne
 
 This script grabs public report from hacker one and download all JSON files to be grepable
 
