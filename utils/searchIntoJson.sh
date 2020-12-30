@@ -14,7 +14,7 @@ helper(){
 
 rawSearch(){
 	find $(dirname $(pwd)) -name "*.json" |
-	xargs -I@ sh -c "gron "@" 2>&1 |
+	xargs -P50 -I@ sh -c "gron "@" 2>&1 |
 	grep -qEi '$1 = .*$2.*' && echo @"
 }
 
