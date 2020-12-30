@@ -1,6 +1,7 @@
 # AllVideoPocsFromHackerOne
 
-This script grabs public report from hacker one and download all JSON files to be grepable 
+This script grabs public report from hacker one and download all JSON files to be grepable
+The main goal is make easy categorize vulns by technique
 
 # Tree
 ## jsonReports
