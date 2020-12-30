@@ -3,6 +3,11 @@
 This script grabs public report from hacker one and download all JSON files to be grepable
 The main goal is make easy categorize vulns by technique
 
+# Requirements
+## Gron
+```
+go get -u github.com/tomnomnom/gron
+```
 # Tree
 ## jsonReports
 All json files from disclosed reports from hackerone. Already downloaded.
