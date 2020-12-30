@@ -1,6 +1,6 @@
 # AllVideoPocsFromHackerOne
 
-This script grabs public report from hacker one and makes some folders with POC videos 
+This script grabs public report from hacker one and download all JSON files to be grepable 
 
 # Tree
 ## jsonReports
