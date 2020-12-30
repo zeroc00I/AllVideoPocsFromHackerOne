@@ -1,0 +1,120 @@
+   1000 Information Disclosure
+    907 Cross-site Scripting (XSS) - Generic
+    704 Violation of Secure Design Principles
+    600 Improper Authentication - Generic
+    411 Cross-site Scripting (XSS) - Stored
+    410 Cross-Site Request Forgery (CSRF)
+    353 Denial of Service
+    322 Cross-site Scripting (XSS) - Reflected
+    307 Privilege Escalation
+    307 Memory Corruption - Generic
+    286 Improper Access Control - Generic
+    258 Open Redirect
+    221 Code Injection
+    196 SQL Injection
+    191 Business Logic Errors
+    183 Command Injection - Generic
+    167 Insecure Direct Object Reference (IDOR)
+    164 Server-Side Request Forgery (SSRF)
+    163 Cryptographic Issues - Generic
+    129 Path Traversal
+    117 UI Redressing (Clickjacking)
+    115 Cross-site Scripting (XSS) - DOM
+     59 Brute Force
+     47 Privacy Violation
+     34 Buffer Over-read
+     31 Use After Free
+     31 OS Command Injection
+     31 Heap Overflow
+     30 NULL Pointer Dereference
+     30 CRLF Injection
+     29 Information Exposure Through an Error Message
+     28 HTTP Request Smuggling
+     28 Cleartext Storage of Sensitive Information
+     28 Classic Buffer Overflow
+     26 XML External Entities (XXE)
+     26 Deserialization of Untrusted Data
+     25 Out-of-bounds Read
+     24 Phishing
+     24 Improper Authorization
+     23 Information Exposure Through Directory Listing
+     22 Man-in-the-Middle
+     21 Insufficient Session Expiration
+     21 Insecure Storage of Sensitive Information
+     20 Improper Input Validation
+     16 Information Exposure Through Debug Information
+     14 Stack Overflow
+     14 Modification of Assumed-Immutable Data (MAID)
+     13 Resource Injection
+     13 Insufficiently Protected Credentials
+     13 Improper Certificate Validation
+     13 Cleartext Transmission of Sensitive Information
+     11 Remote File Inclusion
+     11 Misconfiguration
+     11 HTTP Response Splitting
+     10 Unrestricted Upload of File with Dangerous Type
+      9 Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition')
+      9 Authentication Bypass Using an Alternate Path or Channel
+      8 Use of Hard-coded Credentials
+      8 Session Fixation
+      8 Client-Side Enforcement of Server-Side Security
+      7 Weak Password Recovery Mechanism for Forgotten Password
+      7 Weak Cryptography for Passwords
+      7 Time-of-check Time-of-use (TOCTOU) Race Condition
+      7 Improper Null Termination
+      7 Forced Browsing
+      7 Array Index Underflow
+      6 Reliance on Untrusted Inputs in a Security Decision
+      6 Reliance on Cookies without Validation and Integrity Checking in a Security Decision
+      6 Plaintext Storage of a Password
+      6 Integer Overflow
+      6 File and Directory Information Exposure
+      6 Externally Controlled Reference to a Resource in Another Sphere
+      5 Incorrect Authorization
+      5 Double Free
+      5 Buffer Underflow
+      4 Use of a Broken or Risky Cryptographic Algorithm
+      4 Unverified Password Change
+      4 Password in Configuration File
+      4 Inadequate Encryption Strength
+      3 Write-what-where Condition
+      3 User Interface (UI) Misrepresentation of Critical Information
+      3 Use of Cryptographically Weak Pseudo-Random Number Generator (PRNG)
+      3 Use of a Key Past its Expiration Date
+      3 Type Confusion
+      3 Security Through Obscurity
+      3 Missing Required Cryptographic Step
+      3 Missing Encryption of Sensitive Data
+      3 Missing Authentication for Critical Function
+      3 Malware
+      3 LDAP Injection
+      3 Integer Underflow
+      3 Information Exposure Through Sent Data
+      3 Improper Privilege Management
+      3 Allocation of Resources Without Limits or Throttling
+      2 XML Entity Expansion
+      2 Use of Inherently Dangerous Function
+      2 Use of Hard-coded Cryptographic Key
+      2 Off-by-one Error
+      2 Missing Authorization
+      2 Incorrect Calculation of Buffer Size
+      2 Improper Neutralization of HTTP Headers for Scripting Syntax
+      2 Improper Handling of Insufficient Permissions or Privileges
+      2 Failure to Sanitize Special Elements into a Different Plane (Special Element Injection)
+      2 Execution with Unnecessary Privileges
+      2 Buffer Under-read
+      1 XML Injection
+      1 Use of Hard-coded Password
+      1 Use of Externally-Controlled Format String
+      1 Unprotected Transport of Credentials
+      1 Reusing a Nonce, Key Pair in Encryption
+      1 Reliance on Reverse DNS Resolution for a Security-Critical Action
+      1 Key Exchange without Entity Authentication
+      1 Insecure Temporary File
+      1 Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS)
+      1 Improper Neutralization of Escape, Meta, or Control Sequences
+      1 Improper Handling of URL Encoding (Hex Encoding)
+      1 Improper Export of Android Application Components
+      1 Improper Check or Handling of Exceptional Conditions
+      1 Exposed Dangerous Method or Function
+      1 Embedded Malicious Code
