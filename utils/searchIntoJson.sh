@@ -4,8 +4,9 @@
 helper(){
 	usage="Helping you finding keys and values into JSON \n\n$(basename "$0") [-h] [-s] [-k] [-r]  
 	\n\n[Commands]\n
-	\n-h  show this help text\n-s  search 'key' 'value' into JSON files
-	\n-s return all files with key and values defined [Output: filenames]
+	\n-h  show this help text
+	\n-s search 'key' 'value' into JSON files 
+	\n and return all files that match [Output: filenames]
 	\n-r raw search [Output: Value from all JSON keys]
 	\n-k list all keys available
 	\n\n[e.g]\n ./script search weakness.name ssrf
