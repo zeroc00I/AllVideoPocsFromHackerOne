@@ -1,49 +1,70 @@
-# Title
-[Android org.torproject.android] Possible to force list of bridges
-# URL 
-https://hackerone.com/reports/252626
-# Reporter 
-bagipro
-
-# Title
+### Title
 Potential server misconfiguration leads to disclosure of vendor/ directory
-# URL 
+#### URL 
 https://hackerone.com/reports/271391
-# Reporter 
+#### Reporter 
 h4ckninja
 
-# Title
-200 http code in 403 forbidden directories on main Ubnt.com domain
-# URL 
-https://hackerone.com/reports/220150
-# Reporter 
-alykode
+---
 
-# Title
+
+### Title
+[Android org.torproject.android] Possible to force list of bridges
+#### URL 
+https://hackerone.com/reports/252626
+#### Reporter 
+bagipro
+
+---
+
+
+### Title
 403 Forbidden Bypass at www.██████.mil
-# URL 
+#### URL 
 https://hackerone.com/reports/991717
-# Reporter 
+#### Reporter 
 soldawn
 
-# Title
+---
+
+
+### Title
+200 http code in 403 forbidden directories on main Ubnt.com domain
+#### URL 
+https://hackerone.com/reports/220150
+#### Reporter 
+alykode
+
+---
+
+
+### Title
 View HackerOne challenge scope before challenge begins
-# URL 
+#### URL 
 https://hackerone.com/reports/565736
-# Reporter 
+#### Reporter 
 neema
 
-# Title
+---
+
+
+### Title
+Wrong link on corne.maximum.nl
+#### URL 
+https://hackerone.com/reports/643446
+#### Reporter 
+sicarius
+
+---
+
+
+### Title
 Direct URL access to PDF files
-# URL 
+#### URL 
 https://hackerone.com/reports/263780
-# Reporter 
+#### Reporter 
 ramakanthk35
 
-# Title
-Wrong link on corne.maximum.nl
-# URL 
-https://hackerone.com/reports/643446
-# Reporter 
-sicarius
+---
+
 

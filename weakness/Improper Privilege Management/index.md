@@ -1,21 +1,30 @@
-# Title
-Re-Sharing allows increase of privileges
-# URL 
-https://hackerone.com/reports/889243
-# Reporter 
-alx_il
-
-# Title
+### Title
 [H1-2006 2020] Exploiting multiple vulnerabilities to get hacker's payment ensured
-# URL 
+#### URL 
 https://hackerone.com/reports/894949
-# Reporter 
+#### Reporter 
 hecsv17
 
-# Title
+---
+
+
+### Title
 Unauthenticated access to sensitive user information
-# URL 
+#### URL 
 https://hackerone.com/reports/702677
-# Reporter 
+#### Reporter 
 smalien
+
+---
+
+
+### Title
+Re-Sharing allows increase of privileges
+#### URL 
+https://hackerone.com/reports/889243
+#### Reporter 
+alx_il
+
+---
+
 

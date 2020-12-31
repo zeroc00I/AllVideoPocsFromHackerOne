@@ -1,14 +1,20 @@
-# Title
+### Title
 Missing authorization allows sales only user to record payment.
-# URL 
+#### URL 
 https://hackerone.com/reports/919008
-# Reporter 
+#### Reporter 
 vapour
 
-# Title
+---
+
+
+### Title
 Access token stealing.
-# URL 
+#### URL 
 https://hackerone.com/reports/821896
-# Reporter 
+#### Reporter 
 bugdiscloseguys
+
+---
+
 

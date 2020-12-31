@@ -1,28 +1,40 @@
-# Title
+### Title
 Monero wallet password change is confirmed when not matching
-# URL 
+#### URL 
 https://hackerone.com/reports/803028
-# Reporter 
+#### Reporter 
 consistent-dream
 
-# Title
+---
+
+
+### Title
 Password Change not notified when changed from settings
-# URL 
+#### URL 
 https://hackerone.com/reports/242846
-# Reporter 
+#### Reporter 
 karthik87mit
 
-# Title
+---
+
+
+### Title
 暴力破解用户密码没有速率控制
-# URL 
+#### URL 
 https://hackerone.com/reports/854424
-# Reporter 
+#### Reporter 
 1735096419
 
-# Title
+---
+
+
+### Title
 Information can be changed without a password
-# URL 
+#### URL 
 https://hackerone.com/reports/721341
-# Reporter 
+#### Reporter 
 jamesconnor
+
+---
+
 

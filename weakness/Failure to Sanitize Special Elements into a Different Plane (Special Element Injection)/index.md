@@ -1,14 +1,20 @@
-# Title
+### Title
 Profile bio at rockstar is accepting control characters
-# URL 
+#### URL 
 https://hackerone.com/reports/214763
-# Reporter 
+#### Reporter 
 exception
 
-# Title
+---
+
+
+### Title
 [api.zomato.com] Abusing LocalParams (city_id) to Inject SOLR query
-# URL 
+#### URL 
 https://hackerone.com/reports/953203
-# Reporter 
+#### Reporter 
 zzzhacker13
+
+---
+
 

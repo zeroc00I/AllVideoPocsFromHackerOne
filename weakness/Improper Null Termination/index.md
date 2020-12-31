@@ -1,49 +1,70 @@
-# Title
+### Title
+DirectoryIterator class silently truncates after a null byte
+#### URL 
+https://hackerone.com/reports/805013
+#### Reporter 
+ryat
+
+---
+
+
+### Title
 Null Byte Injection in all fields of Profile
-# URL 
+#### URL 
 https://hackerone.com/reports/255125
-# Reporter 
+#### Reporter 
 asaxena2190
 
-# Title
-DirectoryIterator class silently truncates after a null byte
-# URL 
-https://hackerone.com/reports/805013
-# Reporter 
-ryat
+---
 
-# Title
-PHP link() silently truncates after a null byte on Windows
-# URL 
-https://hackerone.com/reports/805010
-# Reporter 
-ryat
 
-# Title
-Unauthenticated user can upload an attachment to the last updated report draft
-# URL 
-https://hackerone.com/reports/419896
-# Reporter 
-jobert
-
-# Title
-Null byte Injection in https://████/
-# URL 
-https://hackerone.com/reports/709072
-# Reporter 
-mohammedadam24
-
-# Title
+### Title
 Cache poisoning using NULL bytes and long URLs
-# URL 
+#### URL 
 https://hackerone.com/reports/334709
-# Reporter 
+#### Reporter 
 irvinlim
 
-# Title
+---
+
+
+### Title
+Unauthenticated user can upload an attachment to the last updated report draft
+#### URL 
+https://hackerone.com/reports/419896
+#### Reporter 
+jobert
+
+---
+
+
+### Title
+PHP link() silently truncates after a null byte on Windows
+#### URL 
+https://hackerone.com/reports/805010
+#### Reporter 
+ryat
+
+---
+
+
+### Title
 Vulnerability in http-parser & embedded NULL header handling
-# URL 
+#### URL 
 https://hackerone.com/reports/536954
-# Reporter 
+#### Reporter 
 htuch
+
+---
+
+
+### Title
+Null byte Injection in https://████/
+#### URL 
+https://hackerone.com/reports/709072
+#### Reporter 
+mohammedadam24
+
+---
+
 

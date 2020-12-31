@@ -1,21 +1,30 @@
-# Title
-Cloudflare does not sufficiently truncate credit card numbers in invoices
-# URL 
-https://hackerone.com/reports/293276
-# Reporter 
-webster
+### Title
+Yarn transfers npm credentials over unencrypted http connection
+#### URL 
+https://hackerone.com/reports/640904
+#### Reporter 
+chalker
 
-# Title
+---
+
+
+### Title
 ChaCha20-Poly1305 with long nonces
-# URL 
+#### URL 
 https://hackerone.com/reports/506040
-# Reporter 
+#### Reporter 
 jorandirkgreef
 
-# Title
-Yarn transfers npm credentials over unencrypted http connection
-# URL 
-https://hackerone.com/reports/640904
-# Reporter 
-chalker
+---
+
+
+### Title
+Cloudflare does not sufficiently truncate credit card numbers in invoices
+#### URL 
+https://hackerone.com/reports/293276
+#### Reporter 
+webster
+
+---
+
 

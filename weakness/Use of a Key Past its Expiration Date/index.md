@@ -1,21 +1,30 @@
-# Title
+### Title
 Expired SSL certificate
-# URL 
+#### URL 
 https://hackerone.com/reports/220615
-# Reporter 
+#### Reporter 
 simongurney
 
-# Title
+---
+
+
+### Title
 In App purchase Hack 
-# URL 
+#### URL 
 https://hackerone.com/reports/218287
-# Reporter 
+#### Reporter 
 huntman
 
-# Title
+---
+
+
+### Title
 OAuth2 Access Token and App Password Security Vulnerability
-# URL 
+#### URL 
 https://hackerone.com/reports/343111
-# Reporter 
+#### Reporter 
 noumar
+
+---
+
 

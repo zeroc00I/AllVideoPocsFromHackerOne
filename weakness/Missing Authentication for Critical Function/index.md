@@ -1,21 +1,30 @@
-# Title
+### Title
 Token leak in security challenge flow allows retrieving victim's PayPal email and plain text password
-# URL 
+#### URL 
 https://hackerone.com/reports/739737
-# Reporter 
+#### Reporter 
 alexbirsan
 
-# Title
+---
+
+
+### Title
 [c-api.city-mobil.ru] Client authentication bypass leads to information disclosure
-# URL 
+#### URL 
 https://hackerone.com/reports/772118
-# Reporter 
+#### Reporter 
 act1on3
 
-# Title
+---
+
+
+### Title
 Administration page visible without authentication
-# URL 
+#### URL 
 https://hackerone.com/reports/809357
-# Reporter 
+#### Reporter 
 mrmj777
+
+---
+
 

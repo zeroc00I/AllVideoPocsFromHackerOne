@@ -1,70 +1,100 @@
-# Title
-Unrestricted File Upload on https://my.stripo.email and https://stripo.email
-# URL 
-https://hackerone.com/reports/823588
-# Reporter 
-doctor_spooky
-
-# Title
+### Title
 Unrestricted File Upload on https://app.dropcontact.io/app/upload/
-# URL 
+#### URL 
 https://hackerone.com/reports/949295
-# Reporter 
+#### Reporter 
 omarelfarsaoui
 
-# Title
+---
+
+
+### Title
 Unrestricted file upload when creating quotes allows for Stored XSS
-# URL 
+#### URL 
 https://hackerone.com/reports/788397
-# Reporter 
+#### Reporter 
 m0chan
 
-# Title
-Stored XSS on ████████helpdesk
-# URL 
-https://hackerone.com/reports/901799
-# Reporter 
-atbabers
+---
 
-# Title
-Tricking the "Create snippet" feature into displaying the wrong filetype can lead to RCE on Slack users
-# URL 
-https://hackerone.com/reports/833080
-# Reporter 
-mcsheehan
 
-# Title
+### Title
 Theme Assets uploader allows HTML content
-# URL 
+#### URL 
 https://hackerone.com/reports/769998
-# Reporter 
+#### Reporter 
 nightmare_msf
 
-# Title
+---
+
+
+### Title
+Stored XSS on ████████helpdesk
+#### URL 
+https://hackerone.com/reports/901799
+#### Reporter 
+atbabers
+
+---
+
+
+### Title
+Tricking the "Create snippet" feature into displaying the wrong filetype can lead to RCE on Slack users
+#### URL 
+https://hackerone.com/reports/833080
+#### Reporter 
+mcsheehan
+
+---
+
+
+### Title
+Unrestricted File Upload on https://my.stripo.email and https://stripo.email
+#### URL 
+https://hackerone.com/reports/823588
+#### Reporter 
+doctor_spooky
+
+---
+
+
+### Title
 Unrestricted File Upload Leads to XSS & Potential RCE
-# URL 
+#### URL 
 https://hackerone.com/reports/900179
-# Reporter 
+#### Reporter 
 pi_hunter50
 
-# Title
+---
+
+
+### Title
 Unrestricted File Upload on https://app.lemlist.com
-# URL 
+#### URL 
 https://hackerone.com/reports/722919
-# Reporter 
+#### Reporter 
 ctulhu
 
-# Title
+---
+
+
+### Title
 File upload vulnerability on a DoD website
-# URL 
+#### URL 
 https://hackerone.com/reports/191243
-# Reporter 
+#### Reporter 
 korprit
 
-# Title
+---
+
+
+### Title
 Unrestricted file upload leads to Stored XSS
-# URL 
+#### URL 
 https://hackerone.com/reports/808862
-# Reporter 
+#### Reporter 
 semsem123
+
+---
+
 

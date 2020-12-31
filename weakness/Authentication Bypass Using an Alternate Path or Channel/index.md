@@ -1,63 +1,90 @@
-# Title
+### Title
 Admin panel take over | User info leakage | Mass Comprimise
-# URL 
+#### URL 
 https://hackerone.com/reports/428757
-# Reporter 
+#### Reporter 
 bigchonk
 
-# Title
-Two-factor authentication (2FA) Bypass
-# URL 
-https://hackerone.com/reports/708303
-# Reporter 
-offensive-security
+---
 
-# Title
+
+### Title
 SDC bypass on calendar.mail.ru
-# URL 
+#### URL 
 https://hackerone.com/reports/1024029
-# Reporter 
+#### Reporter 
 chaosbolt
 
-# Title
+---
+
+
+### Title
 Compromise of auth via subset/superset namespace names.
-# URL 
+#### URL 
 https://hackerone.com/reports/778803
-# Reporter 
+#### Reporter 
 alex_orange
 
-# Title
+---
+
+
+### Title
 Access control bypass leads to domain information disclosure
-# URL 
+#### URL 
 https://hackerone.com/reports/630192
-# Reporter 
+#### Reporter 
 morax
 
-# Title
-Account verification bypass on translate.kromtech.com
-# URL 
-https://hackerone.com/reports/737334
-# Reporter 
-rumiljonov
+---
 
-# Title
+
+### Title
 Ability to bypass email verification for OAuth grants results in accounts takeovers on 3rd parties
-# URL 
+#### URL 
 https://hackerone.com/reports/922456
-# Reporter 
+#### Reporter 
 cache-money
 
-# Title
+---
+
+
+### Title
+Two-factor authentication (2FA) Bypass
+#### URL 
+https://hackerone.com/reports/708303
+#### Reporter 
+offensive-security
+
+---
+
+
+### Title
+Account verification bypass on translate.kromtech.com
+#### URL 
+https://hackerone.com/reports/737334
+#### Reporter 
+rumiljonov
+
+---
+
+
+### Title
+Slack server disclose h1 private issue report
+#### URL 
+https://hackerone.com/reports/1035976
+#### Reporter 
+jrckmcsb
+
+---
+
+
+### Title
 Bypass Too Many Requests Sign Up 
-# URL 
+#### URL 
 https://hackerone.com/reports/947349
-# Reporter 
+#### Reporter 
 34n3kjb4j3b4jh
 
-# Title
-Slack server disclose h1 private issue report
-# URL 
-https://hackerone.com/reports/1035976
-# Reporter 
-jrckmcsb
+---
+
 

@@ -1,42 +1,60 @@
-# Title
+### Title
 Open FTP server on a DoD system
-# URL 
+#### URL 
 https://hackerone.com/reports/192321
-# Reporter 
+#### Reporter 
 alyssa_herrera
 
-# Title
-Открытый .htaccess на cookery.zakazaka.ru
-# URL 
-https://hackerone.com/reports/596368
-# Reporter 
-xaleraf4ra
+---
 
-# Title
+
+### Title
 Internal Path Disclosure
-# URL 
+#### URL 
 https://hackerone.com/reports/979110
-# Reporter 
+#### Reporter 
 mr_vrush
 
-# Title
+---
+
+
+### Title
+Открытый .htaccess на cookery.zakazaka.ru
+#### URL 
+https://hackerone.com/reports/596368
+#### Reporter 
+xaleraf4ra
+
+---
+
+
+### Title
 LFI from bypassing image parser and faking HEAD response with redirection
-# URL 
+#### URL 
 https://hackerone.com/reports/998264
-# Reporter 
+#### Reporter 
 machinexa
 
-# Title
+---
+
+
+### Title
 Public and secret api key leaked via Solana BBP github repo
-# URL 
+#### URL 
 https://hackerone.com/reports/987084
-# Reporter 
+#### Reporter 
 kittytrace
 
-# Title
+---
+
+
+### Title
 LFI on Accounting server and RCE on FliteThermostat admin server
-# URL 
+#### URL 
 https://hackerone.com/reports/509080
-# Reporter 
+#### Reporter 
 stong
+
+---
+
 

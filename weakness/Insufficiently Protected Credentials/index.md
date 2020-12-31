@@ -1,105 +1,150 @@
-# Title
-Possible Subdomain Takeover
-# URL 
-https://hackerone.com/reports/233402
-# Reporter 
-z3t
-
-# Title
+### Title
 Admin Salt Leakage on DoD site.
-# URL 
+#### URL 
 https://hackerone.com/reports/241116
-# Reporter 
+#### Reporter 
 mr_r3boot
 
-# Title
+---
+
+
+### Title
+Possible Subdomain Takeover
+#### URL 
+https://hackerone.com/reports/233402
+#### Reporter 
+z3t
+
+---
+
+
+### Title
 Sensitive Information Leaking Through DARPA Website. [█████████]
-# URL 
+#### URL 
 https://hackerone.com/reports/805027
-# Reporter 
+#### Reporter 
 rootuser
 
-# Title
-Sensitive Information Leaking Through DoD Owned Website. [██████████]
-# URL 
-https://hackerone.com/reports/806213
-# Reporter 
-rootuser
+---
 
-# Title
+
+### Title
 Improper integrity protection of server-side encryption keys
-# URL 
+#### URL 
 https://hackerone.com/reports/732431
-# Reporter 
+#### Reporter 
 yahe
 
-# Title
-China - Leaked credentials permitted a limited ability to create Starbucks coupons and cards
-# URL 
-https://hackerone.com/reports/766770
-# Reporter 
-neweq
+---
 
-# Title
+
+### Title
 Partial password leak over DNS on HTTP redirect
-# URL 
+#### URL 
 https://hackerone.com/reports/874778
-# Reporter 
+#### Reporter 
 mszpl
 
-# Title
+---
+
+
+### Title
+China - Leaked credentials permitted a limited ability to create Starbucks coupons and cards
+#### URL 
+https://hackerone.com/reports/766770
+#### Reporter 
+neweq
+
+---
+
+
+### Title
+Sensitive Information Leaking Through DoD Owned Website. [██████████]
+#### URL 
+https://hackerone.com/reports/806213
+#### Reporter 
+rootuser
+
+---
+
+
+### Title
 Uninstalling Slack for Windows (64-bit), then reinstalling keeps you logged in without authentication
-# URL 
+#### URL 
 https://hackerone.com/reports/238260
-# Reporter 
+#### Reporter 
 pclinger
 
-# Title
-kubeadm logs tokens before deleting them
-# URL 
-https://hackerone.com/reports/972561
-# Reporter 
-mlevesquedion
+---
 
-# Title
+
+### Title
 Form Replay in customer information form
-# URL 
+#### URL 
 https://hackerone.com/reports/411620
-# Reporter 
+#### Reporter 
 imran_nazir
 
-# Title
-Improper confidentiality protection of server-side encryption keys
-# URL 
-https://hackerone.com/reports/743505
-# Reporter 
-yahe
+---
 
-# Title
+
+### Title
 h1-202 leaderboard photo discloses local wifi password 
-# URL 
+#### URL 
 https://hackerone.com/reports/329798
-# Reporter 
+#### Reporter 
 0x0g
 
-# Title
-“email” MFA mode allows bypassing MFA from victim’s device when the device trust is not expired
-# URL 
-https://hackerone.com/reports/665722
-# Reporter 
-l1nkworld
+---
 
-# Title
+
+### Title
+Improper confidentiality protection of server-side encryption keys
+#### URL 
+https://hackerone.com/reports/743505
+#### Reporter 
+yahe
+
+---
+
+
+### Title
+kubeadm logs tokens before deleting them
+#### URL 
+https://hackerone.com/reports/972561
+#### Reporter 
+mlevesquedion
+
+---
+
+
+### Title
 Account takeover intercepting magic link for Arrive app
-# URL 
+#### URL 
 https://hackerone.com/reports/855618
-# Reporter 
+#### Reporter 
 nsl182
 
-# Title
+---
+
+
+### Title
 Exposed FTP Credentials on ███████
-# URL 
+#### URL 
 https://hackerone.com/reports/235216
-# Reporter 
+#### Reporter 
 z3t
+
+---
+
+
+### Title
+“email” MFA mode allows bypassing MFA from victim’s device when the device trust is not expired
+#### URL 
+https://hackerone.com/reports/665722
+#### Reporter 
+l1nkworld
+
+---
+
 

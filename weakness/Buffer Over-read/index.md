@@ -1,252 +1,360 @@
-# Title
+### Title
 Heap-buffer-overflow in Perl__byte_dump_string (utf8.c) could lead to memory leak
-# URL 
+#### URL 
 https://hackerone.com/reports/480778
-# Reporter 
+#### Reporter 
 tmnt53
 
-# Title
+---
+
+
+### Title
+ CVE-2017-1000101: cURL: URL globbing out of bounds read
+#### URL 
+https://hackerone.com/reports/255587
+#### Reporter 
+geeknik
+
+---
+
+
+### Title
 Multiple buffer over reads in mbox_from_parse
-# URL 
+#### URL 
 https://hackerone.com/reports/836036
-# Reporter 
+#### Reporter 
 catenacyber
 
-# Title
+---
+
+
+### Title
 При передаче в ID сообщения нулевого байта, происходит вывод какого-то буфера.
-# URL 
+#### URL 
 https://hackerone.com/reports/255510
-# Reporter 
+#### Reporter 
 bytehope
 
-# Title
+---
+
+
+### Title
 ap_find_token() Buffer Overread
-# URL 
+#### URL 
 https://hackerone.com/reports/241610
-# Reporter 
+#### Reporter 
 javier_sensepost
 
-# Title
- CVE-2017-1000101: cURL: URL globbing out of bounds read
-# URL 
-https://hackerone.com/reports/255587
-# Reporter 
-geeknik
+---
 
-# Title
+
+### Title
 Out of bounds read in libcurl's IMAP FETCH response parser
-# URL 
+#### URL 
 https://hackerone.com/reports/278231
-# Reporter 
+#### Reporter 
 geeknik
 
-# Title
-CVE-2017-13009 The IPv6 mobility parser in tcpdump before 4.9.2 has a buffer over-read in print-mobility.c:mobility_print().
-# URL 
-https://hackerone.com/reports/268806
-# Reporter 
+---
+
+
+### Title
+CVE-2017-11367: Global buffer overflow (READ of size 4) in shoco C library 
+#### URL 
+https://hackerone.com/reports/250581
+#### Reporter 
 geeknik
 
-# Title
+---
+
+
+### Title
+PHP WDDX Deserialization Heap OOB Read in timelib_meridian()
+#### URL 
+https://hackerone.com/reports/248659
+#### Reporter 
+xixabangm4
+
+---
+
+
+### Title
 OOB read in php_strip_tags_ex
-# URL 
+#### URL 
 https://hackerone.com/reports/778834
-# Reporter 
+#### Reporter 
 raven42
 
-# Title
-CVE-2017-11367: Global buffer overflow (READ of size 4) in shoco C library 
-# URL 
-https://hackerone.com/reports/250581
-# Reporter 
+---
+
+
+### Title
+CVE-2017-13009 The IPv6 mobility parser in tcpdump before 4.9.2 has a buffer over-read in print-mobility.c:mobility_print().
+#### URL 
+https://hackerone.com/reports/268806
+#### Reporter 
 geeknik
 
-# Title
-PHP WDDX Deserialization Heap OOB Read in timelib_meridian()
-# URL 
-https://hackerone.com/reports/248659
-# Reporter 
-xixabangm4
+---
 
-# Title
-Out-of-bounds read in iconv.c:_php_iconv_mime_decode() due to integer overflow
-# URL 
-https://hackerone.com/reports/593229
-# Reporter 
-neural_x
 
-# Title
+### Title
 Pre-auth buffer over-read in Dovecot NTLM implementation
-# URL 
+#### URL 
 https://hackerone.com/reports/866597
-# Reporter 
+#### Reporter 
 orange
 
-# Title
-CVE-2017-13038 The PPP parser in tcpdump before 4.9.2 has a buffer over-read in print-ppp.c:handle_mlppp().
-# URL 
-https://hackerone.com/reports/268808
-# Reporter 
-geeknik
+---
 
-# Title
+
+### Title
+Out-of-bounds read in iconv.c:_php_iconv_mime_decode() due to integer overflow
+#### URL 
+https://hackerone.com/reports/593229
+#### Reporter 
+neural_x
+
+---
+
+
+### Title
 Out-Of-Bounds Read in timelib_meridian()
-# URL 
+#### URL 
 https://hackerone.com/reports/283644
-# Reporter 
+#### Reporter 
 xixabangm4
 
-# Title
-Out of Bounds Memory Read in unserialize()
-# URL 
-https://hackerone.com/reports/261336
-# Reporter 
-cy1337
+---
 
-# Title
-A specifically malformed MQTT Subscribe packet crashes MQTT Brokers using the mqtt-packet module for decoding  
-# URL 
-https://hackerone.com/reports/541354
-# Reporter 
-lxndr
 
-# Title
-CVE-2017-13010 The BEEP parser in tcpdump before 4.9.2 has a buffer over-read in print-beep.c:l_strnstart().
-# URL 
-https://hackerone.com/reports/268807
-# Reporter 
+### Title
+CVE-2017-13038 The PPP parser in tcpdump before 4.9.2 has a buffer over-read in print-ppp.c:handle_mlppp().
+#### URL 
+https://hackerone.com/reports/268808
+#### Reporter 
 geeknik
 
-# Title
+---
+
+
+### Title
 Invalid Read on exif_process_SOFn
-# URL 
+#### URL 
 https://hackerone.com/reports/510025
-# Reporter 
+#### Reporter 
 chamal
 
-# Title
+---
+
+
+### Title
+CVE-2017-13010 The BEEP parser in tcpdump before 4.9.2 has a buffer over-read in print-beep.c:l_strnstart().
+#### URL 
+https://hackerone.com/reports/268807
+#### Reporter 
+geeknik
+
+---
+
+
+### Title
+Out of Bounds Memory Read in unserialize()
+#### URL 
+https://hackerone.com/reports/261336
+#### Reporter 
+cy1337
+
+---
+
+
+### Title
 heap buffer overflow in phar_detect_phar_fname_ext
-# URL 
+#### URL 
 https://hackerone.com/reports/475499
-# Reporter 
+#### Reporter 
 chihuahua
 
-# Title
+---
+
+
+### Title
+A specifically malformed MQTT Subscribe packet crashes MQTT Brokers using the mqtt-packet module for decoding  
+#### URL 
+https://hackerone.com/reports/541354
+#### Reporter 
+lxndr
+
+---
+
+
+### Title
+CVE-2017-13008 The IEEE 802.11 parser in tcpdump before 4.9.2 has a buffer over-read in print-802_11.c:parse_elements().
+#### URL 
+https://hackerone.com/reports/268805
+#### Reporter 
+geeknik
+
+---
+
+
+### Title
 GarlicRust - heartbleed style vulnerability in major I2P C++ router implementations
-# URL 
+#### URL 
 https://hackerone.com/reports/295740
-# Reporter 
+#### Reporter 
 aerodudrizzt
 
-# Title
+---
+
+
+### Title
 Buffer over read from `smtp_command_parse_parameters`
-# URL 
+#### URL 
 https://hackerone.com/reports/900548
-# Reporter 
+#### Reporter 
 catenacyber
 
-# Title
-CVE-2017-13008 The IEEE 802.11 parser in tcpdump before 4.9.2 has a buffer over-read in print-802_11.c:parse_elements().
-# URL 
-https://hackerone.com/reports/268805
-# Reporter 
-geeknik
+---
 
-# Title
+
+### Title
+Buffer over-reads in i_stream_zlib_read
+#### URL 
+https://hackerone.com/reports/832227
+#### Reporter 
+catenacyber
+
+---
+
+
+### Title
 buffer overread in base64 code of the xmlrpc module
-# URL 
+#### URL 
 https://hackerone.com/reports/477897
-# Reporter 
+#### Reporter 
 hanno
 
-# Title
-Buffer over-reads in i_stream_zlib_read
-# URL 
-https://hackerone.com/reports/832227
-# Reporter 
-catenacyber
+---
 
-# Title
+
+### Title
 Security check failure or stack buffer overrun (crash)
-# URL 
+#### URL 
 https://hackerone.com/reports/481335
-# Reporter 
+#### Reporter 
 bi7s
 
-# Title
+---
+
+
+### Title
 Out of Bounds Memory Read in exif_scan_thumbnail
-# URL 
+#### URL 
 https://hackerone.com/reports/675578
-# Reporter 
+#### Reporter 
 sediruoksitsero
 
-# Title
+---
+
+
+### Title
+Out of Bounds Memory Read in exif_process_user_comment
+#### URL 
+https://hackerone.com/reports/675580
+#### Reporter 
+sediruoksitsero
+
+---
+
+
+### Title
 Heap Buffer Overflow (READ: 4) in phar_parse_pharfile
-# URL 
+#### URL 
 https://hackerone.com/reports/477344
-# Reporter 
+#### Reporter 
 cy1337
 
-# Title
-Out of Bounds Memory Read in exif_process_user_comment
-# URL 
-https://hackerone.com/reports/675580
-# Reporter 
-sediruoksitsero
+---
 
-# Title
+
+### Title
 CVE-2017-12985: The IPv6 parser in tcpdump before 4.9.2 has a buffer over-read in ip6_print()
-# URL 
+#### URL 
 https://hackerone.com/reports/268803
-# Reporter 
+#### Reporter 
 geeknik
 
-# Title
+---
+
+
+### Title
 Out of Bounds Memory Read in php_jpg_get16
-# URL 
+#### URL 
 https://hackerone.com/reports/665330
-# Reporter 
+#### Reporter 
 sediruoksitsero
 
-# Title
+---
+
+
+### Title
 Buffer out of bound read in miniupnpc xml parser 
-# URL 
+#### URL 
 https://hackerone.com/reports/340012
-# Reporter 
+#### Reporter 
 yukichen
 
-# Title
-apache access.log leakage via long request on https://rapida.ru/
-# URL 
-https://hackerone.com/reports/280912
-# Reporter 
-tsug0d
+---
 
-# Title
+
+### Title
 CVE-2017-12986 The IPv6 routing header parser in tcpdump before 4.9.2 has a buffer over-read in print-rt6.c:rt6_print().
-# URL 
+#### URL 
 https://hackerone.com/reports/268804
-# Reporter 
+#### Reporter 
 geeknik
 
-# Title
+---
+
+
+### Title
 Heap Buffer Overflow (READ: 1786) in exif_iif_add_value
-# URL 
+#### URL 
 https://hackerone.com/reports/344035
-# Reporter 
+#### Reporter 
 cy1337
 
-# Title
+---
+
+
+### Title
+Buffer overread in parse_angle_addr called from message_address_parse_path 
+#### URL 
+https://hackerone.com/reports/836045
+#### Reporter 
+catenacyber
+
+---
+
+
+### Title
+apache access.log leakage via long request on https://rapida.ru/
+#### URL 
+https://hackerone.com/reports/280912
+#### Reporter 
+tsug0d
+
+---
+
+
+### Title
 [bl] Uninitialized memory exposure via negative .consume()
-# URL 
+#### URL 
 https://hackerone.com/reports/966347
-# Reporter 
+#### Reporter 
 chalker
 
-# Title
-Buffer overread in parse_angle_addr called from message_address_parse_path 
-# URL 
-https://hackerone.com/reports/836045
-# Reporter 
-catenacyber
+---
+
 

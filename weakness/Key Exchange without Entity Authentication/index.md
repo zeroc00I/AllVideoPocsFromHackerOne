@@ -1,7 +1,10 @@
-# Title
+### Title
 Broken Authentication: A project addition request can be used multiple time for different users
-# URL 
+#### URL 
 https://hackerone.com/reports/319480
-# Reporter 
+#### Reporter 
 walterhwhite
+
+---
+
 

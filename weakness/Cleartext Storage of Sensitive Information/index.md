@@ -1,210 +1,300 @@
-# Title
+### Title
 Sensitive information is publicly available 
-# URL 
+#### URL 
 https://hackerone.com/reports/282475
-# Reporter 
+#### Reporter 
 romanshyadav
 
-# Title
-Gratipay rails secret token (secret_key_base) publicly exposed in GitHub
-# URL 
-https://hackerone.com/reports/262620
-# Reporter 
-sp4rrow
+---
 
-# Title
-Access to Employee calendar disclosing internal presentation and meetings
-# URL 
-https://hackerone.com/reports/489284
-# Reporter 
-commandersnuggle
 
-# Title
+### Title
 Insecure Storage and Overly Permissive  API Keys in Android App
-# URL 
+#### URL 
 https://hackerone.com/reports/753868
-# Reporter 
+#### Reporter 
 ticzox
 
-# Title
-Github Token Leaked publicly for https://github.com/mopub
-# URL 
-https://hackerone.com/reports/612231
-# Reporter 
-moro139
+---
 
-# Title
+
+### Title
+Gratipay rails secret token (secret_key_base) publicly exposed in GitHub
+#### URL 
+https://hackerone.com/reports/262620
+#### Reporter 
+sp4rrow
+
+---
+
+
+### Title
+Access to Employee calendar disclosing internal presentation and meetings
+#### URL 
+https://hackerone.com/reports/489284
+#### Reporter 
+commandersnuggle
+
+---
+
+
+### Title
 Private Key exposed in Travis Log can Compromise all the test servers.
-# URL 
+#### URL 
 https://hackerone.com/reports/638401
-# Reporter 
+#### Reporter 
 hayageek
 
-# Title
-Sensitive information about a ██████
-# URL 
-https://hackerone.com/reports/893970
-# Reporter 
-0x9747
+---
 
-# Title
+
+### Title
+Github Token Leaked publicly for https://github.com/mopub
+#### URL 
+https://hackerone.com/reports/612231
+#### Reporter 
+moro139
+
+---
+
+
+### Title
 Clear text storage of proxy parameters and passwords
-# URL 
+#### URL 
 https://hackerone.com/reports/685990
-# Reporter 
+#### Reporter 
 rbcafe
 
-# Title
+---
+
+
+### Title
+Sensitive information about a ██████
+#### URL 
+https://hackerone.com/reports/893970
+#### Reporter 
+0x9747
+
+---
+
+
+### Title
 Development Application Credentials + Information Exposed
-# URL 
+#### URL 
 https://hackerone.com/reports/1018413
-# Reporter 
+#### Reporter 
 kittytrace
 
-# Title
-Open Github Repo Leaking WEBLATE SECRET KEY
-# URL 
-https://hackerone.com/reports/942146
-# Reporter 
-nafisaqil
+---
 
-# Title
-twitter api access token leaked on github 
-# URL 
-https://hackerone.com/reports/361089
-# Reporter 
-sonahri_501
 
-# Title
-secret leaks in vsphere cloud controller manager log
-# URL 
-https://hackerone.com/reports/966383
-# Reporter 
-derek0405
-
-# Title
-Slack token leaking in stackoverflow and devtimes 
-# URL 
-https://hackerone.com/reports/448849
-# Reporter 
-streaak
-
-# Title
+### Title
 Brave Browser potentially logs the last time a Tor window was used
-# URL 
+#### URL 
 https://hackerone.com/reports/1024668
-# Reporter 
+#### Reporter 
 sickcodes
 
-# Title
-Non-revoked API Key Disclosure in a Disclosed API Key Disclosure Report on Stripo
-# URL 
-https://hackerone.com/reports/1047125
-# Reporter 
-binit
+---
 
-# Title
+
+### Title
+twitter api access token leaked on github 
+#### URL 
+https://hackerone.com/reports/361089
+#### Reporter 
+sonahri_501
+
+---
+
+
+### Title
+Open Github Repo Leaking WEBLATE SECRET KEY
+#### URL 
+https://hackerone.com/reports/942146
+#### Reporter 
+nafisaqil
+
+---
+
+
+### Title
+secret leaks in vsphere cloud controller manager log
+#### URL 
+https://hackerone.com/reports/966383
+#### Reporter 
+derek0405
+
+---
+
+
+### Title
 Directory Listing 
-# URL 
+#### URL 
 https://hackerone.com/reports/223384
-# Reporter 
+#### Reporter 
 red_horse
 
-# Title
+---
+
+
+### Title
 Public and secret api key leaked  in JavaScript source
-# URL 
+#### URL 
 https://hackerone.com/reports/983331
-# Reporter 
+#### Reporter 
 kittytrace
 
-# Title
-SSN is exposed on slides, previous critical report was not fixed in an appropriate way
-# URL 
-https://hackerone.com/reports/874017
-# Reporter 
-pvm
+---
 
-# Title
+
+### Title
 Sensitive Information Leaking Through Navy Website. [█████]
-# URL 
+#### URL 
 https://hackerone.com/reports/812585
-# Reporter 
+#### Reporter 
 rootuser
 
-# Title
-Production secret key leak in config/secrets.yml
-# URL 
-https://hackerone.com/reports/456997
-# Reporter 
-phreak
+---
 
-# Title
+
+### Title
+Non-revoked API Key Disclosure in a Disclosed API Key Disclosure Report on Stripo
+#### URL 
+https://hackerone.com/reports/1047125
+#### Reporter 
+binit
+
+---
+
+
+### Title
 AppLovin API Key hardcoded in a Github repo
-# URL 
+#### URL 
 https://hackerone.com/reports/674774
-# Reporter 
+#### Reporter 
 anshuman_pattnaik
 
-# Title
-Passwords being stored as plain text in logging
-# URL 
-https://hackerone.com/reports/469668
-# Reporter 
-xatom
+---
 
-# Title
-CVE-2019-11250 remains in effect.
-# URL 
-https://hackerone.com/reports/952771
-# Reporter 
-purelyapplied
 
-# Title
-PII/PHI data available on web https://████████Portals/22/Documents/Meetings
-# URL 
-https://hackerone.com/reports/877598
-# Reporter 
+### Title
+Slack token leaking in stackoverflow and devtimes 
+#### URL 
+https://hackerone.com/reports/448849
+#### Reporter 
+streaak
+
+---
+
+
+### Title
+Production secret key leak in config/secrets.yml
+#### URL 
+https://hackerone.com/reports/456997
+#### Reporter 
+phreak
+
+---
+
+
+### Title
+SSN is exposed on slides, previous critical report was not fixed in an appropriate way
+#### URL 
+https://hackerone.com/reports/874017
+#### Reporter 
 pvm
 
-# Title
+---
+
+
+### Title
+PII/PHI data available on web https://████████Portals/22/Documents/Meetings
+#### URL 
+https://hackerone.com/reports/877598
+#### Reporter 
+pvm
+
+---
+
+
+### Title
+CVE-2019-11250 remains in effect.
+#### URL 
+https://hackerone.com/reports/952771
+#### Reporter 
+purelyapplied
+
+---
+
+
+### Title
+Passwords being stored as plain text in logging
+#### URL 
+https://hackerone.com/reports/469668
+#### Reporter 
+xatom
+
+---
+
+
+### Title
 Cleartext Password returned in JSON response
-# URL 
+#### URL 
 https://hackerone.com/reports/215083
-# Reporter 
+#### Reporter 
 ryudox
 
-# Title
+---
+
+
+### Title
 Private RSA key and Server key exposed on the GitHub repository
-# URL 
+#### URL 
 https://hackerone.com/reports/876751
-# Reporter 
+#### Reporter 
 njaysec
 
-# Title
+---
+
+
+### Title
 Github Token Leaked publicly for https://github.sc-corp.net
-# URL 
+#### URL 
 https://hackerone.com/reports/396467
-# Reporter 
+#### Reporter 
 th3g3nt3lman
 
-# Title
+---
+
+
+### Title
 Invitation tokens leak to Google Analytics
-# URL 
+#### URL 
 https://hackerone.com/reports/237262
-# Reporter 
+#### Reporter 
 h33t
 
-# Title
+---
+
+
+### Title
+Slack Token exposed over internet (Github)
+#### URL 
+https://hackerone.com/reports/386614
+#### Reporter 
+sanjogpanda
+
+---
+
+
+### Title
 Stored XSS on Company Logo
-# URL 
+#### URL 
 https://hackerone.com/reports/808167
-# Reporter 
+#### Reporter 
 bugify12334
 
-# Title
-Slack Token exposed over internet (Github)
-# URL 
-https://hackerone.com/reports/386614
-# Reporter 
-sanjogpanda
+---
+
 

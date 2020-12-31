@@ -1,21 +1,30 @@
-# Title
+### Title
 [crypto-js] Insecure entropy source - Math.random()
-# URL 
+#### URL 
 https://hackerone.com/reports/678989
-# Reporter 
+#### Reporter 
 chalker
 
-# Title
+---
+
+
+### Title
+ Predictable Random Number Generator
+#### URL 
+https://hackerone.com/reports/504731
+#### Reporter 
+d4rkrai
+
+---
+
+
+### Title
 Grammarly Keyboard for Android "Authorization Code with PKCE" flow implementation vulnerability that allows account takeover
-# URL 
+#### URL 
 https://hackerone.com/reports/824931
-# Reporter 
+#### Reporter 
 tomtenisse
 
-# Title
- Predictable Random Number Generator
-# URL 
-https://hackerone.com/reports/504731
-# Reporter 
-d4rkrai
+---
+
 

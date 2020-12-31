@@ -1,7 +1,10 @@
-# Title
+### Title
 HTML injection in support.razer.com [IE only]
-# URL 
+#### URL 
 https://hackerone.com/reports/826463
-# Reporter 
+#### Reporter 
 f_m
+
+---
+
 

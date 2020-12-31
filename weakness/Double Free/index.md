@@ -1,35 +1,50 @@
-# Title
-Access Violation Reading EXPLOITABLE_0228
-# URL 
-https://hackerone.com/reports/503208
-# Reporter 
-biewuxz
-
-# Title
-krb5: double-free in read_data() after realloc() fail
-# URL 
-https://hackerone.com/reports/686823
-# Reporter 
-thomas_v
-
-# Title
+### Title
 Linux kernel: CVE-2017-6074: DCCP double-free vulnerability
-# URL 
+#### URL 
 https://hackerone.com/reports/347282
-# Reporter 
+#### Reporter 
 xairy
 
-# Title
+---
+
+
+### Title
+Access Violation Reading EXPLOITABLE_0228
+#### URL 
+https://hackerone.com/reports/503208
+#### Reporter 
+biewuxz
+
+---
+
+
+### Title
 Invalid write (or double free) triggers curl command line tool crash
-# URL 
+#### URL 
 https://hackerone.com/reports/875775
-# Reporter 
+#### Reporter 
 geeknik
 
-# Title
+---
+
+
+### Title
 SIGABRT - mirb - Double Free
-# URL 
+#### URL 
 https://hackerone.com/reports/214576
-# Reporter 
+#### Reporter 
 ston3
+
+---
+
+
+### Title
+krb5: double-free in read_data() after realloc() fail
+#### URL 
+https://hackerone.com/reports/686823
+#### Reporter 
+thomas_v
+
+---
+
 

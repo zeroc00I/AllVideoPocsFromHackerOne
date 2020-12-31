@@ -1,14 +1,20 @@
-# Title
+### Title
 first name and last name restrictions bypass
-# URL 
+#### URL 
 https://hackerone.com/reports/260468
-# Reporter 
+#### Reporter 
 flashdisk
 
-# Title
+---
+
+
+### Title
 An integer overflow found in /lib/urlapi.c
-# URL 
+#### URL 
 https://hackerone.com/reports/547630
-# Reporter 
+#### Reporter 
 1wc
+
+---
+
 

@@ -1,168 +1,240 @@
-# Title
-SSN leak due to editable slides
-# URL 
-https://hackerone.com/reports/693943
-# Reporter 
-alyssa_herrera
-
-# Title
+### Title
 Access Projects And create projects in gitlab pre production server
-# URL 
+#### URL 
 https://hackerone.com/reports/540711
-# Reporter 
+#### Reporter 
 uzsunnyz
 
-# Title
-PII Leak (such as CAC User ID) at https://████████/pages/login.aspx
-# URL 
-https://hackerone.com/reports/900137
-# Reporter 
-pi_hunter50
+---
 
-# Title
-Insecure Storage and Overly Permissive Google Maps API Key in Android App
-# URL 
-https://hackerone.com/reports/488371
-# Reporter 
-bitsscrambler
 
-# Title
+### Title
+SSN leak due to editable slides
+#### URL 
+https://hackerone.com/reports/693943
+#### Reporter 
+alyssa_herrera
+
+---
+
+
+### Title
 Web cache poisoning attack leads to user information and more
-# URL 
+#### URL 
 https://hackerone.com/reports/492841
-# Reporter 
+#### Reporter 
 davidalbert
 
-# Title
+---
+
+
+### Title
+PII Leak (such as CAC User ID) at https://████████/pages/login.aspx
+#### URL 
+https://hackerone.com/reports/900137
+#### Reporter 
+pi_hunter50
+
+---
+
+
+### Title
 Database read through provider misconfiguration
-# URL 
+#### URL 
 https://hackerone.com/reports/882475
-# Reporter 
+#### Reporter 
 kanytu
 
-# Title
+---
+
+
+### Title
 Public available Sensitive Information about drivers
-# URL 
+#### URL 
 https://hackerone.com/reports/756833
-# Reporter 
+#### Reporter 
 krupnikas
 
-# Title
+---
+
+
+### Title
+Insecure Storage and Overly Permissive Google Maps API Key in Android App
+#### URL 
+https://hackerone.com/reports/488371
+#### Reporter 
+bitsscrambler
+
+---
+
+
+### Title
 PulseSSL VPN Site with Compromised Creds @ ████
-# URL 
+#### URL 
 https://hackerone.com/reports/854049
-# Reporter 
+#### Reporter 
 r00tpgp
 
-# Title
+---
+
+
+### Title
 Leaking sensitive information lead to compromise employer API keys
-# URL 
+#### URL 
 https://hackerone.com/reports/273630
-# Reporter 
+#### Reporter 
 xsam
 
-# Title
-Chaining Bugs: Leakage of CSRF token which leads to Stored XSS and Account Takeover (xs1.tribalwars.cash)
-# URL 
-https://hackerone.com/reports/604120
-# Reporter 
-batee5a
+---
 
-# Title
+
+### Title
 Previously Compromised PulseSSL VPN Hosts
-# URL 
+#### URL 
 https://hackerone.com/reports/852713
-# Reporter 
+#### Reporter 
 r00tpgp
 
-# Title
+---
+
+
+### Title
+Chaining Bugs: Leakage of CSRF token which leads to Stored XSS and Account Takeover (xs1.tribalwars.cash)
+#### URL 
+https://hackerone.com/reports/604120
+#### Reporter 
+batee5a
+
+---
+
+
+### Title
 Логирование ответов запросов VK API в приложении Клевер
-# URL 
+#### URL 
 https://hackerone.com/reports/475177
-# Reporter 
+#### Reporter 
 norver
 
-# Title
+---
+
+
+### Title
 Online training material disclosing username and password
-# URL 
+#### URL 
 https://hackerone.com/reports/672629
-# Reporter 
+#### Reporter 
 scraps
 
-# Title
-PII leakage-Full SSN on ███
-# URL 
-https://hackerone.com/reports/644358
-# Reporter 
-alyssa_herrera
+---
 
-# Title
+
+### Title
 [h1-2006 2020]  Chained vulnerabilities lead to account takeover
-# URL 
+#### URL 
 https://hackerone.com/reports/895650
-# Reporter 
+#### Reporter 
 kanytu
 
-# Title
-██████████ bruteforceable RIC Codes allowing information on contracts 
-# URL 
-https://hackerone.com/reports/647409
-# Reporter 
+---
+
+
+### Title
+Private files exposed to other apps
+#### URL 
+https://hackerone.com/reports/838587
+#### Reporter 
+kanytu
+
+---
+
+
+### Title
+PII leakage-Full SSN on ███
+#### URL 
+https://hackerone.com/reports/644358
+#### Reporter 
 alyssa_herrera
 
-# Title
-Internal IP addresses range and AWS cluster region leaked in a Github repository 
-# URL 
-https://hackerone.com/reports/877303
-# Reporter 
-njaysec
+---
 
-# Title
+
+### Title
 Sensitive information exposure via git commit
-# URL 
+#### URL 
 https://hackerone.com/reports/902064
-# Reporter 
+#### Reporter 
 woj_ciech
 
-# Title
-Private files exposed to other apps
-# URL 
-https://hackerone.com/reports/838587
-# Reporter 
-kanytu
+---
 
-# Title
+
+### Title
+██████████ bruteforceable RIC Codes allowing information on contracts 
+#### URL 
+https://hackerone.com/reports/647409
+#### Reporter 
+alyssa_herrera
+
+---
+
+
+### Title
+Internal IP addresses range and AWS cluster region leaked in a Github repository 
+#### URL 
+https://hackerone.com/reports/877303
+#### Reporter 
+njaysec
+
+---
+
+
+### Title
+Publicly accessible Order confirmations leaking User Emails on ███
+#### URL 
+https://hackerone.com/reports/323992
+#### Reporter 
+alyssa_herrera
+
+---
+
+
+### Title
+Partial SSN exposed through Presentation slides on ██████████
+#### URL 
+https://hackerone.com/reports/665144
+#### Reporter 
+alyssa_herrera
+
+---
+
+
+### Title
+PII Leak via https://████████
+#### URL 
+https://hackerone.com/reports/808338
+#### Reporter 
+un4gi
+
+---
+
+
+### Title
 Insecure Logging - OWASP (2016-M2)
-# URL 
+#### URL 
 https://hackerone.com/reports/700624
-# Reporter 
+#### Reporter 
 iamsahana
 
-# Title
+---
+
+
+### Title
 Veracode and security audit record are publicly available
-# URL 
+#### URL 
 https://hackerone.com/reports/669365
-# Reporter 
+#### Reporter 
 laxe
 
-# Title
-Publicly accessible Order confirmations leaking User Emails on ███
-# URL 
-https://hackerone.com/reports/323992
-# Reporter 
-alyssa_herrera
+---
 
-# Title
-Partial SSN exposed through Presentation slides on ██████████
-# URL 
-https://hackerone.com/reports/665144
-# Reporter 
-alyssa_herrera
-
-# Title
-PII Leak via https://████████
-# URL 
-https://hackerone.com/reports/808338
-# Reporter 
-un4gi
 

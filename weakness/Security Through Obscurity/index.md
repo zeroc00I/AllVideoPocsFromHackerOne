@@ -1,21 +1,30 @@
-# Title
-All Burp Suite Scan report
-# URL 
-https://hackerone.com/reports/513172
-# Reporter 
-punitcingh
-
-# Title
+### Title
 Safe Redirect Bypass 
-# URL 
+#### URL 
 https://hackerone.com/reports/945990
-# Reporter 
+#### Reporter 
 cyanpiny
 
-# Title
+---
+
+
+### Title
 [h1-415 2020] H1-415 CTF Writeup by W--
-# URL 
+#### URL 
 https://hackerone.com/reports/780285
-# Reporter 
+#### Reporter 
 w--
+
+---
+
+
+### Title
+All Burp Suite Scan report
+#### URL 
+https://hackerone.com/reports/513172
+#### Reporter 
+punitcingh
+
+---
+
 

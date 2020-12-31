@@ -1,14 +1,20 @@
-# Title
+### Title
 URL Spoof / Brave Shield Bypass
-# URL 
+#### URL 
 https://hackerone.com/reports/255991
-# Reporter 
+#### Reporter 
 mattaustin
 
-# Title
+---
+
+
+### Title
 Blind SSRF on https://labs.data.gov/dashboard/Campaign/json_status/ Endpoint
-# URL 
+#### URL 
 https://hackerone.com/reports/895696
-# Reporter 
+#### Reporter 
 mariuszpoplawski
+
+---
+
 

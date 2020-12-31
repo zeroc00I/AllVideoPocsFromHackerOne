@@ -1,7 +1,10 @@
-# Title
+### Title
 Camo Image Proxy Bypass with CSS Escape Sequences
-# URL 
+#### URL 
 https://hackerone.com/reports/745953
-# Reporter 
+#### Reporter 
 zhutyra
+
+---
+
 

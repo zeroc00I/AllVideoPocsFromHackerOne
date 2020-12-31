@@ -1,21 +1,30 @@
-# Title
-OP_SCALL in LHS of a OP_ASGN resulting in arbitrary memory write
-# URL 
-https://hackerone.com/reports/226200
-# Reporter 
-avisaven
-
-# Title
+### Title
 Race condition на market.games.mail.ru
-# URL 
+#### URL 
 https://hackerone.com/reports/317557
-# Reporter 
+#### Reporter 
 diabllo
 
-# Title
+---
+
+
+### Title
 [steam client] Opening a specific steam:// url overwrites files at an arbitrary location
-# URL 
+#### URL 
 https://hackerone.com/reports/667242
-# Reporter 
+#### Reporter 
 kbeckmann
+
+---
+
+
+### Title
+OP_SCALL in LHS of a OP_ASGN resulting in arbitrary memory write
+#### URL 
+https://hackerone.com/reports/226200
+#### Reporter 
+avisaven
+
+---
+
 

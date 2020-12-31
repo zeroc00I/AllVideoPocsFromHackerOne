@@ -1,49 +1,70 @@
-# Title
+### Title
 Weak password 
-# URL 
+#### URL 
 https://hackerone.com/reports/267539
-# Reporter 
+#### Reporter 
 firestone
 
-# Title
-Setting a password with a single character
-# URL 
-https://hackerone.com/reports/223851
-# Reporter 
-footstep
+---
 
-# Title
+
+### Title
 Weak Cryptography for Passwords
-# URL 
+#### URL 
 https://hackerone.com/reports/260689
-# Reporter 
+#### Reporter 
 tejpratap
 
-# Title
+---
+
+
+### Title
 No password length restriction
-# URL 
+#### URL 
 https://hackerone.com/reports/258879
-# Reporter 
+#### Reporter 
 alirazzaq4
 
-# Title
+---
+
+
+### Title
 Null Password - Setting a new password doesn't check for empty spaces
-# URL 
+#### URL 
 https://hackerone.com/reports/223618
-# Reporter 
+#### Reporter 
 footstep
 
-# Title
+---
+
+
+### Title
 Unable to register in starbucks app
-# URL 
+#### URL 
 https://hackerone.com/reports/236276
-# Reporter 
+#### Reporter 
 ashishag29
 
-# Title
+---
+
+
+### Title
+Setting a password with a single character
+#### URL 
+https://hackerone.com/reports/223851
+#### Reporter 
+footstep
+
+---
+
+
+### Title
 Password complexity ignores empty spaces
-# URL 
+#### URL 
 https://hackerone.com/reports/250253
-# Reporter 
+#### Reporter 
 rpkumar
+
+---
+
 

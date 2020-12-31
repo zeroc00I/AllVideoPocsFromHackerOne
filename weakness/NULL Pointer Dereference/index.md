@@ -1,210 +1,300 @@
-# Title
+### Title
 Null dereference or redundant null check in `mail_crypt_load_global_private_key` for plugin mail-crypt
-# URL 
+#### URL 
 https://hackerone.com/reports/908894
-# Reporter 
+#### Reporter 
 catenacyber
 
-# Title
+---
+
+
+### Title
 Null dereference in `cmd_denotify_operation_execute`
-# URL 
+#### URL 
 https://hackerone.com/reports/965881
-# Reporter 
+#### Reporter 
 catenacyber
 
-# Title
+---
+
+
+### Title
+NULL pointer dereference in `mrb_check_frozen`
+#### URL 
+https://hackerone.com/reports/621308
+#### Reporter 
+dgaletic
+
+---
+
+
+### Title
+Null pointer dereference in mrb_class
+#### URL 
+https://hackerone.com/reports/215891
+#### Reporter 
+dgaletic
+
+---
+
+
+### Title
 NULL Pointer Dereference while unserialize php object
-# URL 
+#### URL 
 https://hackerone.com/reports/195688
-# Reporter 
+#### Reporter 
 hoangnguyen
 
-# Title
-NULL pointer dereference in `mrb_check_frozen`
-# URL 
-https://hackerone.com/reports/621308
-# Reporter 
-dgaletic
+---
 
-# Title
+
+### Title
 SIGSEGV in mrb_str_inum
-# URL 
+#### URL 
 https://hackerone.com/reports/217083
-# Reporter 
+#### Reporter 
 ston3
 
-# Title
-Null pointer dereference in mrb_class
-# URL 
-https://hackerone.com/reports/215891
-# Reporter 
-dgaletic
+---
 
-# Title
+
+### Title
 null pointer dereference in Sass::Eval::operator()(Sass::Map*)
-# URL 
+#### URL 
 https://hackerone.com/reports/221287
-# Reporter 
+#### Reporter 
 geeknik
 
-# Title
-Missing (or redundant) null check in `dcrypt_openssl_sign`
-# URL 
-https://hackerone.com/reports/883606
-# Reporter 
-catenacyber
+---
 
-# Title
-Null pointer deference in call to `mail_get_flags`
-# URL 
-https://hackerone.com/reports/891080
-# Reporter 
-catenacyber
 
-# Title
+### Title
 null dereference in `sieve_address_do_validate` (or redundant null check)
-# URL 
+#### URL 
 https://hackerone.com/reports/891069
-# Reporter 
+#### Reporter 
 catenacyber
 
-# Title
+---
+
+
+### Title
+Missing (or redundant) null check in `dcrypt_openssl_sign`
+#### URL 
+https://hackerone.com/reports/883606
+#### Reporter 
+catenacyber
+
+---
+
+
+### Title
+Null pointer deference in call to `mail_get_flags`
+#### URL 
+https://hackerone.com/reports/891080
+#### Reporter 
+catenacyber
+
+---
+
+
+### Title
 CVE-2017-5969: libxml2 when used in recover mode, allows remote attackers to cause a denial of service (NULL pointer dereference)
-# URL 
+#### URL 
 https://hackerone.com/reports/262665
-# Reporter 
+#### Reporter 
 geeknik
 
-# Title
+---
+
+
+### Title
  Null pointer dereference in SMTP server function smtp_command_parse_data_with_size
-# URL 
+#### URL 
 https://hackerone.com/reports/831290
-# Reporter 
+#### Reporter 
 catenacyber
 
-# Title
-SIGSEGV in mrb_class
-# URL 
-https://hackerone.com/reports/215447
-# Reporter 
-ston3
+---
 
-# Title
-SIGSEGV in mrb_vm_exec
-# URL 
-https://hackerone.com/reports/217097
-# Reporter 
-ston3
 
-# Title
+### Title
 SIGSEGV in mrb_vm_exec
-# URL 
+#### URL 
 https://hackerone.com/reports/214845
-# Reporter 
+#### Reporter 
 ston3
 
-# Title
-Inappropriately parsing HTTP response leads to PHP segment fault!
-# URL 
-https://hackerone.com/reports/305973
-# Reporter 
-orange
+---
 
-# Title
+
+### Title
+SIGSEGV in mrb_class
+#### URL 
+https://hackerone.com/reports/215447
+#### Reporter 
+ston3
+
+---
+
+
+### Title
 Null pointer dereference in SMTP server function smtp_string_parse
-# URL 
+#### URL 
 https://hackerone.com/reports/827729
-# Reporter 
+#### Reporter 
 catenacyber
 
-# Title
+---
+
+
+### Title
+SIGSEGV in mrb_vm_exec
+#### URL 
+https://hackerone.com/reports/217097
+#### Reporter 
+ston3
+
+---
+
+
+### Title
 Information disclosure vulnerability on a DoD website
-# URL 
+#### URL 
 https://hackerone.com/reports/217747
-# Reporter 
+#### Reporter 
 tcpiplab
 
-# Title
+---
+
+
+### Title
+Inappropriately parsing HTTP response leads to PHP segment fault!
+#### URL 
+https://hackerone.com/reports/305973
+#### Reporter 
+orange
+
+---
+
+
+### Title
 Null dereference in mcht_relational_validate ext-relational-common.c:136
-# URL 
+#### URL 
 https://hackerone.com/reports/894446
-# Reporter 
+#### Reporter 
 catenacyber
 
-# Title
+---
+
+
+### Title
 csi-snapshot-controller crashes when processing VolumeSnapshot with non-existing PVC
-# URL 
+#### URL 
 https://hackerone.com/reports/1032086
-# Reporter 
+#### Reporter 
 piqin
 
-# Title
+---
+
+
+### Title
 Crash in mrb_ary_push
-# URL 
+#### URL 
 https://hackerone.com/reports/420115
-# Reporter 
+#### Reporter 
 dgaletic
 
-# Title
+---
+
+
+### Title
 Null Pointer Dereference in phar_create_or_parse_filename
-# URL 
+#### URL 
 https://hackerone.com/reports/584757
-# Reporter 
+#### Reporter 
 chihuahua
 
-# Title
+---
+
+
+### Title
+Null pointer dereference in ary_concat 
+#### URL 
+https://hackerone.com/reports/214681
+#### Reporter 
+dgaletic
+
+---
+
+
+### Title
+Null pointer dereference in OP_ENTER
+#### URL 
+https://hackerone.com/reports/218233
+#### Reporter 
+dgaletic
+
+---
+
+
+### Title
 A specifically designed sieve script can cause a DoS in lib-sieve during sieve script compilation via NULL pointer dereference
-# URL 
+#### URL 
 https://hackerone.com/reports/965774
-# Reporter 
+#### Reporter 
 rumata
 
-# Title
-Null pointer dereference in OP_ENTER
-# URL 
-https://hackerone.com/reports/218233
-# Reporter 
-dgaletic
+---
 
-# Title
-Null Pointer Dereference in PHP Session Upload Progress
-# URL 
-https://hackerone.com/reports/798744
-# Reporter 
-ryat
 
-# Title
-Null pointer dereference in ary_concat 
-# URL 
-https://hackerone.com/reports/214681
-# Reporter 
-dgaletic
-
-# Title
+### Title
 Null pointer dereference with send/method_missing
-# URL 
+#### URL 
 https://hackerone.com/reports/242354
-# Reporter 
+#### Reporter 
 titanous
 
-# Title
+---
+
+
+### Title
+CVE-2017-10965: Null pointer dereference in Irssi <1.0.4 
+#### URL 
+https://hackerone.com/reports/247027
+#### Reporter 
+geeknik
+
+---
+
+
+### Title
+Null Pointer Dereference in PHP Session Upload Progress
+#### URL 
+https://hackerone.com/reports/798744
+#### Reporter 
+ryat
+
+---
+
+
+### Title
 Denial of Service: nghttp2 use of uninitialized pointer
-# URL 
+#### URL 
 https://hackerone.com/reports/335608
-# Reporter 
+#### Reporter 
 jasnell
 
-# Title
-CVE-2017-10965: Null pointer dereference in Irssi <1.0.4 
-# URL 
-https://hackerone.com/reports/247027
-# Reporter 
+---
+
+
+### Title
+null pointer dereference and segfault in tile-count-merge
+#### URL 
+https://hackerone.com/reports/245221
+#### Reporter 
 geeknik
 
-# Title
-null pointer dereference and segfault in tile-count-merge
-# URL 
-https://hackerone.com/reports/245221
-# Reporter 
-geeknik
+---
+
 

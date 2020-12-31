@@ -1,7 +1,10 @@
-# Title
+### Title
 SVG file upload leads to XML injection
-# URL 
+#### URL 
 https://hackerone.com/reports/845832
-# Reporter 
+#### Reporter 
 tushr
+
+---
+
 

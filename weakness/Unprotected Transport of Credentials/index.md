@@ -1,7 +1,10 @@
-# Title
+### Title
 Credientals Over GET method in plain Text
-# URL 
+#### URL 
 https://hackerone.com/reports/490899
-# Reporter 
+#### Reporter 
 d33van
+
+---
+
 

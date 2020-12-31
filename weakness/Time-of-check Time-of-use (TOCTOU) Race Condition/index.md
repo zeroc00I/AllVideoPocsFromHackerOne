@@ -1,49 +1,70 @@
-# Title
+### Title
 Ability to bypass partner email confirmation to take over any store given an employee email
-# URL 
+#### URL 
 https://hackerone.com/reports/300305
-# Reporter 
+#### Reporter 
 cache-money
 
-# Title
+---
+
+
+### Title
 Race condition in claiming program credentials 
-# URL 
+#### URL 
 https://hackerone.com/reports/488985
-# Reporter 
+#### Reporter 
 flashdisk
 
-# Title
-Race condition на покупке призов за баллы
-# URL 
-https://hackerone.com/reports/700833
-# Reporter 
-orlserg
+---
 
-# Title
+
+### Title
 Race Condition leads to undeletable group member
-# URL 
+#### URL 
 https://hackerone.com/reports/604534
-# Reporter 
+#### Reporter 
 yashrs
 
-# Title
+---
+
+
+### Title
+Race condition на покупке призов за баллы
+#### URL 
+https://hackerone.com/reports/700833
+#### Reporter 
+orlserg
+
+---
+
+
+### Title
 [pandao.ru] Возможность списания несуществующих бонусных баллов
-# URL 
+#### URL 
 https://hackerone.com/reports/484634
-# Reporter 
+#### Reporter 
 hudmi
 
-# Title
+---
+
+
+### Title
 Bypass subdomain limits using race condition
-# URL 
+#### URL 
 https://hackerone.com/reports/395351
-# Reporter 
+#### Reporter 
 encrypt
 
-# Title
+---
+
+
+### Title
 Race condition in activating email resulting in infinite amount of diamonds received
-# URL 
+#### URL 
 https://hackerone.com/reports/509629
-# Reporter 
+#### Reporter 
 batee5a
+
+---
+
 

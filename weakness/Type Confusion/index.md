@@ -1,21 +1,30 @@
-# Title
+### Title
 Type Confusion in Object Deserialization
-# URL 
+#### URL 
 https://hackerone.com/reports/198733
-# Reporter 
+#### Reporter 
 ryat
 
-# Title
+---
+
+
+### Title
 User provided values passed to PHP unset() function
-# URL 
+#### URL 
 https://hackerone.com/reports/292500
-# Reporter 
+#### Reporter 
 paulos_
 
-# Title
+---
+
+
+### Title
 Insufficient Type Check leading to Developer ability to delete Project, Repository, Group, ...
-# URL 
+#### URL 
 https://hackerone.com/reports/960244
-# Reporter 
+#### Reporter 
 ledz1996
+
+---
+
 

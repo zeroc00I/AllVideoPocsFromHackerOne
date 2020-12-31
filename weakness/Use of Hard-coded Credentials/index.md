@@ -1,56 +1,80 @@
-# Title
+### Title
 Hard coded Username and password in GiHub commit
-# URL 
+#### URL 
 https://hackerone.com/reports/877402
-# Reporter 
+#### Reporter 
 njaysec
 
-# Title
+---
+
+
+### Title
 [com.smule.autorap.*] Cloud Messaging/Push Notification service takeover due to clear-text usage of Legacy FCM Server keys in the client app 
-# URL 
+#### URL 
 https://hackerone.com/reports/789370
-# Reporter 
+#### Reporter 
 absshax
 
-# Title
-Hard Coded username and password in registry
-# URL 
-https://hackerone.com/reports/291200
-# Reporter 
-bluedangerforyou
+---
 
-# Title
-Important information leaked on Github
-# URL 
-https://hackerone.com/reports/649322
-# Reporter 
-mohanaddobal
 
-# Title
+### Title
 Hard-coded API keys at NordVpn Android App
-# URL 
+#### URL 
 https://hackerone.com/reports/792850
-# Reporter 
+#### Reporter 
 n33dm0n3y
 
-# Title
+---
+
+
+### Title
+Important information leaked on Github
+#### URL 
+https://hackerone.com/reports/649322
+#### Reporter 
+mohanaddobal
+
+---
+
+
+### Title
 API Keys Hardcoded in Github repository
-# URL 
+#### URL 
 https://hackerone.com/reports/766346
-# Reporter 
+#### Reporter 
 codermak
 
-# Title
+---
+
+
+### Title
+Hard Coded username and password in registry
+#### URL 
+https://hackerone.com/reports/291200
+#### Reporter 
+bluedangerforyou
+
+---
+
+
+### Title
+JumpCloud API Key leaked via Open Github Repository.
+#### URL 
+https://hackerone.com/reports/716292
+#### Reporter 
+vinothkumar
+
+---
+
+
+### Title
 [█████████] Hardcoded credentials in Android App
-# URL 
+#### URL 
 https://hackerone.com/reports/246995
-# Reporter 
+#### Reporter 
 gerben_javado
 
-# Title
-JumpCloud API Key leaked via Open Github Repository.
-# URL 
-https://hackerone.com/reports/716292
-# Reporter 
-vinothkumar
+---
+
 

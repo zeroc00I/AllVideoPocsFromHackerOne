@@ -1,28 +1,40 @@
-# Title
+### Title
 [cloudron-surfer] Denial of Service via LDAP Injection
-# URL 
+#### URL 
 https://hackerone.com/reports/906959
-# Reporter 
+#### Reporter 
 d3lla
 
-# Title
+---
+
+
+### Title
 [meemo-app] Denial of Service via LDAP Injection
-# URL 
+#### URL 
 https://hackerone.com/reports/907311
-# Reporter 
+#### Reporter 
 d3lla
 
-# Title
+---
+
+
+### Title
+Information disclosure on a DoD website
+#### URL 
+https://hackerone.com/reports/184076
+#### Reporter 
+tsug0d
+
+---
+
+
+### Title
 LDAP Injection at ██████
-# URL 
+#### URL 
 https://hackerone.com/reports/359290
-# Reporter 
+#### Reporter 
 tampe125
 
-# Title
-Information disclosure on a DoD website
-# URL 
-https://hackerone.com/reports/184076
-# Reporter 
-tsug0d
+---
+
 

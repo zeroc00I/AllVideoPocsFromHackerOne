@@ -1,7 +1,10 @@
-# Title
+### Title
 Format String Vulnerability in the EdgeSwitch restricted CLI
-# URL 
+#### URL 
 https://hackerone.com/reports/311884
-# Reporter 
+#### Reporter 
 maxpl0it
+
+---
+
 

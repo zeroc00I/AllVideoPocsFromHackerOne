@@ -1,14 +1,20 @@
-# Title
+### Title
+Exim off-by-one RCE vulnerability
+#### URL 
+https://hackerone.com/reports/322935
+#### Reporter 
+mehqq
+
+---
+
+
+### Title
 Subdomain Takeover due to unclaimed domain pointing to AWS
-# URL 
+#### URL 
 https://hackerone.com/reports/317005
-# Reporter 
+#### Reporter 
 zephrfish
 
-# Title
-Exim off-by-one RCE vulnerability
-# URL 
-https://hackerone.com/reports/322935
-# Reporter 
-mehqq
+---
+
 
