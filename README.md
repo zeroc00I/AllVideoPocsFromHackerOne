@@ -5,7 +5,7 @@ This script grabs public report from hacker one and download all JSON files to b
 
 The main goal is make easy categorize vulns by technique
 
-#### Do you have some suggest? 
+#### Would you have a suggestion? 
 Please open it on issues tab =)
 
 I would love hear from you.
