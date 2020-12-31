@@ -24,4 +24,4 @@ Script helping you finding keys and values into JSON
 Do your own jsonReports folder, downloading all disclosed reports from hackerone 
 
 Test
-https://github.com/bminossi/AllVideoPocsFromHackerOne/blob/main/weakness/Cross-site Scripting (XSS) - DOM/index.md
+https://github.com/bminossi/AllVideoPocsFromHackerOne/blob/main/weakness/Allocation%20of%20Resources%20Without%20Limits%20or%20Throttling/index.md
