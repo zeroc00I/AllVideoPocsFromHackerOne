@@ -2,8 +2,13 @@
 SSRF in Exchange leads to ROOT access in all instances
 #### URL 
 https://hackerone.com/reports/341876
+#### Severity score
+6.9
 #### Reporter 
 0xacb
+### Bounty paid
+$25,000
+
 
 ---
 
@@ -12,18 +17,13 @@ https://hackerone.com/reports/341876
 SSRF на https://target.my.com/
 #### URL 
 https://hackerone.com/reports/200224
+#### Severity score
+5.4
 #### Reporter 
 0x01alka
+### Bounty paid
+$800
 
----
-
-
-### Title
-Server Side Request Forgery (SSRF) vulnerability in a DoD website
-#### URL 
-https://hackerone.com/reports/189648
-#### Reporter 
-korprit
 
 ---
 
@@ -32,8 +32,28 @@ korprit
 SSRF in Export template to ActiveCampaign
 #### URL 
 https://hackerone.com/reports/754025
+#### Severity score
+null
 #### Reporter 
 c1kada
+### Bounty paid
+null
+
+
+---
+
+
+### Title
+Server Side Request Forgery (SSRF) vulnerability in a DoD website
+#### URL 
+https://hackerone.com/reports/189648
+#### Severity score
+null
+#### Reporter 
+korprit
+### Bounty paid
+null
+
 
 ---
 
@@ -42,18 +62,13 @@ c1kada
 Server Side Request Forgery on JSON Feed
 #### URL 
 https://hackerone.com/reports/280511
+#### Severity score
+null
 #### Reporter 
 mr_r3boot
+### Bounty paid
+null
 
----
-
-
-### Title
-TURN server allows TCP and UDP proxying to internal network, localhost and meta-data services
-#### URL 
-https://hackerone.com/reports/333419
-#### Reporter 
-sandrogauci
 
 ---
 
@@ -62,28 +77,28 @@ sandrogauci
 SSRF and local file disclosure by video upload on https://www.redtube.com/upload
 #### URL 
 https://hackerone.com/reports/570537
+#### Severity score
+null
 #### Reporter 
 tony_tsep
+### Bounty paid
+$500
+
 
 ---
 
 
 ### Title
-SSRF in ███████
+TURN server allows TCP and UDP proxying to internal network, localhost and meta-data services
 #### URL 
-https://hackerone.com/reports/207477
+https://hackerone.com/reports/333419
+#### Severity score
+null
 #### Reporter 
-akaki
+sandrogauci
+### Bounty paid
+$3,500
 
----
-
-
-### Title
-Attacker can send requests from mail.ru server
-#### URL 
-https://hackerone.com/reports/347850
-#### Reporter 
-aieti
 
 ---
 
@@ -92,38 +107,13 @@ aieti
 GitLab's GitHub integration is vulnerable to SSRF vulnerability
 #### URL 
 https://hackerone.com/reports/446593
+#### Severity score
+null
 #### Reporter 
 jobert
+### Bounty paid
+$2,000
 
----
-
-
-### Title
-SSRF in https://cards-dev.twitter.com/validator
-#### URL 
-https://hackerone.com/reports/178184
-#### Reporter 
-mindaugas
-
----
-
-
-### Title
-SSRF via webhook
-#### URL 
-https://hackerone.com/reports/243277
-#### Reporter 
-cablej
-
----
-
-
-### Title
-SSRF in Search.gov via ?url= parameter
-#### URL 
-https://hackerone.com/reports/514224
-#### Reporter 
-niwasaki
 
 ---
 
@@ -132,28 +122,73 @@ niwasaki
 SSRF - RSS feed, blacklist bypass (IP Formatting)
 #### URL 
 https://hackerone.com/reports/299130
+#### Severity score
+null
 #### Reporter 
 logan5
+### Bounty paid
+$850
+
 
 ---
 
 
 ### Title
-Potensial SSRF via Git repository URL 
+Attacker can send requests from mail.ru server
 #### URL 
-https://hackerone.com/reports/359288
+https://hackerone.com/reports/347850
+#### Severity score
+null
 #### Reporter 
-rootbakar___
+aieti
+### Bounty paid
+$800
+
 
 ---
 
 
 ### Title
-ssrf xspa [https://prt.mail.ru/] 2
+SSRF in https://cards-dev.twitter.com/validator
 #### URL 
-https://hackerone.com/reports/216533
+https://hackerone.com/reports/178184
+#### Severity score
+null
 #### Reporter 
-haxta4ok00
+mindaugas
+### Bounty paid
+$280
+
+
+---
+
+
+### Title
+SSRF via webhook
+#### URL 
+https://hackerone.com/reports/243277
+#### Severity score
+null
+#### Reporter 
+cablej
+### Bounty paid
+null
+
+
+---
+
+
+### Title
+SSRF in ███████
+#### URL 
+https://hackerone.com/reports/207477
+#### Severity score
+null
+#### Reporter 
+akaki
+### Bounty paid
+null
+
 
 ---
 
@@ -162,8 +197,13 @@ haxta4ok00
 [et.mail.ru] ssrf 2
 #### URL 
 https://hackerone.com/reports/258237
+#### Severity score
+null
 #### Reporter 
 haxta4ok00
+### Bounty paid
+$150
+
 
 ---
 
@@ -172,8 +212,58 @@ haxta4ok00
 [out-of-scope] toxiproxy: Lack of CSRF protection allows an attacker to gain access to internal Shopify network
 #### URL 
 https://hackerone.com/reports/236349
+#### Severity score
+null
 #### Reporter 
 bored-engineer
+### Bounty paid
+null
+
+
+---
+
+
+### Title
+SSRF in Search.gov via ?url= parameter
+#### URL 
+https://hackerone.com/reports/514224
+#### Severity score
+3.8
+#### Reporter 
+niwasaki
+### Bounty paid
+$150
+
+
+---
+
+
+### Title
+Potensial SSRF via Git repository URL 
+#### URL 
+https://hackerone.com/reports/359288
+#### Severity score
+null
+#### Reporter 
+rootbakar___
+### Bounty paid
+null
+
+
+---
+
+
+### Title
+ssrf xspa [https://prt.mail.ru/] 2
+#### URL 
+https://hackerone.com/reports/216533
+#### Severity score
+null
+#### Reporter 
+haxta4ok00
+### Bounty paid
+$150
+
 
 ---
 
@@ -182,18 +272,13 @@ bored-engineer
 SSRF via git Repo by URL Abuse
 #### URL 
 https://hackerone.com/reports/191216
+#### Severity score
+6.6
 #### Reporter 
 pwnisher
+### Bounty paid
+null
 
----
-
-
-### Title
-CRLF injection & SSRF in git:// protocal lead to arbitrary code execution
-#### URL 
-https://hackerone.com/reports/441090
-#### Reporter 
-chromium1337
 
 ---
 
@@ -202,8 +287,28 @@ chromium1337
 Blind SSRF in emblem editor (2)
 #### URL 
 https://hackerone.com/reports/265050
+#### Severity score
+null
 #### Reporter 
 alexbirsan
+### Bounty paid
+$1,500
+
+
+---
+
+
+### Title
+CRLF injection & SSRF in git:// protocal lead to arbitrary code execution
+#### URL 
+https://hackerone.com/reports/441090
+#### Severity score
+8.5
+#### Reporter 
+chromium1337
+### Bounty paid
+null
+
 
 ---
 
@@ -212,8 +317,13 @@ alexbirsan
 Additional bypass allows SSRF for internal netblocks
 #### URL 
 https://hackerone.com/reports/288950
+#### Severity score
+null
 #### Reporter 
 edoverflow
+### Bounty paid
+null
+
 
 ---
 
@@ -222,18 +332,13 @@ edoverflow
 Half-Blind SSRF found in kube/cloud-controller-manager can be upgraded to complete SSRF (fully crafted HTTP requests) in vendor managed k8s service.
 #### URL 
 https://hackerone.com/reports/776017
+#### Severity score
+8.8
 #### Reporter 
 reeverzax
+### Bounty paid
+$5,000
 
----
-
-
-### Title
-Open redirect bypass &  SSRF Security Vulnerability
-#### URL 
-https://hackerone.com/reports/771465
-#### Reporter 
-snwlol
 
 ---
 
@@ -242,8 +347,28 @@ snwlol
 [h1-2006 2020] Bounty payments are done !
 #### URL 
 https://hackerone.com/reports/895824
+#### Severity score
+null
 #### Reporter 
 louzogh
+### Bounty paid
+null
+
+
+---
+
+
+### Title
+Open redirect bypass &  SSRF Security Vulnerability
+#### URL 
+https://hackerone.com/reports/771465
+#### Severity score
+null
+#### Reporter 
+snwlol
+### Bounty paid
+null
+
 
 ---
 
@@ -252,8 +377,13 @@ louzogh
 Blind SSRF/XSPA on dashboard.lob.com + blind code injection
 #### URL 
 https://hackerone.com/reports/517461
+#### Severity score
+null
 #### Reporter 
 ninjajuju
+### Bounty paid
+null
+
 
 ---
 
@@ -262,8 +392,13 @@ ninjajuju
 Blind SSRF in /appsuite/api/oxodocumentfilter&action=addfile
 #### URL 
 https://hackerone.com/reports/865652
+#### Severity score
+5
 #### Reporter 
 skr0x1c0
+### Bounty paid
+$550
+
 
 ---
 
@@ -272,8 +407,13 @@ skr0x1c0
 SSRF thru File Replace
 #### URL 
 https://hackerone.com/reports/243865
+#### Severity score
+null
 #### Reporter 
 zuh4n
+### Bounty paid
+null
+
 
 ---
 
@@ -282,28 +422,13 @@ zuh4n
 SSRF and local file disclosure by video upload on https://www.tube8.com/
 #### URL 
 https://hackerone.com/reports/574133
+#### Severity score
+null
 #### Reporter 
 tony_tsep
+### Bounty paid
+$500
 
----
-
-
-### Title
-SSRF  leaking internal google cloud data through upload function [SSH Keys, etc..]
-#### URL 
-https://hackerone.com/reports/549882
-#### Reporter 
-dphoeniixx
-
----
-
-
-### Title
-Server-Side Request Forgery in "icons.bitwarden.net"
-#### URL 
-https://hackerone.com/reports/913276
-#### Reporter 
-njgadhiya
 
 ---
 
@@ -312,8 +437,43 @@ njgadhiya
 SSRF Possible through /wordpress/xmlrpc.php
 #### URL 
 https://hackerone.com/reports/1004847
+#### Severity score
+0
 #### Reporter 
 azzassin
+### Bounty paid
+null
+
+
+---
+
+
+### Title
+Server-Side Request Forgery in "icons.bitwarden.net"
+#### URL 
+https://hackerone.com/reports/913276
+#### Severity score
+null
+#### Reporter 
+njgadhiya
+### Bounty paid
+null
+
+
+---
+
+
+### Title
+SSRF  leaking internal google cloud data through upload function [SSH Keys, etc..]
+#### URL 
+https://hackerone.com/reports/549882
+#### Severity score
+9
+#### Reporter 
+dphoeniixx
+### Bounty paid
+$5,000
+
 
 ---
 
@@ -322,8 +482,13 @@ azzassin
 [SSRF] PDF documentconverterws
 #### URL 
 https://hackerone.com/reports/361793
+#### Severity score
+null
 #### Reporter 
 secator
+### Bounty paid
+$850
+
 
 ---
 
@@ -332,28 +497,13 @@ secator
 SSRF & LFR on city-mobil.ru
 #### URL 
 https://hackerone.com/reports/748128
+#### Severity score
+8.3
 #### Reporter 
 byq
+### Bounty paid
+$6,000
 
----
-
-
-### Title
-[Limited bypass of #793704] Blind SSRF in Ghost CMS
-#### URL 
-https://hackerone.com/reports/815084
-#### Reporter 
-ryotak
-
----
-
-
-### Title
-[H1-2006 2020] CTF Writeup
-#### URL 
-https://hackerone.com/reports/893305
-#### Reporter 
-leoastorga_g
 
 ---
 
@@ -362,8 +512,43 @@ leoastorga_g
 SSRF in CI after first run
 #### URL 
 https://hackerone.com/reports/369451
+#### Severity score
+null
 #### Reporter 
 plazmaz
+### Bounty paid
+$3,000
+
+
+---
+
+
+### Title
+[H1-2006 2020] CTF Writeup
+#### URL 
+https://hackerone.com/reports/893305
+#### Severity score
+null
+#### Reporter 
+leoastorga_g
+### Bounty paid
+null
+
+
+---
+
+
+### Title
+[Limited bypass of #793704] Blind SSRF in Ghost CMS
+#### URL 
+https://hackerone.com/reports/815084
+#### Severity score
+2.7
+#### Reporter 
+ryotak
+### Bounty paid
+null
+
 
 ---
 
@@ -372,48 +557,13 @@ plazmaz
 cURL / libcURL - CVE-2016-8624 invalid URL parsing with '#'
 #### URL 
 https://hackerone.com/reports/180434
+#### Severity score
+6.5
 #### Reporter 
 fms
+### Bounty paid
+$500
 
----
-
-
-### Title
-Potential SSRF in sales.mail.ru
-#### URL 
-https://hackerone.com/reports/97395
-#### Reporter 
-paresh_parmar
-
----
-
-
-### Title
-Bypass for blind SSRF #281950 and #287496
-#### URL 
-https://hackerone.com/reports/642675
-#### Reporter 
-7001
-
----
-
-
-### Title
-SSRF in webhooks leads to AWS private keys disclosure
-#### URL 
-https://hackerone.com/reports/508459
-#### Reporter 
-honoki
-
----
-
-
-### Title
-Blind SSRF on http://info.ucs.ru/settings/check/
-#### URL 
-https://hackerone.com/reports/901050
-#### Reporter 
-elmahdi
 
 ---
 
@@ -422,8 +572,73 @@ elmahdi
 [H1-415 2020] CTF Writeup
 #### URL 
 https://hackerone.com/reports/776634
+#### Severity score
+null
 #### Reporter 
 manoelt
+### Bounty paid
+$500
+
+
+---
+
+
+### Title
+Blind SSRF on http://info.ucs.ru/settings/check/
+#### URL 
+https://hackerone.com/reports/901050
+#### Severity score
+4.4
+#### Reporter 
+elmahdi
+### Bounty paid
+$250
+
+
+---
+
+
+### Title
+Potential SSRF in sales.mail.ru
+#### URL 
+https://hackerone.com/reports/97395
+#### Severity score
+5.9
+#### Reporter 
+paresh_parmar
+### Bounty paid
+$300
+
+
+---
+
+
+### Title
+Bypass for blind SSRF #281950 and #287496
+#### URL 
+https://hackerone.com/reports/642675
+#### Severity score
+null
+#### Reporter 
+7001
+### Bounty paid
+null
+
+
+---
+
+
+### Title
+SSRF in webhooks leads to AWS private keys disclosure
+#### URL 
+https://hackerone.com/reports/508459
+#### Severity score
+7.1
+#### Reporter 
+honoki
+### Bounty paid
+$700
+
 
 ---
 
@@ -432,28 +647,13 @@ manoelt
 SSRF in alerts.newrelic.com exposes entire internal network
 #### URL 
 https://hackerone.com/reports/198690
+#### Severity score
+null
 #### Reporter 
 albinowax
+### Bounty paid
+null
 
----
-
-
-### Title
-Blind SSRF due to img tag injection in career form
-#### URL 
-https://hackerone.com/reports/236301
-#### Reporter 
-encrypt
-
----
-
-
-### Title
-Internal SSRF bypass using slash commands at api.slack.com
-#### URL 
-https://hackerone.com/reports/356765
-#### Reporter 
-albatraoz
 
 ---
 
@@ -462,18 +662,28 @@ albatraoz
 [qiwi.me] No limits on image download requests
 #### URL 
 https://hackerone.com/reports/227806
+#### Severity score
+null
 #### Reporter 
 circuit
+### Bounty paid
+$100
+
 
 ---
 
 
 ### Title
-SSRF in api.slack.com, using slash commands and bypassing the protections.
+Blind SSRF due to img tag injection in career form
 #### URL 
-https://hackerone.com/reports/381129
+https://hackerone.com/reports/236301
+#### Severity score
+null
 #### Reporter 
-elber
+encrypt
+### Bounty paid
+null
+
 
 ---
 
@@ -482,18 +692,13 @@ elber
 https://████████ Impacted by DNN ImageHandler SSRF
 #### URL 
 https://hackerone.com/reports/482634
+#### Severity score
+null
 #### Reporter 
 warsong
+### Bounty paid
+null
 
----
-
-
-### Title
-Blind SSRF in magnum upgrade_params
-#### URL 
-https://hackerone.com/reports/907819
-#### Reporter 
-paul_axe
 
 ---
 
@@ -502,38 +707,43 @@ paul_axe
 Server Side Request Forgery in 'Jabber settings' in Admin Control Panel
 #### URL 
 https://hackerone.com/reports/1018568
+#### Severity score
+3.4
 #### Reporter 
 they
+### Bounty paid
+null
+
 
 ---
 
 
 ### Title
-Blind SSRF in horizon-heat
+Internal SSRF bypass using slash commands at api.slack.com
 #### URL 
-https://hackerone.com/reports/893856
+https://hackerone.com/reports/356765
+#### Severity score
+null
 #### Reporter 
-paul_axe
+albatraoz
+### Bounty paid
+$500
+
 
 ---
 
 
 ### Title
-Full Read SSRF on Gitlab's Internal Grafana
+SSRF in api.slack.com, using slash commands and bypassing the protections.
 #### URL 
-https://hackerone.com/reports/878779
+https://hackerone.com/reports/381129
+#### Severity score
+null
 #### Reporter 
-rhynorater
+elber
+### Bounty paid
+$500
 
----
-
-
-### Title
-SSRF on music.line.me through getXML.php
-#### URL 
-https://hackerone.com/reports/746024
-#### Reporter 
-hahwul
 
 ---
 
@@ -542,18 +752,43 @@ hahwul
 SSRF leads to internal port scan
 #### URL 
 https://hackerone.com/reports/764517
+#### Severity score
+null
 #### Reporter 
 theoriginal
+### Bounty paid
+null
+
 
 ---
 
 
 ### Title
-Unsecured Kibana/Elasticsearch instance
+Blind SSRF in magnum upgrade_params
 #### URL 
-https://hackerone.com/reports/188482
+https://hackerone.com/reports/907819
+#### Severity score
+null
 #### Reporter 
-cyber-guard
+paul_axe
+### Bounty paid
+$2,500
+
+
+---
+
+
+### Title
+Blind SSRF in horizon-heat
+#### URL 
+https://hackerone.com/reports/893856
+#### Severity score
+null
+#### Reporter 
+paul_axe
+### Bounty paid
+$2,500
+
 
 ---
 
@@ -562,8 +797,43 @@ cyber-guard
 Blind SSRF at https://chaturbate.com/notifications/update_push/
 #### URL 
 https://hackerone.com/reports/411865
+#### Severity score
+null
 #### Reporter 
 robin0oklay
+### Bounty paid
+$1,250
+
+
+---
+
+
+### Title
+SSRF on music.line.me through getXML.php
+#### URL 
+https://hackerone.com/reports/746024
+#### Severity score
+null
+#### Reporter 
+hahwul
+### Bounty paid
+$4,500
+
+
+---
+
+
+### Title
+Full Read SSRF on Gitlab's Internal Grafana
+#### URL 
+https://hackerone.com/reports/878779
+#### Severity score
+null
+#### Reporter 
+rhynorater
+### Bounty paid
+$12,000
+
 
 ---
 
@@ -572,38 +842,28 @@ robin0oklay
 [h1-2006 2020] CTF Walkthrough
 #### URL 
 https://hackerone.com/reports/895780
+#### Severity score
+null
 #### Reporter 
 meraxes
+### Bounty paid
+null
+
 
 ---
 
 
 ### Title
-SSRF in https://www.zomato.com████ allows reading local files and website source code
+Unsecured Kibana/Elasticsearch instance
 #### URL 
-https://hackerone.com/reports/271224
+https://hackerone.com/reports/188482
+#### Severity score
+null
 #### Reporter 
-adibou
+cyber-guard
+### Bounty paid
+$750
 
----
-
-
-### Title
-SSRF in /cabinet/stripeapi/v1/siteInfoLookup?url=XXX
-#### URL 
-https://hackerone.com/reports/738553
-#### Reporter 
-eliel
-
----
-
-
-### Title
-SSRF on fleet.city-mobil.ru leads to local file read
-#### URL 
-https://hackerone.com/reports/748069
-#### Reporter 
-byq
 
 ---
 
@@ -612,28 +872,58 @@ byq
 Internal Ports Scanning via Blind SSRF  (URL Redirection to beat filter)
 #### URL 
 https://hackerone.com/reports/287496
+#### Severity score
+null
 #### Reporter 
 spicyturtle
+### Bounty paid
+null
+
 
 ---
 
 
 ### Title
-SSRF - Guard - Unchecked WKS servers
+SSRF in https://www.zomato.com████ allows reading local files and website source code
 #### URL 
-https://hackerone.com/reports/792960
+https://hackerone.com/reports/271224
+#### Severity score
+9.8
 #### Reporter 
-zhutyra
+adibou
+### Bounty paid
+$1,000
+
 
 ---
 
 
 ### Title
-SSRF at ideas.starbucks.com
+SSRF on fleet.city-mobil.ru leads to local file read
 #### URL 
-https://hackerone.com/reports/500468
+https://hackerone.com/reports/748069
+#### Severity score
+6.7
 #### Reporter 
-damian89
+byq
+### Bounty paid
+$6,000
+
+
+---
+
+
+### Title
+SSRF in /cabinet/stripeapi/v1/siteInfoLookup?url=XXX
+#### URL 
+https://hackerone.com/reports/738553
+#### Severity score
+5.3
+#### Reporter 
+eliel
+### Bounty paid
+null
+
 
 ---
 
@@ -642,8 +932,13 @@ damian89
 SSRF - Office Documents - Image URL
 #### URL 
 https://hackerone.com/reports/738015
+#### Severity score
+null
 #### Reporter 
 zhutyra
+### Bounty paid
+$450
+
 
 ---
 
@@ -652,8 +947,43 @@ zhutyra
 Inappropriate URL parsing may cause security risk!
 #### URL 
 https://hackerone.com/reports/305974
+#### Severity score
+null
 #### Reporter 
 orange
+### Bounty paid
+$1,000
+
+
+---
+
+
+### Title
+SSRF - Guard - Unchecked WKS servers
+#### URL 
+https://hackerone.com/reports/792960
+#### Severity score
+5
+#### Reporter 
+zhutyra
+### Bounty paid
+$400
+
+
+---
+
+
+### Title
+SSRF at ideas.starbucks.com
+#### URL 
+https://hackerone.com/reports/500468
+#### Severity score
+7.9
+#### Reporter 
+damian89
+### Bounty paid
+$1,000
+
 
 ---
 
@@ -662,18 +992,13 @@ orange
 Server Side Request Forgery (SSRF) at app.hellosign.com leads to AWS private keys disclosure
 #### URL 
 https://hackerone.com/reports/923132
+#### Severity score
+null
 #### Reporter 
 sayaanalam
+### Bounty paid
+$4,913
 
----
-
-
-### Title
-SSRF on local storage of iOS mobile
-#### URL 
-https://hackerone.com/reports/746541
-#### Reporter 
-l0l1ch3ng
 
 ---
 
@@ -682,28 +1007,13 @@ l0l1ch3ng
 SSRF in /appsuite/api/autoconfig 
 #### URL 
 https://hackerone.com/reports/293847
+#### Severity score
+null
 #### Reporter 
 logan5
+### Bounty paid
+$850
 
----
-
-
-### Title
-Blind SSRF in ads.tiktok.com
-#### URL 
-https://hackerone.com/reports/1006599
-#### Reporter 
-chihuahua
-
----
-
-
-### Title
-SSRF in proxy.duckduckgo.com via the image_host parameter
-#### URL 
-https://hackerone.com/reports/358119
-#### Reporter 
-fpatrik
 
 ---
 
@@ -712,38 +1022,58 @@ fpatrik
 SSRF via Export Service in  ActiveCampaign
 #### URL 
 https://hackerone.com/reports/847101
+#### Severity score
+null
 #### Reporter 
 dotsecurity
+### Bounty paid
+null
+
 
 ---
 
 
 ### Title
-WebLogic Server Side Request Forgery
+SSRF on local storage of iOS mobile
 #### URL 
-https://hackerone.com/reports/300513
+https://hackerone.com/reports/746541
+#### Severity score
+null
 #### Reporter 
-linkks
+l0l1ch3ng
+### Bounty paid
+null
+
 
 ---
 
 
 ### Title
-SSRF at apps.nextcloud.com/developer/apps/releases/new
+Blind SSRF in ads.tiktok.com
 #### URL 
-https://hackerone.com/reports/213358
+https://hackerone.com/reports/1006599
+#### Severity score
+3.7
 #### Reporter 
-t-pwn
+chihuahua
+### Bounty paid
+$150
+
 
 ---
 
 
 ### Title
-Server-Side request forgery in New-Subscription feature of the calendar app
+SSRF in proxy.duckduckgo.com via the image_host parameter
 #### URL 
-https://hackerone.com/reports/427835
+https://hackerone.com/reports/358119
+#### Severity score
+7.5
 #### Reporter 
-foobar7
+fpatrik
+### Bounty paid
+null
+
 
 ---
 
@@ -752,18 +1082,43 @@ foobar7
 XSPA on API service endpoint
 #### URL 
 https://hackerone.com/reports/751625
+#### Severity score
+null
 #### Reporter 
 kunal94
+### Bounty paid
+null
+
 
 ---
 
 
 ### Title
-Reverse Proxy misroute leading to steal X-Shopify-Access-Token header
+SSRF at apps.nextcloud.com/developer/apps/releases/new
 #### URL 
-https://hackerone.com/reports/429617
+https://hackerone.com/reports/213358
+#### Severity score
+null
 #### Reporter 
-chaosbolt
+t-pwn
+### Bounty paid
+null
+
+
+---
+
+
+### Title
+WebLogic Server Side Request Forgery
+#### URL 
+https://hackerone.com/reports/300513
+#### Severity score
+null
+#### Reporter 
+linkks
+### Bounty paid
+null
+
 
 ---
 
@@ -772,8 +1127,43 @@ chaosbolt
 [h1-415 2020] Chain of vulnerabilities leading to account takeover and unauthorized access of sensitive internal resources
 #### URL 
 https://hackerone.com/reports/781281
+#### Severity score
+9
 #### Reporter 
 checkm50
+### Bounty paid
+null
+
+
+---
+
+
+### Title
+Reverse Proxy misroute leading to steal X-Shopify-Access-Token header
+#### URL 
+https://hackerone.com/reports/429617
+#### Severity score
+null
+#### Reporter 
+chaosbolt
+### Bounty paid
+$1,000
+
+
+---
+
+
+### Title
+Server-Side request forgery in New-Subscription feature of the calendar app
+#### URL 
+https://hackerone.com/reports/427835
+#### Severity score
+5
+#### Reporter 
+foobar7
+### Bounty paid
+$100
+
 
 ---
 
@@ -782,18 +1172,13 @@ checkm50
 SSRF vulnerability in gitlab.com via project import.
 #### URL 
 https://hackerone.com/reports/215105
+#### Severity score
+5.4
 #### Reporter 
 edoverflow
+### Bounty paid
+null
 
----
-
-
-### Title
-SSRF in hatchful.shopify.com
-#### URL 
-https://hackerone.com/reports/409701
-#### Reporter 
-zhurig
 
 ---
 
@@ -802,18 +1187,28 @@ zhurig
 SSRF and local file disclosure by video upload on http://www.youporn.com/
 #### URL 
 https://hackerone.com/reports/574134
+#### Severity score
+null
 #### Reporter 
 tony_tsep
+### Bounty paid
+$500
+
 
 ---
 
 
 ### Title
-GitLab::UrlBlocker validation bypass leading to full Server Side Request Forgery
+SSRF in hatchful.shopify.com
 #### URL 
-https://hackerone.com/reports/541169
+https://hackerone.com/reports/409701
+#### Severity score
+null
 #### Reporter 
-ajxchapman
+zhurig
+### Bounty paid
+$500
+
 
 ---
 
@@ -822,8 +1217,13 @@ ajxchapman
 SSRF - Image Sources in HTML Snippets - 727234 bypass
 #### URL 
 https://hackerone.com/reports/737163
+#### Severity score
+null
 #### Reporter 
 zhutyra
+### Bounty paid
+$400
+
 
 ---
 
@@ -832,8 +1232,28 @@ zhutyra
 SSRF via 3d.cs.money/pasteLinkToImage
 #### URL 
 https://hackerone.com/reports/832858
+#### Severity score
+5.2
 #### Reporter 
 putsi
+### Bounty paid
+$250
+
+
+---
+
+
+### Title
+GitLab::UrlBlocker validation bypass leading to full Server Side Request Forgery
+#### URL 
+https://hackerone.com/reports/541169
+#### Severity score
+7.6
+#### Reporter 
+ajxchapman
+### Bounty paid
+$5,000
+
 
 ---
 
@@ -842,28 +1262,13 @@ putsi
 SMB SSRF in emblem editor exposes taketwo domain credentials, may lead to RCE
 #### URL 
 https://hackerone.com/reports/288353
+#### Severity score
+null
 #### Reporter 
 alexbirsan
+### Bounty paid
+$1,500
 
----
-
-
-### Title
-SSRF on ████████
-#### URL 
-https://hackerone.com/reports/406387
-#### Reporter 
-twicedi
-
----
-
-
-### Title
-SVG Server Side Request Forgery (SSRF)
-#### URL 
-https://hackerone.com/reports/223203
-#### Reporter 
-floyd
 
 ---
 
@@ -872,38 +1277,43 @@ floyd
 Bypass of the SSRF protection in Event Subscriptions parameter.
 #### URL 
 https://hackerone.com/reports/386292
+#### Severity score
+null
 #### Reporter 
 elber
+### Bounty paid
+$500
+
 
 ---
 
 
 ### Title
-Blind SSRF in "Integrations" by abusing a bug in Ruby's native resolver.
+SSRF on ████████
 #### URL 
-https://hackerone.com/reports/287245
+https://hackerone.com/reports/406387
+#### Severity score
+null
 #### Reporter 
-edoverflow
+twicedi
+### Bounty paid
+null
+
 
 ---
 
 
 ### Title
-Server side request forgery
+SVG Server Side Request Forgery (SSRF)
 #### URL 
-https://hackerone.com/reports/427227
+https://hackerone.com/reports/223203
+#### Severity score
+null
 #### Reporter 
-linkks
+floyd
+### Bounty paid
+$500
 
----
-
-
-### Title
-SSRF into Shared Runner, by replacing dockerd with malicious server in Executor
-#### URL 
-https://hackerone.com/reports/809248
-#### Reporter 
-lucash-dev
 
 ---
 
@@ -912,18 +1322,43 @@ lucash-dev
 Limited code execution vulnerability on a DoD website
 #### URL 
 https://hackerone.com/reports/229199
+#### Severity score
+null
 #### Reporter 
 sp1d3rs
+### Bounty paid
+null
+
 
 ---
 
 
 ### Title
-SSRF/XSPA in labs.data.gov/dashboard/validate
+Server side request forgery
 #### URL 
-https://hackerone.com/reports/272095
+https://hackerone.com/reports/427227
+#### Severity score
+4
 #### Reporter 
-haxta4ok00
+linkks
+### Bounty paid
+$300
+
+
+---
+
+
+### Title
+Blind SSRF in "Integrations" by abusing a bug in Ruby's native resolver.
+#### URL 
+https://hackerone.com/reports/287245
+#### Severity score
+null
+#### Reporter 
+edoverflow
+### Bounty paid
+null
+
 
 ---
 
@@ -932,18 +1367,43 @@ haxta4ok00
 [H1-2006 2020] CTF write-up
 #### URL 
 https://hackerone.com/reports/890555
+#### Severity score
+null
 #### Reporter 
 counterbreach
+### Bounty paid
+null
+
 
 ---
 
 
 ### Title
-SSRF - Blacklist bypass for mail account addition
+SSRF into Shared Runner, by replacing dockerd with malicious server in Executor
 #### URL 
-https://hackerone.com/reports/303378
+https://hackerone.com/reports/809248
+#### Severity score
+null
 #### Reporter 
-logan5
+lucash-dev
+### Bounty paid
+$2,000
+
+
+---
+
+
+### Title
+SSRF/XSPA in labs.data.gov/dashboard/validate
+#### URL 
+https://hackerone.com/reports/272095
+#### Severity score
+4.6
+#### Reporter 
+haxta4ok00
+### Bounty paid
+$300
+
 
 ---
 
@@ -952,18 +1412,13 @@ logan5
 xmlrpc.php file enabled
 #### URL 
 https://hackerone.com/reports/773888
+#### Severity score
+null
 #### Reporter 
 p4nk4jv
+### Bounty paid
+null
 
----
-
-
-### Title
-SSRF in clients.city-mobil.ru
-#### URL 
-https://hackerone.com/reports/712103
-#### Reporter 
-johndoe1492
 
 ---
 
@@ -972,18 +1427,43 @@ johndoe1492
 Grafana SSRF in grafana.instamart.ru
 #### URL 
 https://hackerone.com/reports/895551
+#### Severity score
+6.7
 #### Reporter 
 buggi3
+### Bounty paid
+$1,200
+
 
 ---
 
 
 ### Title
-Injection of `http.<url>.*` git config settings leading to SSRF
+SSRF in clients.city-mobil.ru
 #### URL 
-https://hackerone.com/reports/855276
+https://hackerone.com/reports/712103
+#### Severity score
+8.5
 #### Reporter 
-vakzz
+johndoe1492
+### Bounty paid
+$1,500
+
+
+---
+
+
+### Title
+SSRF - Blacklist bypass for mail account addition
+#### URL 
+https://hackerone.com/reports/303378
+#### Severity score
+null
+#### Reporter 
+logan5
+### Bounty paid
+$500
+
 
 ---
 
@@ -992,8 +1472,28 @@ vakzz
 Blind HTTP GET SSRF via website icon fetch (bypass of pull#812)
 #### URL 
 https://hackerone.com/reports/925527
+#### Severity score
+null
 #### Reporter 
 shielder
+### Bounty paid
+null
+
+
+---
+
+
+### Title
+Injection of `http.<url>.*` git config settings leading to SSRF
+#### URL 
+https://hackerone.com/reports/855276
+#### Severity score
+null
+#### Reporter 
+vakzz
+### Bounty paid
+$3,000
+
 
 ---
 
@@ -1002,78 +1502,13 @@ shielder
 SSRF In plantuml (on plantuml.pre.gitlab.com)
 #### URL 
 https://hackerone.com/reports/689245
+#### Severity score
+null
 #### Reporter 
 plazmaz
+### Bounty paid
+$100
 
----
-
-
-### Title
-Server-Side Request Forgery (SSRF)
-#### URL 
-https://hackerone.com/reports/382048
-#### Reporter 
-t-pwn
-
----
-
-
-### Title
-SSRF vulnerability on ██████████ leaks internal IP and various sensitive information
-#### URL 
-https://hackerone.com/reports/310036
-#### Reporter 
-alyssa_herrera
-
----
-
-
-### Title
-SSRF In Get Video Contents
-#### URL 
-https://hackerone.com/reports/643622
-#### Reporter 
-artemis233
-
----
-
-
-### Title
-SSRF - Guard - Unchecked HKP servers
-#### URL 
-https://hackerone.com/reports/792953
-#### Reporter 
-zhutyra
-
----
-
-
-### Title
-Upload profile photo from URL
-#### URL 
-https://hackerone.com/reports/713
-#### Reporter 
-zurke
-
----
-
-
-### Title
-[H1-2006 2020]   CTF Writeup
-#### URL 
-https://hackerone.com/reports/887766
-#### Reporter 
-0xcaptainfreak
-
----
-
-
-### Title
-SSRF and LFI in site-audit tool
-#### URL 
-https://hackerone.com/reports/794099
-#### Reporter 
-a_d_a_m
 
 ---
 
@@ -1082,8 +1517,88 @@ a_d_a_m
 Blind SSRF while Creating Templates
 #### URL 
 https://hackerone.com/reports/800909
+#### Severity score
+null
 #### Reporter 
 dotsecurity
+### Bounty paid
+null
+
+
+---
+
+
+### Title
+SSRF vulnerability on ██████████ leaks internal IP and various sensitive information
+#### URL 
+https://hackerone.com/reports/310036
+#### Severity score
+null
+#### Reporter 
+alyssa_herrera
+### Bounty paid
+null
+
+
+---
+
+
+### Title
+SSRF and LFI in site-audit tool
+#### URL 
+https://hackerone.com/reports/794099
+#### Severity score
+null
+#### Reporter 
+a_d_a_m
+### Bounty paid
+$2,000
+
+
+---
+
+
+### Title
+Upload profile photo from URL
+#### URL 
+https://hackerone.com/reports/713
+#### Severity score
+null
+#### Reporter 
+zurke
+### Bounty paid
+$500
+
+
+---
+
+
+### Title
+SSRF In Get Video Contents
+#### URL 
+https://hackerone.com/reports/643622
+#### Severity score
+null
+#### Reporter 
+artemis233
+### Bounty paid
+$500
+
+
+---
+
+
+### Title
+Server-Side Request Forgery (SSRF)
+#### URL 
+https://hackerone.com/reports/382048
+#### Severity score
+null
+#### Reporter 
+t-pwn
+### Bounty paid
+null
+
 
 ---
 
@@ -1092,18 +1607,28 @@ dotsecurity
 [Uppy] Internal Server side request forgery (bypass of #786956)
 #### URL 
 https://hackerone.com/reports/891270
+#### Severity score
+9.3
 #### Reporter 
 mahmoud0x00
+### Bounty paid
+null
+
 
 ---
 
 
 ### Title
-SSRF in imgur video GIF conversion
+[H1-2006 2020]   CTF Writeup
 #### URL 
-https://hackerone.com/reports/247680
+https://hackerone.com/reports/887766
+#### Severity score
+null
 #### Reporter 
-mariuszpoplawski
+0xcaptainfreak
+### Bounty paid
+null
+
 
 ---
 
@@ -1112,48 +1637,43 @@ mariuszpoplawski
 Blind SSRF at https://chat.makerdao.com/account/profile
 #### URL 
 https://hackerone.com/reports/846184
+#### Severity score
+9.8
 #### Reporter 
 losthacker
+### Bounty paid
+null
+
 
 ---
 
 
 ### Title
-Unauthenticated blind SSRF in OAuth Jira authorization controller
+SSRF - Guard - Unchecked HKP servers
 #### URL 
-https://hackerone.com/reports/398799
+https://hackerone.com/reports/792953
+#### Severity score
+5
 #### Reporter 
-jobert
+zhutyra
+### Bounty paid
+$400
+
 
 ---
 
 
 ### Title
-[h1-415 2020] Multiple vulnerabilities leading to leaking of secret user files
+SSRF in imgur video GIF conversion
 #### URL 
-https://hackerone.com/reports/780036
+https://hackerone.com/reports/247680
+#### Severity score
+null
 #### Reporter 
-nukedx
+mariuszpoplawski
+### Bounty paid
+$1,000
 
----
-
-
-### Title
-Information disclosure through Server side resource forgery
-#### URL 
-https://hackerone.com/reports/782979
-#### Reporter 
-checkm50
-
----
-
-
-### Title
-[h1-415 2020] SSRF in a headless chrome with remote debugging leads to sensible information leak
-#### URL 
-https://hackerone.com/reports/781295
-#### Reporter 
-d1r3wolf
 
 ---
 
@@ -1162,8 +1682,43 @@ d1r3wolf
 SSRF on █████████ Allowing internal server data access
 #### URL 
 https://hackerone.com/reports/326040
+#### Severity score
+null
 #### Reporter 
 alyssa_herrera
+### Bounty paid
+null
+
+
+---
+
+
+### Title
+Unauthenticated blind SSRF in OAuth Jira authorization controller
+#### URL 
+https://hackerone.com/reports/398799
+#### Severity score
+7.5
+#### Reporter 
+jobert
+### Bounty paid
+$4,000
+
+
+---
+
+
+### Title
+Information disclosure through Server side resource forgery
+#### URL 
+https://hackerone.com/reports/782979
+#### Severity score
+null
+#### Reporter 
+checkm50
+### Bounty paid
+null
+
 
 ---
 
@@ -1172,18 +1727,28 @@ alyssa_herrera
 Blind SSRF on debug.nordvpn.com due to misconfigured sentry instance
 #### URL 
 https://hackerone.com/reports/756149
+#### Severity score
+null
 #### Reporter 
 mase289
+### Bounty paid
+$100
+
 
 ---
 
 
 ### Title
-[SSRF] Server-Side Request Forgery at https://sea-web.gold.razer.com/dev/simulator via notify_url Parameter
+[h1-415 2020] SSRF in a headless chrome with remote debugging leads to sensible information leak
 #### URL 
-https://hackerone.com/reports/777664
+https://hackerone.com/reports/781295
+#### Severity score
+null
 #### Reporter 
-s3cr3tsdn
+d1r3wolf
+### Bounty paid
+null
+
 
 ---
 
@@ -1192,8 +1757,43 @@ s3cr3tsdn
 Get-based SSRF limited to HTTP protocol on https://resizer.line-apps.com/form
 #### URL 
 https://hackerone.com/reports/707014
+#### Severity score
+null
 #### Reporter 
 ledz1996
+### Bounty paid
+$1,350
+
+
+---
+
+
+### Title
+[h1-415 2020] Multiple vulnerabilities leading to leaking of secret user files
+#### URL 
+https://hackerone.com/reports/780036
+#### Severity score
+null
+#### Reporter 
+nukedx
+### Bounty paid
+null
+
+
+---
+
+
+### Title
+[SSRF] Server-Side Request Forgery at https://sea-web.gold.razer.com/dev/simulator via notify_url Parameter
+#### URL 
+https://hackerone.com/reports/777664
+#### Severity score
+10
+#### Reporter 
+s3cr3tsdn
+### Bounty paid
+$2,000
+
 
 ---
 
@@ -1202,8 +1802,13 @@ ledz1996
 SSRF external interaction
 #### URL 
 https://hackerone.com/reports/1023920
+#### Severity score
+null
 #### Reporter 
 falcon_319
+### Bounty paid
+null
+
 
 ---
 
@@ -1212,68 +1817,13 @@ falcon_319
 Blind SSRF in Ticketing Integrations Jira webhooks leading to internal network enumeration and blind HTTP requests
 #### URL 
 https://hackerone.com/reports/344032
+#### Severity score
+6.7
 #### Reporter 
 ajxchapman
+### Bounty paid
+null
 
----
-
-
-### Title
-Urllib connects to a wrong host
-#### URL 
-https://hackerone.com/reports/305978
-#### Reporter 
-orange
-
----
-
-
-### Title
-SSRF 
-#### URL 
-https://hackerone.com/reports/253558
-#### Reporter 
-linkks
-
----
-
-
-### Title
-SSRF in img.lemlist.com that leads to Localhost Port Scanning
-#### URL 
-https://hackerone.com/reports/783392
-#### Reporter 
-arsene_lupin
-
----
-
-
-### Title
-SSRF in VCARD photo upload functionality
-#### URL 
-https://hackerone.com/reports/296045
-#### Reporter 
-logan5
-
----
-
-
-### Title
-Server-Side Request Forgery (SSRF) in Ghost CMS 
-#### URL 
-https://hackerone.com/reports/793704
-#### Reporter 
-whoareme
-
----
-
-
-### Title
-Server Side Request Forgery in Uppy npm module
-#### URL 
-https://hackerone.com/reports/786956
-#### Reporter 
-eslam-shieldfy
 
 ---
 
@@ -1282,8 +1832,103 @@ eslam-shieldfy
 SSRF & unrestricted file upload on https://my.stripo.email/
 #### URL 
 https://hackerone.com/reports/771382
+#### Severity score
+null
 #### Reporter 
 pain45
+### Bounty paid
+null
+
+
+---
+
+
+### Title
+SSRF in VCARD photo upload functionality
+#### URL 
+https://hackerone.com/reports/296045
+#### Severity score
+null
+#### Reporter 
+logan5
+### Bounty paid
+$850
+
+
+---
+
+
+### Title
+Server-Side Request Forgery (SSRF) in Ghost CMS 
+#### URL 
+https://hackerone.com/reports/793704
+#### Severity score
+4.4
+#### Reporter 
+whoareme
+### Bounty paid
+null
+
+
+---
+
+
+### Title
+SSRF 
+#### URL 
+https://hackerone.com/reports/253558
+#### Severity score
+null
+#### Reporter 
+linkks
+### Bounty paid
+null
+
+
+---
+
+
+### Title
+SSRF in img.lemlist.com that leads to Localhost Port Scanning
+#### URL 
+https://hackerone.com/reports/783392
+#### Severity score
+null
+#### Reporter 
+arsene_lupin
+### Bounty paid
+null
+
+
+---
+
+
+### Title
+Urllib connects to a wrong host
+#### URL 
+https://hackerone.com/reports/305978
+#### Severity score
+null
+#### Reporter 
+orange
+### Bounty paid
+$500
+
+
+---
+
+
+### Title
+Server Side Request Forgery in Uppy npm module
+#### URL 
+https://hackerone.com/reports/786956
+#### Severity score
+8.2
+#### Reporter 
+eslam-shieldfy
+### Bounty paid
+null
+
 
 ---
 
@@ -1292,18 +1937,13 @@ pain45
 SSRF in my.stripo.email
 #### URL 
 https://hackerone.com/reports/852413
+#### Severity score
+null
 #### Reporter 
 x25s
+### Bounty paid
+null
 
----
-
-
-### Title
-Evaluating Ruby code by injecting Rescue job on the system_hook_push queue through web hook
-#### URL 
-https://hackerone.com/reports/299473
-#### Reporter 
-jobert
 
 ---
 
@@ -1312,8 +1952,13 @@ jobert
 Blind SSRF on sentry.dev-my.com due to Sentry misconfiguration
 #### URL 
 https://hackerone.com/reports/686363
+#### Severity score
+null
 #### Reporter 
 kiriknik
+### Bounty paid
+$500
+
 
 ---
 
@@ -1322,28 +1967,13 @@ kiriknik
 Possible SSRF in email server settings(SMTP mode)
 #### URL 
 https://hackerone.com/reports/222667
+#### Severity score
+null
 #### Reporter 
 xifengweiyu
+### Bounty paid
+null
 
----
-
-
-### Title
-Server-Side Request Forgery on SAML Application - Import via URL
-#### URL 
-https://hackerone.com/reports/324005
-#### Reporter 
-ziot
-
----
-
-
-### Title
-SSRF protection bypass in /appsuite/api/oxodocumentfilter addfile action
-#### URL 
-https://hackerone.com/reports/863553
-#### Reporter 
-skr0x1c0
 
 ---
 
@@ -1352,8 +1982,43 @@ skr0x1c0
 Blind SSRF on image proxy camo.stream.highwebmedia.com
 #### URL 
 https://hackerone.com/reports/385178
+#### Severity score
+6.5
 #### Reporter 
 ninjajuju
+### Bounty paid
+$800
+
+
+---
+
+
+### Title
+SSRF protection bypass in /appsuite/api/oxodocumentfilter addfile action
+#### URL 
+https://hackerone.com/reports/863553
+#### Severity score
+4.9
+#### Reporter 
+skr0x1c0
+### Bounty paid
+$550
+
+
+---
+
+
+### Title
+Evaluating Ruby code by injecting Rescue job on the system_hook_push queue through web hook
+#### URL 
+https://hackerone.com/reports/299473
+#### Severity score
+8.5
+#### Reporter 
+jobert
+### Bounty paid
+$750
+
 
 ---
 
@@ -1362,28 +2027,28 @@ ninjajuju
 SSRF protection bypass
 #### URL 
 https://hackerone.com/reports/736867
+#### Severity score
+6.3
 #### Reporter 
 foobar7
+### Bounty paid
+$100
+
 
 ---
 
 
 ### Title
-Unchecked URL in attachment datasource
+Server-Side Request Forgery on SAML Application - Import via URL
 #### URL 
-https://hackerone.com/reports/725307
+https://hackerone.com/reports/324005
+#### Severity score
+6.1
 #### Reporter 
-zhutyra
+ziot
+### Bounty paid
+$450
 
----
-
-
-### Title
-[city-mobil.ru] SSRF & limited LFR on /taxiserv/photoeditor/save endpoint via base64 POST parameter
-#### URL 
-https://hackerone.com/reports/853068
-#### Reporter 
-byq
 
 ---
 
@@ -1392,8 +2057,43 @@ byq
 SSRF on duckduckgo.com/iu/
 #### URL 
 https://hackerone.com/reports/398641
+#### Severity score
+null
 #### Reporter 
 d0nut
+### Bounty paid
+null
+
+
+---
+
+
+### Title
+Unchecked URL in attachment datasource
+#### URL 
+https://hackerone.com/reports/725307
+#### Severity score
+6.5
+#### Reporter 
+zhutyra
+### Bounty paid
+$850
+
+
+---
+
+
+### Title
+[city-mobil.ru] SSRF & limited LFR on /taxiserv/photoeditor/save endpoint via base64 POST parameter
+#### URL 
+https://hackerone.com/reports/853068
+#### Severity score
+8.5
+#### Reporter 
+byq
+### Bounty paid
+$6,000
+
 
 ---
 
@@ -1402,8 +2102,13 @@ d0nut
 SSRF in filtering on relap.io
 #### URL 
 https://hackerone.com/reports/739962
+#### Severity score
+null
 #### Reporter 
 rumiljonov
+### Bounty paid
+$1,700
+
 
 ---
 
@@ -1412,28 +2117,13 @@ rumiljonov
 Blind SSRF [ Sentry Misconfiguraton ]
 #### URL 
 https://hackerone.com/reports/587012
+#### Severity score
+null
 #### Reporter 
 elmahdi
+### Bounty paid
+$250
 
----
-
-
-### Title
-Server Side Request Forgery mitigation bypass
-#### URL 
-https://hackerone.com/reports/632101
-#### Reporter 
-mclaren650sspider
-
----
-
-
-### Title
-SSRF vulnerability in gitlab.com webhook
-#### URL 
-https://hackerone.com/reports/301924
-#### Reporter 
-wuqidashi
 
 ---
 
@@ -1442,8 +2132,28 @@ wuqidashi
 SSRF on project import via the remote_attachment_url on a Note
 #### URL 
 https://hackerone.com/reports/826361
+#### Severity score
+null
 #### Reporter 
 vakzz
+### Bounty paid
+$10,000
+
+
+---
+
+
+### Title
+SSRF vulnerability in gitlab.com webhook
+#### URL 
+https://hackerone.com/reports/301924
+#### Severity score
+null
+#### Reporter 
+wuqidashi
+### Bounty paid
+null
+
 
 ---
 
@@ -1452,38 +2162,28 @@ vakzz
 SSRF on infawiki.informatica.com and infawikitest.informatica.com
 #### URL 
 https://hackerone.com/reports/327480
+#### Severity score
+null
 #### Reporter 
 0ang3el
+### Bounty paid
+null
+
 
 ---
 
 
 ### Title
-SSRF at iris.lystit.com
+Server Side Request Forgery mitigation bypass
 #### URL 
-https://hackerone.com/reports/206894
+https://hackerone.com/reports/632101
+#### Severity score
+null
 #### Reporter 
-tripwire
+mclaren650sspider
+### Bounty paid
+$3,500
 
----
-
-
-### Title
-Server-Side Request Forgery using Javascript allows to exfill data from Google Metadata
-#### URL 
-https://hackerone.com/reports/530974
-#### Reporter 
-nahamsec
-
----
-
-
-### Title
-SSRF in the application's image export functionality
-#### URL 
-https://hackerone.com/reports/816848
-#### Reporter 
-muon4
 
 ---
 
@@ -1492,18 +2192,43 @@ muon4
 SSRF in notifications.server configuration
 #### URL 
 https://hackerone.com/reports/850114
+#### Severity score
+4.7
 #### Reporter 
 codeprivate
+### Bounty paid
+$300
+
 
 ---
 
 
 ### Title
-ssrf xspa [https://prt.mail.ru/]
+Server-Side Request Forgery using Javascript allows to exfill data from Google Metadata
 #### URL 
-https://hackerone.com/reports/191543
+https://hackerone.com/reports/530974
+#### Severity score
+null
 #### Reporter 
-haxta4ok00
+nahamsec
+### Bounty paid
+$4,000
+
+
+---
+
+
+### Title
+SSRF at iris.lystit.com
+#### URL 
+https://hackerone.com/reports/206894
+#### Severity score
+null
+#### Reporter 
+tripwire
+### Bounty paid
+$100
+
 
 ---
 
@@ -1512,38 +2237,43 @@ haxta4ok00
 SSRF on jira.mariadb.org
 #### URL 
 https://hackerone.com/reports/397402
+#### Severity score
+5.8
 #### Reporter 
 putsi
+### Bounty paid
+null
+
 
 ---
 
 
 ### Title
-SSRF на api.icq.net
+SSRF in the application's image export functionality
 #### URL 
-https://hackerone.com/reports/432277
+https://hackerone.com/reports/816848
+#### Severity score
+null
 #### Reporter 
-theappsec
+muon4
+### Bounty paid
+$250
+
 
 ---
 
 
 ### Title
-SSRF через Share-ботов
+ssrf xspa [https://prt.mail.ru/]
 #### URL 
-https://hackerone.com/reports/197365
+https://hackerone.com/reports/191543
+#### Severity score
+null
 #### Reporter 
-at3nder
+haxta4ok00
+### Bounty paid
+$150
 
----
-
-
-### Title
-Lack of input sanitization in Marketo form leads to execution of HTML in lead emails
-#### URL 
-https://hackerone.com/reports/220009
-#### Reporter 
-encrypt
 
 ---
 
@@ -1552,8 +2282,43 @@ encrypt
 Чтение файлов на сервере и раскрытие директорий mediator.media
 #### URL 
 https://hackerone.com/reports/411466
+#### Severity score
+5.8
 #### Reporter 
 truwa
+### Bounty paid
+$800
+
+
+---
+
+
+### Title
+Lack of input sanitization in Marketo form leads to execution of HTML in lead emails
+#### URL 
+https://hackerone.com/reports/220009
+#### Severity score
+null
+#### Reporter 
+encrypt
+### Bounty paid
+$500
+
+
+---
+
+
+### Title
+SSRF на api.icq.net
+#### URL 
+https://hackerone.com/reports/432277
+#### Severity score
+5.3
+#### Reporter 
+theappsec
+### Bounty paid
+$500
+
 
 ---
 
@@ -1562,48 +2327,28 @@ truwa
 Infrastructure - Photon - SSRF
 #### URL 
 https://hackerone.com/reports/204513
+#### Severity score
+null
 #### Reporter 
 skansing
+### Bounty paid
+$350
+
 
 ---
 
 
 ### Title
-GET /api/v2/url_info endpoint is vulnerable to Blind SSRF
+SSRF через Share-ботов
 #### URL 
-https://hackerone.com/reports/1057531
+https://hackerone.com/reports/197365
+#### Severity score
+null
 #### Reporter 
-atc_h1h1
+at3nder
+### Bounty paid
+$300
 
----
-
-
-### Title
-SSRF On [ allods.mail.ru ]
-#### URL 
-https://hackerone.com/reports/602498
-#### Reporter 
-elmahdi
-
----
-
-
-### Title
-Potential SSRF and disclosure of sensitive site on *shopifycloud.com
-#### URL 
-https://hackerone.com/reports/382612
-#### Reporter 
-rijalrojan
-
----
-
-
-### Title
-Blind SSRF on errors.hackerone.net due to Sentry misconfiguration
-#### URL 
-https://hackerone.com/reports/374737
-#### Reporter 
-chaosbolt
 
 ---
 
@@ -1612,28 +2357,43 @@ chaosbolt
 SSRF - RSS feed, blacklist bypass (301 re-direct)
 #### URL 
 https://hackerone.com/reports/299135
+#### Severity score
+null
 #### Reporter 
 logan5
+### Bounty paid
+$850
+
 
 ---
 
 
 ### Title
-SSRF - URL Attachments - 725307 bypass
+GET /api/v2/url_info endpoint is vulnerable to Blind SSRF
 #### URL 
-https://hackerone.com/reports/737161
+https://hackerone.com/reports/1057531
+#### Severity score
+8.4
 #### Reporter 
-zhutyra
+atc_h1h1
+### Bounty paid
+null
+
 
 ---
 
 
 ### Title
-SSRF (open) - via GET request
+Blind SSRF on errors.hackerone.net due to Sentry misconfiguration
 #### URL 
-https://hackerone.com/reports/180527
+https://hackerone.com/reports/374737
+#### Severity score
+3.1
 #### Reporter 
-firex
+chaosbolt
+### Bounty paid
+$3,500
+
 
 ---
 
@@ -1642,8 +2402,73 @@ firex
 SSRF in rompager-check
 #### URL 
 https://hackerone.com/reports/374818
+#### Severity score
+null
 #### Reporter 
 oreamnos
+### Bounty paid
+null
+
+
+---
+
+
+### Title
+SSRF On [ allods.mail.ru ]
+#### URL 
+https://hackerone.com/reports/602498
+#### Severity score
+5.8
+#### Reporter 
+elmahdi
+### Bounty paid
+$750
+
+
+---
+
+
+### Title
+SSRF - URL Attachments - 725307 bypass
+#### URL 
+https://hackerone.com/reports/737161
+#### Severity score
+null
+#### Reporter 
+zhutyra
+### Bounty paid
+$400
+
+
+---
+
+
+### Title
+Potential SSRF and disclosure of sensitive site on *shopifycloud.com
+#### URL 
+https://hackerone.com/reports/382612
+#### Severity score
+null
+#### Reporter 
+rijalrojan
+### Bounty paid
+null
+
+
+---
+
+
+### Title
+SSRF (open) - via GET request
+#### URL 
+https://hackerone.com/reports/180527
+#### Severity score
+null
+#### Reporter 
+firex
+### Bounty paid
+$300
+
 
 ---
 

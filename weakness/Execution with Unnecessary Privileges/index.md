@@ -1,19 +1,29 @@
 ### Title
-[H1-2006 2020]  "Swiss Cheese" design style leads to helping Mårten Mickos pay poor hackers
+One Click Code Execution via File
 #### URL 
-https://hackerone.com/reports/890272
+https://hackerone.com/reports/822609
+#### Severity score
+8
 #### Reporter 
-al-madjus
+ajdumanhug
+### Bounty paid
+null
+
 
 ---
 
 
 ### Title
-One Click Code Execution via File
+[H1-2006 2020]  "Swiss Cheese" design style leads to helping Mårten Mickos pay poor hackers
 #### URL 
-https://hackerone.com/reports/822609
+https://hackerone.com/reports/890272
+#### Severity score
+null
 #### Reporter 
-ajdumanhug
+al-madjus
+### Bounty paid
+null
+
 
 ---
 

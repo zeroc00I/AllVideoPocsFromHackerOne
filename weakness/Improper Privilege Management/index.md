@@ -1,19 +1,29 @@
 ### Title
-[H1-2006 2020] Exploiting multiple vulnerabilities to get hacker's payment ensured
+Unauthenticated access to sensitive user information
 #### URL 
-https://hackerone.com/reports/894949
+https://hackerone.com/reports/702677
+#### Severity score
+5.4
 #### Reporter 
-hecsv17
+smalien
+### Bounty paid
+$500
+
 
 ---
 
 
 ### Title
-Unauthenticated access to sensitive user information
+[H1-2006 2020] Exploiting multiple vulnerabilities to get hacker's payment ensured
 #### URL 
-https://hackerone.com/reports/702677
+https://hackerone.com/reports/894949
+#### Severity score
+null
 #### Reporter 
-smalien
+hecsv17
+### Bounty paid
+null
+
 
 ---
 
@@ -22,8 +32,13 @@ smalien
 Re-Sharing allows increase of privileges
 #### URL 
 https://hackerone.com/reports/889243
+#### Severity score
+5.5
 #### Reporter 
 alx_il
+### Bounty paid
+$750
+
 
 ---
 

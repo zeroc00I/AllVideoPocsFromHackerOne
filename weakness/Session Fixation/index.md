@@ -1,9 +1,14 @@
 ### Title
-H1514 Session Fixation on multiple shopify-built apps on *.shopifycloud.com and *.shopifyapps.com
+Password Reset page Session Fixation
 #### URL 
-https://hackerone.com/reports/423136
+https://hackerone.com/reports/255020
+#### Severity score
+null
 #### Reporter 
-filedescriptor
+ashishag29
+### Bounty paid
+null
+
 
 ---
 
@@ -12,18 +17,28 @@ filedescriptor
 Affiliates - Session Fixation
 #### URL 
 https://hackerone.com/reports/737058
+#### Severity score
+null
 #### Reporter 
 jair
+### Bounty paid
+null
+
 
 ---
 
 
 ### Title
-Password Reset page Session Fixation
+H1514 Session Fixation on multiple shopify-built apps on *.shopifycloud.com and *.shopifyapps.com
 #### URL 
-https://hackerone.com/reports/255020
+https://hackerone.com/reports/423136
+#### Severity score
+null
 #### Reporter 
-ashishag29
+filedescriptor
+### Bounty paid
+$5,000
+
 
 ---
 
@@ -32,18 +47,13 @@ ashishag29
 Session fixation in password protected public download.
 #### URL 
 https://hackerone.com/reports/237184
+#### Severity score
+3.1
 #### Reporter 
 frankspierings
+### Bounty paid
+$50
 
----
-
-
-### Title
-Intercom chat session information persists after logout
-#### URL 
-https://hackerone.com/reports/249798
-#### Reporter 
-khizer47
 
 ---
 
@@ -52,8 +62,13 @@ khizer47
 Session Fixation
 #### URL 
 https://hackerone.com/reports/135797
+#### Severity score
+null
 #### Reporter 
 eboda
+### Bounty paid
+$50
+
 
 ---
 
@@ -62,8 +77,13 @@ eboda
 Pending MFA logins aren't immediatly expired after a password change
 #### URL 
 https://hackerone.com/reports/743518
+#### Severity score
+null
 #### Reporter 
 ant_pyne
+### Bounty paid
+$50
+
 
 ---
 
@@ -72,8 +92,28 @@ ant_pyne
 account takeover https://idea.qiwi.com/ 
 #### URL 
 https://hackerone.com/reports/464426
+#### Severity score
+null
 #### Reporter 
 circuit
+### Bounty paid
+$300
+
+
+---
+
+
+### Title
+Intercom chat session information persists after logout
+#### URL 
+https://hackerone.com/reports/249798
+#### Severity score
+2.5
+#### Reporter 
+khizer47
+### Bounty paid
+$20
+
 
 ---
 
@@ -82,8 +122,13 @@ circuit
 The auth token does not expire on logging out and even after logging out all sessions
 #### URL 
 https://hackerone.com/reports/247721
+#### Severity score
+null
 #### Reporter 
 whitehattushu
+### Bounty paid
+$100
+
 
 ---
 

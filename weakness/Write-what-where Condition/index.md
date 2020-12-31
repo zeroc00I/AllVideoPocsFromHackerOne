@@ -1,9 +1,14 @@
 ### Title
-Race condition на market.games.mail.ru
+OP_SCALL in LHS of a OP_ASGN resulting in arbitrary memory write
 #### URL 
-https://hackerone.com/reports/317557
+https://hackerone.com/reports/226200
+#### Severity score
+null
 #### Reporter 
-diabllo
+avisaven
+### Bounty paid
+$200
+
 
 ---
 
@@ -12,18 +17,28 @@ diabllo
 [steam client] Opening a specific steam:// url overwrites files at an arbitrary location
 #### URL 
 https://hackerone.com/reports/667242
+#### Severity score
+5.3
 #### Reporter 
 kbeckmann
+### Bounty paid
+$750
+
 
 ---
 
 
 ### Title
-OP_SCALL in LHS of a OP_ASGN resulting in arbitrary memory write
+Race condition на market.games.mail.ru
 #### URL 
-https://hackerone.com/reports/226200
+https://hackerone.com/reports/317557
+#### Severity score
+null
 #### Reporter 
-avisaven
+diabllo
+### Bounty paid
+$1,000
+
 
 ---
 

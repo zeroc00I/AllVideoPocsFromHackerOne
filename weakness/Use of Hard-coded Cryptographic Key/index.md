@@ -1,19 +1,29 @@
 ### Title
-Slack DTLS uses a private key that is in the public domain, which may lead to SRTP stream hijack
+`Cody trolled us all` h1-702 CTF write-up
 #### URL 
-https://hackerone.com/reports/531032
+https://hackerone.com/reports/507148
+#### Severity score
+null
 #### Reporter 
-sandrogauci
+lucio
+### Bounty paid
+null
+
 
 ---
 
 
 ### Title
-`Cody trolled us all` h1-702 CTF write-up
+Slack DTLS uses a private key that is in the public domain, which may lead to SRTP stream hijack
 #### URL 
-https://hackerone.com/reports/507148
+https://hackerone.com/reports/531032
+#### Severity score
+8.7
 #### Reporter 
-lucio
+sandrogauci
+### Bounty paid
+$2,000
+
 
 ---
 

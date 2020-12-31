@@ -1,19 +1,29 @@
 ### Title
-Type Confusion in Object Deserialization
+User provided values passed to PHP unset() function
 #### URL 
-https://hackerone.com/reports/198733
+https://hackerone.com/reports/292500
+#### Severity score
+null
 #### Reporter 
-ryat
+paulos_
+### Bounty paid
+null
+
 
 ---
 
 
 ### Title
-User provided values passed to PHP unset() function
+Type Confusion in Object Deserialization
 #### URL 
-https://hackerone.com/reports/292500
+https://hackerone.com/reports/198733
+#### Severity score
+null
 #### Reporter 
-paulos_
+ryat
+### Bounty paid
+$500
+
 
 ---
 
@@ -22,8 +32,13 @@ paulos_
 Insufficient Type Check leading to Developer ability to delete Project, Repository, Group, ...
 #### URL 
 https://hackerone.com/reports/960244
+#### Severity score
+null
 #### Reporter 
 ledz1996
+### Bounty paid
+$5,000
+
 
 ---
 

@@ -1,19 +1,29 @@
 ### Title
-Exim off-by-one RCE vulnerability
+Subdomain Takeover due to unclaimed domain pointing to AWS
 #### URL 
-https://hackerone.com/reports/322935
+https://hackerone.com/reports/317005
+#### Severity score
+null
 #### Reporter 
-mehqq
+zephrfish
+### Bounty paid
+$150
+
 
 ---
 
 
 ### Title
-Subdomain Takeover due to unclaimed domain pointing to AWS
+Exim off-by-one RCE vulnerability
 #### URL 
-https://hackerone.com/reports/317005
+https://hackerone.com/reports/322935
+#### Severity score
+null
 #### Reporter 
-zephrfish
+mehqq
+### Bounty paid
+$1,500
+
 
 ---
 
