@@ -258,6 +258,10 @@ I would love hear from you.
 ```
 go get -u github.com/tomnomnom/gron
 ```
+## JQ
+```
+apt install jq
+```
 # Tree
 ## Weakness
 All weakness categorized
