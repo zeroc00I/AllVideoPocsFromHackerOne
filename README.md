@@ -5,12 +5,12 @@ This script grabs public report from hacker one and download all JSON files to b
 
 The main goal is make easy categorize vulns by technique
 
-# - Requirements
+# Requirements
 ## Gron
 ```
 go get -u github.com/tomnomnom/gron
 ```
-# - Tree
+# Tree
 ## Weakness
 All weakness categorized
 ## jsonReports
