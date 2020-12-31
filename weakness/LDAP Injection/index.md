@@ -12,9 +12,17 @@ https://hackerone.com/reports/907311
 # Reporter 
 d3lla
 
+# Title
 LDAP Injection at ██████
+# URL 
 https://hackerone.com/reports/359290
+# Reporter 
 tampe125
+
+# Title
 Information disclosure on a DoD website
+# URL 
 https://hackerone.com/reports/184076
+# Reporter 
 tsug0d
+

@@ -5,501 +5,1298 @@ https://hackerone.com/reports/223999
 # Reporter 
 edoverflow
 
+# Title
 Brave Browser unexpectedly allows to send arbitrary IPC messages
+# URL 
 https://hackerone.com/reports/187542
+# Reporter 
 masatokinugawa
-Sending arbitrary IPC messages via overriding Array.prototype.push
-https://hackerone.com/reports/188561
-masatokinugawa
-[freespace] Command Injection due to Lack of Sanitization
-https://hackerone.com/reports/951249
-ansuj
+
+# Title
 RCE Jira(CVE-2019–11581) [my-com.atlassian.net]
+# URL 
 https://hackerone.com/reports/706841
+# Reporter 
 malcolmx
+
+# Title
+[freespace] Command Injection due to Lack of Sanitization
+# URL 
+https://hackerone.com/reports/951249
+# Reporter 
+ansuj
+
+# Title
 Reflected File Download on recipe list search
+# URL 
 https://hackerone.com/reports/158505
+# Reporter 
 dsopas
-Command Injection due to lack of sanitisation of tar.gz filename passed as an argument to pm2.install()  function
-https://hackerone.com/reports/630227
-bl4de
-CSV injection in gitlab.com via issues export feature.
-https://hackerone.com/reports/216243
+
+# Title
+Sending arbitrary IPC messages via overriding Array.prototype.push
+# URL 
+https://hackerone.com/reports/188561
+# Reporter 
+masatokinugawa
+
+# Title
 XXE at host vpn.owncloud.com
+# URL 
 https://hackerone.com/reports/105980
+# Reporter 
 d0znpp
-Relative Path Vulnerability Results in Arbitrary Command Execution/Privilege Escalation
-https://hackerone.com/reports/784714
-jhancock
-SSRF issue
-https://hackerone.com/reports/120219
-4lemon
-$50 million CTF Writeup
-https://hackerone.com/reports/514664
-manoelt
-`fs-path` concatenates unsanitized input into exec()/execSync() commands
-https://hackerone.com/reports/324491
-chalker
+
+# Title
+CSV injection in gitlab.com via issues export feature.
+# URL 
+https://hackerone.com/reports/216243
+# Reporter 
+edoverflow
+
+# Title
 Wordpress Content injection 
+# URL 
 https://hackerone.com/reports/202949
+# Reporter 
 khizer47
-Escape sequence injection in "summary" field
-https://hackerone.com/reports/226335
-mame
+
+# Title
+Command Injection due to lack of sanitisation of tar.gz filename passed as an argument to pm2.install()  function
+# URL 
+https://hackerone.com/reports/630227
+# Reporter 
+bl4de
+
+# Title
+$50 million CTF Writeup
+# URL 
+https://hackerone.com/reports/514664
+# Reporter 
+manoelt
+
+# Title
+SSRF issue
+# URL 
+https://hackerone.com/reports/120219
+# Reporter 
+4lemon
+
+# Title
+Relative Path Vulnerability Results in Arbitrary Command Execution/Privilege Escalation
+# URL 
+https://hackerone.com/reports/784714
+# Reporter 
+jhancock
+
+# Title
+`fs-path` concatenates unsanitized input into exec()/execSync() commands
+# URL 
+https://hackerone.com/reports/324491
+# Reporter 
+chalker
+
+# Title
 OSX slack:// protocol handler javascript injection
+# URL 
 https://hackerone.com/reports/79348
+# Reporter 
 computerality
+
+# Title
+Escape sequence injection in "summary" field
+# URL 
+https://hackerone.com/reports/226335
+# Reporter 
+mame
+
+# Title
 [xps] Command Injection via insecure command concatenation
+# URL 
 https://hackerone.com/reports/865168
+# Reporter 
 d3lla
-Command Injection Vulnerability in win-fork/win-spawn Packages
-https://hackerone.com/reports/390871
-cris_semmle
-CSV Excel Macro Injection Vulnerability in export chat logs
-https://hackerone.com/reports/90274
-alyssa_herrera
-NET::Ftp allows command injection in filenames
-https://hackerone.com/reports/294462
-staaldraad
-Remote Code Execution at http://tw.corp.ubnt.com
-https://hackerone.com/reports/269066
-hassham
-Unauthenticated access to Content Management System - www1.pornhubpremium.com
-https://hackerone.com/reports/72735
-mak
-Внедрение внешних сущностей в функционале импорта пользователей YouTrack
-https://hackerone.com/reports/114476
-bo0om
+
+# Title
 HTML Injection possible due to bad filter
+# URL 
 https://hackerone.com/reports/198907
+# Reporter 
 jackb898
+
+# Title
+CSV Excel Macro Injection Vulnerability in export chat logs
+# URL 
+https://hackerone.com/reports/90274
+# Reporter 
+alyssa_herrera
+
+# Title
+Command Injection Vulnerability in win-fork/win-spawn Packages
+# URL 
+https://hackerone.com/reports/390871
+# Reporter 
+cris_semmle
+
+# Title
+NET::Ftp allows command injection in filenames
+# URL 
+https://hackerone.com/reports/294462
+# Reporter 
+staaldraad
+
+# Title
+Внедрение внешних сущностей в функционале импорта пользователей YouTrack
+# URL 
+https://hackerone.com/reports/114476
+# Reporter 
+bo0om
+
+# Title
+Remote Code Execution at http://tw.corp.ubnt.com
+# URL 
+https://hackerone.com/reports/269066
+# Reporter 
+hassham
+
+# Title
 SQL injection, tile ID
+# URL 
 https://hackerone.com/reports/17225
+# Reporter 
 bitquark
+
+# Title
 BAD Code ! 
+# URL 
 https://hackerone.com/reports/180074
+# Reporter 
 kholy
-Mercurial git subrepo lead to arbritary command injection
-https://hackerone.com/reports/294147
-pnig0s
-Request Hijacking Vulnerability in RubyGems 2.6.13 and earlier
-https://hackerone.com/reports/274267
-claudijd
+
+# Title
 RCE,SQL,Vulnerability + Exploit Method.
+# URL 
 https://hackerone.com/reports/170748
+# Reporter 
 exploit_in
-Local File Disclosure (+XSS+CSRF) in AirOS 6.2.0 devices
-https://hackerone.com/reports/661647
-murmus
+
+# Title
+Unauthenticated access to Content Management System - www1.pornhubpremium.com
+# URL 
+https://hackerone.com/reports/72735
+# Reporter 
+mak
+
+# Title
+Mercurial git subrepo lead to arbritary command injection
+# URL 
+https://hackerone.com/reports/294147
+# Reporter 
+pnig0s
+
+# Title
+Request Hijacking Vulnerability in RubyGems 2.6.13 and earlier
+# URL 
+https://hackerone.com/reports/274267
+# Reporter 
+claudijd
+
+# Title
 Git flag injection - Search API with scope 'blobs' 
+# URL 
 https://hackerone.com/reports/682442
+# Reporter 
 vakzz
+
+# Title
+Local File Disclosure (+XSS+CSRF) in AirOS 6.2.0 devices
+# URL 
+https://hackerone.com/reports/661647
+# Reporter 
+murmus
+
+# Title
 Unauthorized access to Zookeeper on http://locutus-zk3.ec2.shopify.com:2181
+# URL 
 https://hackerone.com/reports/154369
+# Reporter 
 mico02
-[systeminformation] Command Injection via insecure command formatting
-https://hackerone.com/reports/925324
-effectrenan
+
+# Title
 h1-5411-CTF report: LFI / Deserialization / XXE vulnerability, 
+# URL 
 https://hackerone.com/reports/415233
+# Reporter 
 apox
-git-fastclone allows arbitrary command execution through usage of ext remote URLs in submodules
-https://hackerone.com/reports/104465
-bburky
+
+# Title
 [marketplace.informatica.com] - XXE
+# URL 
 https://hackerone.com/reports/106797
+# Reporter 
 yarbabin
-Remote Code Execution on www.semrush.com/my_reports on Logo upload
-https://hackerone.com/reports/403417
-fransrosen
+
+# Title
+[systeminformation] Command Injection via insecure command formatting
+# URL 
+https://hackerone.com/reports/925324
+# Reporter 
+effectrenan
+
+# Title
+git-fastclone allows arbitrary command execution through usage of ext remote URLs in submodules
+# URL 
+https://hackerone.com/reports/104465
+# Reporter 
+bburky
+
+# Title
 XXE and SSRF on webmaster.mail.ru
+# URL 
 https://hackerone.com/reports/12583
-Vulnerability in project import leads to arbitrary command execution
-https://hackerone.com/reports/378148
-saltyyolk
-Server side includes in https://lgtm-com.pentesting.semmle.net/internal_api/v0.2/savePublicInformation leads to 500 server error and  D-DOS
-https://hackerone.com/reports/413655
-zeasham
-[extra-ffmpeg] Command Injection via insecure command formatting
-https://hackerone.com/reports/863944
+# Reporter 
+4lemon
+
+# Title
+Remote Code Execution on www.semrush.com/my_reports on Logo upload
+# URL 
+https://hackerone.com/reports/403417
+# Reporter 
+fransrosen
+
+# Title
 Command injection in 'pdf-image'
+# URL 
 https://hackerone.com/reports/340208
+# Reporter 
 defmax
-[api.allodsteam.com] Authentication Data
-https://hackerone.com/reports/95804
-bigbear_
-Command injection by setting a custom search engine
-https://hackerone.com/reports/497312
-peter_
-Rank Creation function not validating user inputs.
-https://hackerone.com/reports/57263
-1234123123
-[extra-asciinema] Command Injection via insecure command formatting
-https://hackerone.com/reports/863956
+
+# Title
+Server side includes in https://lgtm-com.pentesting.semmle.net/internal_api/v0.2/savePublicInformation leads to 500 server error and  D-DOS
+# URL 
+https://hackerone.com/reports/413655
+# Reporter 
+zeasham
+
+# Title
+Vulnerability in project import leads to arbitrary command execution
+# URL 
+https://hackerone.com/reports/378148
+# Reporter 
+saltyyolk
+
+# Title
 Bypassed or command injection
+# URL 
 https://hackerone.com/reports/34917
+# Reporter 
 shivathegame
-HK.Yahoo.Net Remote Command Execution
-https://hackerone.com/reports/2127
-nahamsec
+
+# Title
+[extra-asciinema] Command Injection via insecure command formatting
+# URL 
+https://hackerone.com/reports/863956
+# Reporter 
+d3lla
+
+# Title
+[extra-ffmpeg] Command Injection via insecure command formatting
+# URL 
+https://hackerone.com/reports/863944
+# Reporter 
+d3lla
+
+# Title
+Command injection by setting a custom search engine
+# URL 
+https://hackerone.com/reports/497312
+# Reporter 
+peter_
+
+# Title
+Rank Creation function not validating user inputs.
+# URL 
+https://hackerone.com/reports/57263
+# Reporter 
+1234123123
+
+# Title
+[api.allodsteam.com] Authentication Data
+# URL 
+https://hackerone.com/reports/95804
+# Reporter 
+bigbear_
+
+# Title
 HTML injection in email sent by romit.io
+# URL 
 https://hackerone.com/reports/57914
+# Reporter 
 crab
+
+# Title
+HK.Yahoo.Net Remote Command Execution
+# URL 
+https://hackerone.com/reports/2127
+# Reporter 
+nahamsec
+
+# Title
 Command Injection Vulnerability in libnmap Package
+# URL 
 https://hackerone.com/reports/390865
-Command Injection in npm module name passed as an argument to pm2.install() function
-https://hackerone.com/reports/633364
+# Reporter 
+cris_semmle
+
+# Title
 The web app's forgot password page is vulnerable to text injection/content spoofing
+# URL 
 https://hackerone.com/reports/159213
+# Reporter 
 dermeister
-`whereis` concatenates unsanitized input into exec() command
-https://hackerone.com/reports/319476
-Subtile Code Injection Vulnerability in Dropbox for Windows
-https://hackerone.com/reports/163292
-fbogner
-Test-scripts for postgis in mason-repository using unsafe unzip of content from unclaimed bucket creates potential RCE-issues
-https://hackerone.com/reports/329689
+
+# Title
 [website] Script injection in newsletter signup https://brave.com/brave_youth_program_signup.html
+# URL 
 https://hackerone.com/reports/175403
+# Reporter 
 cmd-0_0
-RCE on default Ubuntu Desktop >= 12.10 Quantal
-https://hackerone.com/reports/192512
-donnchac
+
+# Title
+Command Injection in npm module name passed as an argument to pm2.install() function
+# URL 
+https://hackerone.com/reports/633364
+# Reporter 
+bl4de
+
+# Title
+Subtile Code Injection Vulnerability in Dropbox for Windows
+# URL 
+https://hackerone.com/reports/163292
+# Reporter 
+fbogner
+
+# Title
+`whereis` concatenates unsanitized input into exec() command
+# URL 
+https://hackerone.com/reports/319476
+# Reporter 
+chalker
+
+# Title
+Test-scripts for postgis in mason-repository using unsafe unzip of content from unclaimed bucket creates potential RCE-issues
+# URL 
+https://hackerone.com/reports/329689
+# Reporter 
+fransrosen
+
+# Title
 XXE issue
+# URL 
 https://hackerone.com/reports/130661
-Chat History CSV Export Excel Injection Vulnerability
-https://hackerone.com/reports/116937
-pr0tagon1st
-[careers.informatica.com] Reflected Cross Site Scripting to XSS Shell Possible
-https://hackerone.com/reports/147196
-zephrfish
+# Reporter 
+4lemon
+
+# Title
 Administrator Access To Management Console
+# URL 
 https://hackerone.com/reports/182637
+# Reporter 
 ameerpornillos
+
+# Title
+[careers.informatica.com] Reflected Cross Site Scripting to XSS Shell Possible
+# URL 
+https://hackerone.com/reports/147196
+# Reporter 
+zephrfish
+
+# Title
+Chat History CSV Export Excel Injection Vulnerability
+# URL 
+https://hackerone.com/reports/116937
+# Reporter 
+pr0tagon1st
+
+# Title
+RCE on default Ubuntu Desktop >= 12.10 Quantal
+# URL 
+https://hackerone.com/reports/192512
+# Reporter 
+donnchac
+
+# Title
 From Unrestricted File Upload to Remote Command Execution
+# URL 
 https://hackerone.com/reports/4836
+# Reporter 
 santese
+
+# Title
 RCE which may occur due to `ActiveSupport::MessageVerifier` or `ActiveSupport::MessageEncryptor` (especially Active storage)
+# URL 
 https://hackerone.com/reports/473888
+# Reporter 
 ooooooo_q
-[EdgeSwitch] Web GUI command injection as root with Privilege-1 and Privilege-15 users
-https://hackerone.com/reports/197958
-phenix
-XXE at Informatica sub-domain
-https://hackerone.com/reports/150520
-strukt
-Read-Only user can execute arbitraty shell commands on AirOS
-https://hackerone.com/reports/128750
-93c08539
-Singup Page HTML Injection Vulnerability
-https://hackerone.com/reports/31554
-a_ashwarya
-CSV Injection with the CSV export feature
-https://hackerone.com/reports/130338
-trabajoduro
-Command injection in Pathname
-https://hackerone.com/reports/449482
+
+# Title
 Command Injection Vulnerability in kill-port Package
+# URL 
 https://hackerone.com/reports/389561
+# Reporter 
+cris_semmle
+
+# Title
+[EdgeSwitch] Web GUI command injection as root with Privilege-1 and Privilege-15 users
+# URL 
+https://hackerone.com/reports/197958
+# Reporter 
+phenix
+
+# Title
+Read-Only user can execute arbitraty shell commands on AirOS
+# URL 
+https://hackerone.com/reports/128750
+# Reporter 
+93c08539
+
+# Title
+XXE at Informatica sub-domain
+# URL 
+https://hackerone.com/reports/150520
+# Reporter 
+strukt
+
+# Title
+CSV Injection with the CSV export feature
+# URL 
+https://hackerone.com/reports/130338
+# Reporter 
+trabajoduro
+
+# Title
+Singup Page HTML Injection Vulnerability
+# URL 
+https://hackerone.com/reports/31554
+# Reporter 
+a_ashwarya
+
+# Title
+Command injection in Pathname
+# URL 
+https://hackerone.com/reports/449482
+# Reporter 
+ooooooo_q
+
+# Title
 Admin Panel Accessed (OAuth Bypassed ) 
+# URL 
 https://hackerone.com/reports/294911
+# Reporter 
 aneeskhan
+
+# Title
 username enumeration 
+# URL 
 https://hackerone.com/reports/179701
+# Reporter 
 twi0x00tter
+
+# Title
 Vulnerable to JavaScript injection. (WXS)  (Javascript injection)!
+# URL 
 https://hackerone.com/reports/54631
+# Reporter 
 protector47
+
+# Title
 Cisco RCE
+# URL 
 https://hackerone.com/reports/411270
+# Reporter 
 neolead
+
+# Title
 Arbitrary command execution in MS-DOS
+# URL 
 https://hackerone.com/reports/5499
+# Reporter 
 badca7
-Pull Request #12949 - Security Implications without CVE assignment
-https://hackerone.com/reports/415329
-jzebor
-Roundcube virtualmin privilege escalation (CVE-2017-8114)
-https://hackerone.com/reports/242119
-ilsani
+
+# Title
 Directory Traversal at http://staging.jsdelivr.net/
+# URL 
 https://hackerone.com/reports/18371
+# Reporter 
 vineet
+
+# Title
 [realty.mail.ru] XSS, SSI Injection
+# URL 
 https://hackerone.com/reports/159985
+# Reporter 
 bobrov
-[egg-scripts] Command injection
-https://hackerone.com/reports/388936
-pontus_johnson
+
+# Title
+Roundcube virtualmin privilege escalation (CVE-2017-8114)
+# URL 
+https://hackerone.com/reports/242119
+# Reporter 
+ilsani
+
+# Title
+Pull Request #12949 - Security Implications without CVE assignment
+# URL 
+https://hackerone.com/reports/415329
+# Reporter 
+jzebor
+
+# Title
 Code Injection in Slack's Windows Desktop Client leads to Privilege Escalation
+# URL 
 https://hackerone.com/reports/162955
-[apex-publish-static-files] Command Injection on connectString
-https://hackerone.com/reports/405694
-abdilahrf_
-JMX RMI command injection on 195.211.131.82(Mail.ru Gaming)
-https://hackerone.com/reports/703910
-johndoe1492
+# Reporter 
+fbogner
+
+# Title
 Possible RCE
+# URL 
 https://hackerone.com/reports/145343
+# Reporter 
 paulos_
+
+# Title
+[egg-scripts] Command injection
+# URL 
+https://hackerone.com/reports/388936
+# Reporter 
+pontus_johnson
+
+# Title
+JMX RMI command injection on 195.211.131.82(Mail.ru Gaming)
+# URL 
+https://hackerone.com/reports/703910
+# Reporter 
+johndoe1492
+
+# Title
 H1514 Remote Code Execution on kitcrm using bulk customer update of Priority Products
+# URL 
 https://hackerone.com/reports/422944
-HTTP Response Splitting(CRLF injection) in bi.owox.com
-https://hackerone.com/reports/171473
-quistertow
-Privilege Escalation From user to SYSTEM via unauthenticated command execution 
-https://hackerone.com/reports/544928
-b0yd
-[rev-app.informatica.com] - XXE via SAML
-https://hackerone.com/reports/106865
+# Reporter 
+fransrosen
+
+# Title
+[apex-publish-static-files] Command Injection on connectString
+# URL 
+https://hackerone.com/reports/405694
+# Reporter 
+abdilahrf_
+
+# Title
 Command Injection is ps Package
+# URL 
 https://hackerone.com/reports/390848
-Code Execution in restricted CLI of EdgeSwitch
-https://hackerone.com/reports/313245
-maxpl0it
+# Reporter 
+cris_semmle
+
+# Title
+HTTP Response Splitting(CRLF injection) in bi.owox.com
+# URL 
+https://hackerone.com/reports/171473
+# Reporter 
+quistertow
+
+# Title
+Privilege Escalation From user to SYSTEM via unauthenticated command execution 
+# URL 
+https://hackerone.com/reports/544928
+# Reporter 
+b0yd
+
+# Title
+[rev-app.informatica.com] - XXE via SAML
+# URL 
+https://hackerone.com/reports/106865
+# Reporter 
+yarbabin
+
+# Title
 OS Command Injection in Nexus Repository Manager 2.x -- Bypass for Nexus Repository Manage 2.14.15-01 Command Injection fix
+# URL 
 https://hackerone.com/reports/724599
+# Reporter 
 longofo
+
+# Title
+Read-Only user can execute arbitraty shell commands on AirOS
+# URL 
 https://hackerone.com/reports/139398
+# Reporter 
+93c08539
+
+# Title
 Command Injection vulnerability in kill-port-process package
+# URL 
 https://hackerone.com/reports/661959
-CSV Excel Macro Injection Vulnerability in export customer tickets
-https://hackerone.com/reports/90131
-[open] concatenation of unsanitized input into exec() command
-https://hackerone.com/reports/319473
-[pdfinfojs] Command Injection on filename parameter
-https://hackerone.com/reports/330957
-caioluders
-File upload XSS (Java applet) on http://slackatwork.com/
-https://hackerone.com/reports/97657
-Potential command injection in `Shell#[]` and `Shell#test`
-https://hackerone.com/reports/327512
-Unauthorized command execution in Web protection component of Anti-Virus products family [FF, Chrome]
-https://hackerone.com/reports/470553
-palant
-`command-exists` concatenates unsanitized input into exec()/execSync() commands
-https://hackerone.com/reports/324453
-CSV Injection with the CVS export feature
-https://hackerone.com/reports/72785
-appsec3
-Admin Command Injection via username in user_archive ExportCsvFile
-https://hackerone.com/reports/214022
-ziot
-[samsung-remote] Command injection
-https://hackerone.com/reports/394294
+# Reporter 
+effectrenan
+
+# Title
 Synthetics Xss
+# URL 
 https://hackerone.com/reports/123649
+# Reporter 
 mg94
+
+# Title
+Code Execution in restricted CLI of EdgeSwitch
+# URL 
+https://hackerone.com/reports/313245
+# Reporter 
+maxpl0it
+
+# Title
+CSV Excel Macro Injection Vulnerability in export customer tickets
+# URL 
+https://hackerone.com/reports/90131
+# Reporter 
+alyssa_herrera
+
+# Title
+File upload XSS (Java applet) on http://slackatwork.com/
+# URL 
+https://hackerone.com/reports/97657
+# Reporter 
+hassham
+
+# Title
+[open] concatenation of unsanitized input into exec() command
+# URL 
+https://hackerone.com/reports/319473
+# Reporter 
+chalker
+
+# Title
+[pdfinfojs] Command Injection on filename parameter
+# URL 
+https://hackerone.com/reports/330957
+# Reporter 
+caioluders
+
+# Title
+Admin Command Injection via username in user_archive ExportCsvFile
+# URL 
+https://hackerone.com/reports/214022
+# Reporter 
+ziot
+
+# Title
+Potential command injection in `Shell#[]` and `Shell#test`
+# URL 
+https://hackerone.com/reports/327512
+# Reporter 
+ooooooo_q
+
+# Title
+Unauthorized command execution in Web protection component of Anti-Virus products family [FF, Chrome]
+# URL 
+https://hackerone.com/reports/470553
+# Reporter 
+palant
+
+# Title
+CSV Injection with the CVS export feature
+# URL 
+https://hackerone.com/reports/72785
+# Reporter 
+appsec3
+
+# Title
+`command-exists` concatenates unsanitized input into exec()/execSync() commands
+# URL 
+https://hackerone.com/reports/324453
+# Reporter 
+chalker
+
+# Title
+[samsung-remote] Command injection
+# URL 
+https://hackerone.com/reports/394294
+# Reporter 
+pontus_johnson
+
+# Title
 `macaddress` concatenates unsanitized input into exec() command
+# URL 
 https://hackerone.com/reports/319467
-CSV Injection in Camptix
-https://hackerone.com/reports/164674
-grande
-Html injection on khanacademy
-https://hackerone.com/reports/83604
-manish_prajapat
-Unauthorized command execution in Web protection component of Anti-Virus products family
-https://hackerone.com/reports/470544
+# Reporter 
+chalker
+
+# Title
 Command injection by overwriting authorized_keys file through GitLab import
+# URL 
 https://hackerone.com/reports/298873
+# Reporter 
 jobert
-Attention! Remote Code Execution at http://wpt.ec2.shopify.com/
-https://hackerone.com/reports/73567
-prakharprasad
-SSRF / Local file enumeration / DoS due to improper handling of certain file formats by ffmpeg
-https://hackerone.com/reports/115978
-aesteral
-Git flag injection - local file overwrite to remote code execution
-https://hackerone.com/reports/658013
+
+# Title
+Html injection on khanacademy
+# URL 
+https://hackerone.com/reports/83604
+# Reporter 
+manish_prajapat
+
+# Title
+CSV Injection in Camptix
+# URL 
+https://hackerone.com/reports/164674
+# Reporter 
+grande
+
+# Title
 EdgeSwitch Command Injection
+# URL 
 https://hackerone.com/reports/508256
+# Reporter 
 fr33rh
-Site support SNI But Browser can't
-https://hackerone.com/reports/149442
-meena_hack
-CSV Injection at the CSV export feature
-https://hackerone.com/reports/118582
-i_am_no_one
+
+# Title
+Attention! Remote Code Execution at http://wpt.ec2.shopify.com/
+# URL 
+https://hackerone.com/reports/73567
+# Reporter 
+prakharprasad
+
+# Title
+Git flag injection - local file overwrite to remote code execution
+# URL 
+https://hackerone.com/reports/658013
+# Reporter 
+vakzz
+
+# Title
+SSRF / Local file enumeration / DoS due to improper handling of certain file formats by ffmpeg
+# URL 
+https://hackerone.com/reports/115978
+# Reporter 
+aesteral
+
+# Title
 Bypassing Uber Partner's 3 Cancel Limit 
+# URL 
 https://hackerone.com/reports/125218
+# Reporter 
 razeeb
+
+# Title
+Unauthorized command execution in Web protection component of Anti-Virus products family
+# URL 
+https://hackerone.com/reports/470544
+# Reporter 
+palant
+
+# Title
 CSV Injection via the CSV export feature
+# URL 
 https://hackerone.com/reports/124223
+# Reporter 
 stewie
+
+# Title
+CSV Injection at the CSV export feature
+# URL 
+https://hackerone.com/reports/118582
+# Reporter 
+i_am_no_one
+
+# Title
+Site support SNI But Browser can't
+# URL 
+https://hackerone.com/reports/149442
+# Reporter 
+meena_hack
+
+# Title
 Insufficient sanitizing can lead to arbitrary commands execution
+# URL 
 https://hackerone.com/reports/494979
+# Reporter 
 mrnbayoh
+
+# Title
 Send arbitrary PUT requests when user clicks on a link
+# URL 
 https://hackerone.com/reports/824689
+# Reporter 
 yvvdwf
+
+# Title
 RCE через JDWP
+# URL 
 https://hackerone.com/reports/49408
+# Reporter 
 isox
-RCE by command line argument injection to `gm convert` in `/edit/process?a=crop`
-https://hackerone.com/reports/212696
-neex
-Host Header Injection/Redirection Attack
-https://hackerone.com/reports/157465
-footstep
-https://hackerone.com/reports/119317
+
+# Title
 CSV Injection at Camptix Event Ticketing
+# URL 
 https://hackerone.com/reports/151516
+# Reporter 
 thezawad
-Blind Command Injection #1
-https://hackerone.com/reports/807961
-bugify12334
-RCE in AirOS 6.2.0 Devices with CSRF bypass
-https://hackerone.com/reports/703659
+
+# Title
+Read-Only user can execute arbitraty shell commands on AirOS
+# URL 
+https://hackerone.com/reports/119317
+# Reporter 
+93c08539
+
+# Title
+RCE by command line argument injection to `gm convert` in `/edit/process?a=crop`
+# URL 
+https://hackerone.com/reports/212696
+# Reporter 
+neex
+
+# Title
 OS Command Injection in Nexus Repository Manager 2.x(bypass CVE-2019-5475)
+# URL 
 https://hackerone.com/reports/688270
+# Reporter 
 badcode_
-Не достаточная проверка логина скайп
-https://hackerone.com/reports/65330
-abr1k0s
-CSV injection in gratipay.com via payment history export feature.
-https://hackerone.com/reports/219323
-bypass to csv injection
-https://hackerone.com/reports/161290
-superngorksky
-CSV Macro injection in Video Manager (CEMI)
-https://hackerone.com/reports/137850
-awake
-https://hackerone.com/reports/111192
-zombiehelp54
-Blind OOB XXE At "http://ubermovement.com/"
-https://hackerone.com/reports/154096
-raghav_bisht
-Malware in `active-support` gem
-https://hackerone.com/reports/392311
-reed
-[entitlements] Command injection on the 'path' parameter
-https://hackerone.com/reports/341869
+
+# Title
+Host Header Injection/Redirection Attack
+# URL 
+https://hackerone.com/reports/157465
+# Reporter 
+footstep
+
+# Title
+Blind Command Injection #1
+# URL 
+https://hackerone.com/reports/807961
+# Reporter 
+bugify12334
+
+# Title
 Git flag injection leading to file overwrite and potential remote code execution
+# URL 
 https://hackerone.com/reports/653125
+# Reporter 
+vakzz
+
+# Title
+Не достаточная проверка логина скайп
+# URL 
+https://hackerone.com/reports/65330
+# Reporter 
+abr1k0s
+
+# Title
+RCE in AirOS 6.2.0 Devices with CSRF bypass
+# URL 
+https://hackerone.com/reports/703659
+# Reporter 
+murmus
+
+# Title
+CSV injection in gratipay.com via payment history export feature.
+# URL 
+https://hackerone.com/reports/219323
+# Reporter 
+edoverflow
+
+# Title
 CSV Injection in sub_accounts.csv
+# URL 
 https://hackerone.com/reports/127032
+# Reporter 
 cisplatin
-CSV Excel Macro Injection Vulnerability in export list of current users - app.shopify.com
-https://hackerone.com/reports/100667
-Local files could be overwritten in GitLab, leading to remote command execution
-https://hackerone.com/reports/587854
+
+# Title
+CSV Injection via the CSV export feature
+# URL 
+https://hackerone.com/reports/111192
+# Reporter 
+zombiehelp54
+
+# Title
+Blind OOB XXE At "http://ubermovement.com/"
+# URL 
+https://hackerone.com/reports/154096
+# Reporter 
+raghav_bisht
+
+# Title
+[entitlements] Command injection on the 'path' parameter
+# URL 
+https://hackerone.com/reports/341869
+# Reporter 
+caioluders
+
+# Title
+bypass to csv injection
+# URL 
+https://hackerone.com/reports/161290
+# Reporter 
+superngorksky
+
+# Title
+CSV Macro injection in Video Manager (CEMI)
+# URL 
+https://hackerone.com/reports/137850
+# Reporter 
+awake
+
+# Title
+Malware in `active-support` gem
+# URL 
+https://hackerone.com/reports/392311
+# Reporter 
+reed
+
+# Title
 [insideok.ru] Remote Command Execution via file upload.
+# URL 
 https://hackerone.com/reports/666716
+# Reporter 
 iframe
-Command injection in the process of downloading the latest version of the cloud key firmware through the unifi management software.
-https://hackerone.com/reports/183458
-dblack
-Bypassing CSV injection using new line charcter
-https://hackerone.com/reports/160500
-huops
-Triggering RCE using XSS to bypass CSRF in PowerBeam M5 300
-https://hackerone.com/reports/289264
+
+# Title
+CSV Excel Macro Injection Vulnerability in export list of current users - app.shopify.com
+# URL 
+https://hackerone.com/reports/100667
+# Reporter 
+zombiehelp54
+
+# Title
+Local files could be overwritten in GitLab, leading to remote command execution
+# URL 
+https://hackerone.com/reports/587854
+# Reporter 
+saltyyolk
+
+# Title
 Command Execution because of extension handling
+# URL 
 https://hackerone.com/reports/188078
+# Reporter 
+paulos_
+
+# Title
+Bypassing CSV injection using new line charcter
+# URL 
+https://hackerone.com/reports/160500
+# Reporter 
+huops
+
+# Title
+Command injection in the process of downloading the latest version of the cloud key firmware through the unifi management software.
+# URL 
+https://hackerone.com/reports/183458
+# Reporter 
+dblack
+
+# Title
 RCE By import channel field
+# URL 
 https://hackerone.com/reports/335761
+# Reporter 
 khaledibnalwalid
+
+# Title
+Triggering RCE using XSS to bypass CSRF in PowerBeam M5 300
+# URL 
+https://hackerone.com/reports/289264
+# Reporter 
+maxpl0it
+
+# Title
 [gfc] Command Injection via insecure command formatting
+# URL 
 https://hackerone.com/reports/871071
+# Reporter 
+d3lla
+
+# Title
 CSV-injection in export functionality
+# URL 
 https://hackerone.com/reports/335447
+# Reporter 
 muon4
-Arbitrary Code Injection in ownCloud’s Windows Client
-https://hackerone.com/reports/155657
+
+# Title
 Command injection on Phabricator instance with an evil hg branch name
+# URL 
 https://hackerone.com/reports/288704
-Remote Command Execution vulnerability in pullit
-https://hackerone.com/reports/315773
-lirantal
-Remote code execution on Basecamp.com
-https://hackerone.com/reports/365271
-gammarex
+# Reporter 
+pnig0s
+
+# Title
 Command Injection, Information 
+# URL 
 https://hackerone.com/reports/146735
+# Reporter 
 khiladibayal
-Kaspersky Protection extension for Google Chrome is vulnerable to abuse its features
-https://hackerone.com/reports/470519
+
+# Title
+Arbitrary Code Injection in ownCloud’s Windows Client
+# URL 
+https://hackerone.com/reports/155657
+# Reporter 
+fbogner
+
+# Title
+Remote code execution on Basecamp.com
+# URL 
+https://hackerone.com/reports/365271
+# Reporter 
+gammarex
+
+# Title
+Remote Command Execution vulnerability in pullit
+# URL 
+https://hackerone.com/reports/315773
+# Reporter 
+lirantal
+
+# Title
 Cookie Injection at 'harvestapp.com'
+# URL 
 https://hackerone.com/reports/174474
+# Reporter 
 zuh4n
+
+# Title
+Kaspersky Protection extension for Google Chrome is vulnerable to abuse its features
+# URL 
+https://hackerone.com/reports/470519
+# Reporter 
+palant
+
+# Title
 Sending arbitrary IPC messages via overriding Function.prototype.apply
+# URL 
 https://hackerone.com/reports/188086
+# Reporter 
+masatokinugawa
+
+# Title
 [@knutkirkhorn/free-space] - Command Injection through Lack of Sanitization
+# URL 
 https://hackerone.com/reports/950192
+# Reporter 
+ansuj
+
+# Title
 Reflected File Download attack allows attacker to 'upload' executables to hackerone.com domain
+# URL 
 https://hackerone.com/reports/50658
+# Reporter 
 rickypaipie
-No SearchEngine sanatizing can lead to command injection
-https://hackerone.com/reports/495382
-SMTP command injection
-https://hackerone.com/reports/137631
-jeremy
+
+# Title
 Shell Injection via Web Management Console (dl-fw.cgi)
+# URL 
 https://hackerone.com/reports/121940
+# Reporter 
 jstjohn
+
+# Title
+No SearchEngine sanatizing can lead to command injection
+# URL 
+https://hackerone.com/reports/495382
+# Reporter 
+mrnbayoh
+
+# Title
+SMTP command injection
+# URL 
+https://hackerone.com/reports/137631
+# Reporter 
+jeremy
+
+# Title
 RCE Possible Via Video Manager Export using @ character in Video Title
+# URL 
 https://hackerone.com/reports/146593
-https://hackerone.com/reports/106802
-[diskstats] Command Injection via insecure command concatenation
-https://hackerone.com/reports/864354
+# Reporter 
+zephrfish
+
+# Title
 Unrestricted File Upload
+# URL 
 https://hackerone.com/reports/184596
+# Reporter 
 hogarth45
+
+# Title
+[marketplace.informatica.com] - XXE
+# URL 
+https://hackerone.com/reports/106802
+# Reporter 
+yarbabin
+
+# Title
+[diskstats] Command Injection via insecure command concatenation
+# URL 
+https://hackerone.com/reports/864354
+# Reporter 
+d3lla
+
+# Title
 Command Injection (via CVE-2019-11510 and CVE-2019-11539)
+# URL 
 https://hackerone.com/reports/680480
+# Reporter 
 l00ph0le
+
+# Title
 Urgent Fix Balance Limit bypass 
+# URL 
 https://hackerone.com/reports/147220
+# Reporter 
 tayyab-qadir
-CSV Injection https://hub.grab.com
-https://hackerone.com/reports/244292
-poison
+
+# Title
 [vboxmanage.js] Command Injection via insecure command concatenation
+# URL 
 https://hackerone.com/reports/864777
+# Reporter 
+d3lla
+
+# Title
+CSV Injection https://hub.grab.com
+# URL 
+https://hackerone.com/reports/244292
+# Reporter 
+poison
+
+# Title
 [ascii-art] Command injection
+# URL 
 https://hackerone.com/reports/390631
-CSV Injection with the CVS export feature - Glossary
-https://hackerone.com/reports/224291
-amsda
+# Reporter 
+pontus_johnson
+
+# Title
 REG: Content provider information leakage
+# URL 
 https://hackerone.com/reports/146179
+# Reporter 
 zeroknife
+
+# Title
 SSRF on https://whitehataudit.slack.com/account/photo
+# URL 
 https://hackerone.com/reports/14127
-Stored number of clicks in the Deposits button
-https://hackerone.com/reports/147188
-only1
-Bypass fix in https://hackerone.com/reports/151516 report.
-https://hackerone.com/reports/160520
-0x01alka
-Injection via CSV Export feature in Admin Orders
-https://hackerone.com/reports/118103
-wakadotz
-HTML injection in email in unikrn.com
-https://hackerone.com/reports/262004
-coreyd97
-[last-commit-log] Command Injection
-https://hackerone.com/reports/881713
-bilk0h
+# Reporter 
+4lemon
+
+# Title
+CSV Injection with the CVS export feature - Glossary
+# URL 
+https://hackerone.com/reports/224291
+# Reporter 
+amsda
+
+# Title
 Unauthorized command execution in Web protection component of Anti-Virus products family [IE]
+# URL 
 https://hackerone.com/reports/470547
-Unsafe usage of Ruby string interpolation enabling command injection in git-fastclone
-https://hackerone.com/reports/105190
+# Reporter 
+palant
+
+# Title
+Stored number of clicks in the Deposits button
+# URL 
+https://hackerone.com/reports/147188
+# Reporter 
+only1
+
+# Title
+HTML injection in email in unikrn.com
+# URL 
+https://hackerone.com/reports/262004
+# Reporter 
+coreyd97
+
+# Title
+Injection via CSV Export feature in Admin Orders
+# URL 
+https://hackerone.com/reports/118103
+# Reporter 
+wakadotz
+
+# Title
+Bypass fix in https://hackerone.com/reports/151516 report.
+# URL 
+https://hackerone.com/reports/160520
+# Reporter 
+0x01alka
+
+# Title
 twitter android app Fragment Injection
+# URL 
 https://hackerone.com/reports/43988
+# Reporter 
 miantaiduo
-Formula injection via CSV exports in WordCamp Talks plugin
-https://hackerone.com/reports/277525
-whitehatter
+
+# Title
+[last-commit-log] Command Injection
+# URL 
+https://hackerone.com/reports/881713
+# Reporter 
+bilk0h
+
+# Title
 command Injection in rawlog binary
+# URL 
 https://hackerone.com/reports/356775
+# Reporter 
 mikki_khan
-Sendmail Remote Code Execution Vulnerability in Concrete5 version 5.7.3.1
-https://hackerone.com/reports/59663
-egix
+
+# Title
+Unsafe usage of Ruby string interpolation enabling command injection in git-fastclone
+# URL 
+https://hackerone.com/reports/105190
+# Reporter 
+bburky
+
+# Title
+Formula injection via CSV exports in WordCamp Talks plugin
+# URL 
+https://hackerone.com/reports/277525
+# Reporter 
+whitehatter
+
+# Title
 CSV Excel Macro Injection in Export Response
+# URL 
 https://hackerone.com/reports/90415
+# Reporter 
+alyssa_herrera
+
+# Title
+Sendmail Remote Code Execution Vulnerability in Concrete5 version 5.7.3.1
+# URL 
+https://hackerone.com/reports/59663
+# Reporter 
+egix
+
+# Title
 [devcert] Command Injection via insecure command formatting
+# URL 
 https://hackerone.com/reports/863544
+# Reporter 
+d3lla
+
+# Title
 Escape sequence injection vulnerability in WEBrick BasicAuth
+# URL 
 https://hackerone.com/reports/223363
+# Reporter 
+mame
+

@@ -5,27 +5,59 @@ https://hackerone.com/reports/428757
 # Reporter 
 bigchonk
 
-Compromise of auth via subset/superset namespace names.
-https://hackerone.com/reports/778803
-alex_orange
+# Title
 Two-factor authentication (2FA) Bypass
+# URL 
 https://hackerone.com/reports/708303
+# Reporter 
 offensive-security
-Account verification bypass on translate.kromtech.com
-https://hackerone.com/reports/737334
-rumiljonov
-Slack server disclose h1 private issue report
-https://hackerone.com/reports/1035976
-jrckmcsb
-Access control bypass leads to domain information disclosure
-https://hackerone.com/reports/630192
-morax
+
+# Title
 SDC bypass on calendar.mail.ru
+# URL 
 https://hackerone.com/reports/1024029
+# Reporter 
 chaosbolt
-Bypass Too Many Requests Sign Up 
-https://hackerone.com/reports/947349
-34n3kjb4j3b4jh
+
+# Title
+Compromise of auth via subset/superset namespace names.
+# URL 
+https://hackerone.com/reports/778803
+# Reporter 
+alex_orange
+
+# Title
+Access control bypass leads to domain information disclosure
+# URL 
+https://hackerone.com/reports/630192
+# Reporter 
+morax
+
+# Title
+Account verification bypass on translate.kromtech.com
+# URL 
+https://hackerone.com/reports/737334
+# Reporter 
+rumiljonov
+
+# Title
 Ability to bypass email verification for OAuth grants results in accounts takeovers on 3rd parties
+# URL 
 https://hackerone.com/reports/922456
+# Reporter 
 cache-money
+
+# Title
+Bypass Too Many Requests Sign Up 
+# URL 
+https://hackerone.com/reports/947349
+# Reporter 
+34n3kjb4j3b4jh
+
+# Title
+Slack server disclose h1 private issue report
+# URL 
+https://hackerone.com/reports/1035976
+# Reporter 
+jrckmcsb
+

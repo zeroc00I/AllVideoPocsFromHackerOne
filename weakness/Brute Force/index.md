@@ -5,9 +5,34 @@ https://hackerone.com/reports/230026
 # Reporter 
 gamliel
 
+# Title
 Rate limit missing at room login
+# URL 
 https://hackerone.com/reports/385381
+# Reporter 
 lucky_sen
+
+# Title
+load scripts DOS vulnerability
+# URL 
+https://hackerone.com/reports/826238
+# Reporter 
+th3cyb3rc0p
+
+# Title
+Verification code for Underwriter dashboard can be brute-forced
+# URL 
+https://hackerone.com/reports/231813
+# Reporter 
+bhumish
+
+# Title
+Missing Rate Limit in Forgot Password can Lead to email address leakage of all smule accounts
+# URL 
+https://hackerone.com/reports/441161
+# Reporter 
+dhakal_ananda
+
 # Title
 scripts loader DOS vulnerability
 # URL 
@@ -15,164 +40,381 @@ https://hackerone.com/reports/690338
 # Reporter 
 badisman
 
-load scripts DOS vulnerability
-https://hackerone.com/reports/826238
-th3cyb3rc0p
+# Title
 the login blocking mechanism does not work correctly
+# URL 
 https://hackerone.com/reports/504362
+# Reporter 
 aufzayed
-Verification code for Underwriter dashboard can be brute-forced
-https://hackerone.com/reports/231813
-bhumish
-Missing Rate Limit in Forgot Password can Lead to email address leakage of all smule accounts
-https://hackerone.com/reports/441161
-dhakal_ananda
+
+# Title
 Two Factor Authentication Bypass
+# URL 
 https://hackerone.com/reports/350288
+# Reporter 
 amans
-The Uber Promo Customer Endpoint Does Not Implement Multifactor Authentication, Blacklisting or Rate Limiting
-https://hackerone.com/reports/293359
-gregoryvperry
-[wallet.rapida.ru] Mass SMS flood
-https://hackerone.com/reports/209368
-bigbear_
-brute force attack allowed on admin page https://www.stellar.org/wp-admin/
-https://hackerone.com/reports/342977
-abo-jehad
+
+# Title
 Authorization for wp-admin directory are vulnerable to brute force.
+# URL 
 https://hackerone.com/reports/788420
+# Reporter 
 brumens
-Rate Limit Issue on hosted.weblate.org
-https://hackerone.com/reports/229825
-imran_hadid
-Throttling Bypass - ws1.dashlane.com
-https://hackerone.com/reports/225897
-corb3nik
-Bruteforce Unlimited number of password attempts
-https://hackerone.com/reports/272832
-chrisnagora
-Possible denial of service when entering a loooong password
-https://hackerone.com/reports/840598
-xcheater
+
+# Title
+[wallet.rapida.ru] Mass SMS flood
+# URL 
+https://hackerone.com/reports/209368
+# Reporter 
+bigbear_
+
+# Title
+brute force attack allowed on admin page https://www.stellar.org/wp-admin/
+# URL 
+https://hackerone.com/reports/342977
+# Reporter 
+abo-jehad
+
+# Title
+The Uber Promo Customer Endpoint Does Not Implement Multifactor Authentication, Blacklisting or Rate Limiting
+# URL 
+https://hackerone.com/reports/293359
+# Reporter 
+gregoryvperry
+
+# Title
 No BruteForce Protection
+# URL 
 https://hackerone.com/reports/223337
+# Reporter 
 jaypatel
+
+# Title
 Forgot Password Page SMS Brute Force could lead to Account Takeover using Android/IOS app "About the house" via api.prodom.smart.space
+# URL 
 https://hackerone.com/reports/944392
+# Reporter 
 jayesh25
-Exposed authentication (/cs/Satellite)
-https://hackerone.com/reports/292463
-curiositysec
+
+# Title
+Throttling Bypass - ws1.dashlane.com
+# URL 
+https://hackerone.com/reports/225897
+# Reporter 
+corb3nik
+
+# Title
+Rate Limit Issue on hosted.weblate.org
+# URL 
+https://hackerone.com/reports/229825
+# Reporter 
+imran_hadid
+
+# Title
+Possible denial of service when entering a loooong password
+# URL 
+https://hackerone.com/reports/840598
+# Reporter 
+xcheater
+
+# Title
 There is vulnebility Click Here TO fix
+# URL 
 https://hackerone.com/reports/319036
+# Reporter 
 sonicnik
+
+# Title
+Bruteforce Unlimited number of password attempts
+# URL 
+https://hackerone.com/reports/272832
+# Reporter 
+chrisnagora
+
+# Title
+Exposed authentication (/cs/Satellite)
+# URL 
+https://hackerone.com/reports/292463
+# Reporter 
+curiositysec
+
+# Title
 The login of Hotor Not is Vulnerable to bruteforce.
+# URL 
 https://hackerone.com/reports/744692
+# Reporter 
 oo7hacker3
-Bypassing the SMS sending limit for download app link.
-https://hackerone.com/reports/517711
-bihari_web
+
+# Title
 Account TakeOver at my.33slona.ru
+# URL 
 https://hackerone.com/reports/773519
+# Reporter 
 r0hack
-Rate limits too low for email 2FA
-https://hackerone.com/reports/979820
-exploit_db
-Improper Restriction of Excessive Authentication Attempts at https://api.warrobots.com/auth (Pixonic Games)
-https://hackerone.com/reports/920548
-Account Takeover at vseapteki.ru
-https://hackerone.com/reports/707231
+
+# Title
+Bypassing the SMS sending limit for download app link.
+# URL 
+https://hackerone.com/reports/517711
+# Reporter 
+bihari_web
+
+# Title
 Mail.Ru Top - Website Counter Bruteforcing
+# URL 
 https://hackerone.com/reports/754536
+# Reporter 
 ksapphire
-Improper Restriction of Excessive Authentication Attempts at https://ucs.ru/login
-https://hackerone.com/reports/905194
-BruteForce Any [My.com] Account Credentials.
-https://hackerone.com/reports/238041
+
+# Title
+Account Takeover at vseapteki.ru
+# URL 
+https://hackerone.com/reports/707231
+# Reporter 
+r0hack
+
+# Title
+Rate limits too low for email 2FA
+# URL 
+https://hackerone.com/reports/979820
+# Reporter 
+exploit_db
+
+# Title
+Improper Restriction of Excessive Authentication Attempts at https://api.warrobots.com/auth (Pixonic Games)
+# URL 
+https://hackerone.com/reports/920548
+# Reporter 
+jayesh25
+
+# Title
 Login page password - guessing attack
-0xradi
+# URL 
 https://hackerone.com/reports/244909
+# Reporter 
 paxtammy
+
+# Title
 unlock self-lock by brute force 
+# URL 
 https://hackerone.com/reports/410221
+# Reporter 
 manshum12
+
+# Title
+Improper Restriction of Excessive Authentication Attempts at https://ucs.ru/login
+# URL 
+https://hackerone.com/reports/905194
+# Reporter 
+jayesh25
+
+# Title
 Bruteforcing password reset tokens, could lead to account takeover
+# URL 
 https://hackerone.com/reports/271533
+# Reporter 
 003random
-No rate limit in affiliate statsapi endpoint
-https://hackerone.com/reports/413505
-chilliesssssss7
-Improper Restriction of Excessive Authentication Attempts at o2-ac.my.com/token
-https://hackerone.com/reports/917791
+
+# Title
 [agent.33slona.ru] Recovery code bruteforce
+# URL 
 https://hackerone.com/reports/671119
+# Reporter 
 iframe
+
+# Title
+BruteForce Any [My.com] Account Credentials.
+# URL 
+https://hackerone.com/reports/238041
+# Reporter 
+0xradi
+
+# Title
 Missing rate limit for current password field (Password Change) Account Takeover
+# URL 
 https://hackerone.com/reports/827484
+# Reporter 
 full109tun
-https://hackerone.com/reports/952349
-guoxuxin
+
+# Title
+No rate limit in affiliate statsapi endpoint
+# URL 
+https://hackerone.com/reports/413505
+# Reporter 
+chilliesssssss7
+
+# Title
+Improper Restriction of Excessive Authentication Attempts at o2-ac.my.com/token
+# URL 
+https://hackerone.com/reports/917791
+# Reporter 
+jayesh25
+
+# Title
 Missing Rate Limit in Password Change
+# URL 
 https://hackerone.com/reports/440495
+# Reporter 
+dhakal_ananda
+
+# Title
 Sending Unlimited Emails to anyone from zomato mail server.
+# URL 
 https://hackerone.com/reports/518928
+# Reporter 
+bihari_web
+
+# Title
+Possible denial of service when entering a loooong password
+# URL 
+https://hackerone.com/reports/952349
+# Reporter 
+guoxuxin
+
+# Title
 [H1-2006 2020]  Includes 1 free content discovery
+# URL 
 https://hackerone.com/reports/894198
+# Reporter 
 osintopsec
+
+# Title
 Ability to bruteforce mopub account’s password due to lack of rate limitation protection using {ip rotation techniques}
+# URL 
 https://hackerone.com/reports/819930
+# Reporter 
 updatelap
+
+# Title
 SMS Brute Force Possibility via https://youdrive.today/login/web/code can lead to Account Takeover
+# URL 
 https://hackerone.com/reports/922418
-User login page doesn't implement any form of rate limiting
-https://hackerone.com/reports/410451
-0xspade
-Brute-force any email account through allods.mail.ru 
-https://hackerone.com/reports/811776
-hackervision
-[combo.mail.ru] SMS code bruteforce
-https://hackerone.com/reports/917688
-esetal
+# Reporter 
+jayesh25
+
+# Title
 A specially crafted value for the 'Cache-Digest' header causing crash in  chat.makerdao.com
+# URL 
 https://hackerone.com/reports/972936
+# Reporter 
 lalit2020
-Missing rate-limits at endpoints
-https://hackerone.com/reports/232878
-introvertmac
+
+# Title
+[combo.mail.ru] SMS code bruteforce
+# URL 
+https://hackerone.com/reports/917688
+# Reporter 
+esetal
+
+# Title
+Brute-force any email account through allods.mail.ru 
+# URL 
+https://hackerone.com/reports/811776
+# Reporter 
+hackervision
+
+# Title
 StoreFront API allows for a brute force attack on customer login by not timing out ALL attempts
+# URL 
 https://hackerone.com/reports/708013
+# Reporter 
 clew
+
+# Title
 app.passit.io is vulnerable against Brute Force password quessing attack
+# URL 
 https://hackerone.com/reports/337181
+# Reporter 
 muon4
-SSH port on store.greenhouse.io is vulnerable to brute force attacks
-https://hackerone.com/reports/897556
-lonelyhuman
-mailbomb through invite feature on chrome addon
-https://hackerone.com/reports/233376
-konkakarthik
+
+# Title
+User login page doesn't implement any form of rate limiting
+# URL 
+https://hackerone.com/reports/410451
+# Reporter 
+0xspade
+
+# Title
 Account Takeover worki.ru
+# URL 
 https://hackerone.com/reports/744662
+# Reporter 
 tr3harder
+
+# Title
+Missing rate-limits at endpoints
+# URL 
+https://hackerone.com/reports/232878
+# Reporter 
+introvertmac
+
+# Title
+mailbomb through invite feature on chrome addon
+# URL 
+https://hackerone.com/reports/233376
+# Reporter 
+konkakarthik
+
+# Title
+SSH port on store.greenhouse.io is vulnerable to brute force attacks
+# URL 
+https://hackerone.com/reports/897556
+# Reporter 
+lonelyhuman
+
+# Title
 The password recovery let users know whether an email address exists or not in the website
+# URL 
 https://hackerone.com/reports/681468
+# Reporter 
 guilhermecruzdev
+
+# Title
 SSL expired subdomain leads to API swap with main and flagged cookies. Unable to log device ids and certain session tokens. 
+# URL 
 https://hackerone.com/reports/1024880
+# Reporter 
 babykeem
-Rate Limit workaround in the message of the phone number verification 
-https://hackerone.com/reports/619578
-dr_akm
-Bruteforce in admin panel
-https://hackerone.com/reports/341074
-shawalkhan
-No rate limit in stats api token endpoint
-https://hackerone.com/reports/412526
-Account TakeOver through password recovery at am.ru
-https://hackerone.com/reports/730067
-SSH backdated version open port
-https://hackerone.com/reports/255627
-walidhossain
+
+# Title
 Possibility to enumerate and bruteforce promotion codes in Uber iOS App
+# URL 
 https://hackerone.com/reports/125707
+# Reporter 
 r0t
+
+# Title
+SSH backdated version open port
+# URL 
+https://hackerone.com/reports/255627
+# Reporter 
+walidhossain
+
+# Title
+Rate Limit workaround in the message of the phone number verification 
+# URL 
+https://hackerone.com/reports/619578
+# Reporter 
+dr_akm
+
+# Title
+Bruteforce in admin panel
+# URL 
+https://hackerone.com/reports/341074
+# Reporter 
+shawalkhan
+
+# Title
+No rate limit in stats api token endpoint
+# URL 
+https://hackerone.com/reports/412526
+# Reporter 
+chilliesssssss7
+
+# Title
+Account TakeOver through password recovery at am.ru
+# URL 
+https://hackerone.com/reports/730067
+# Reporter 
+r0hack
+

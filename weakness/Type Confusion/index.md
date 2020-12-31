@@ -12,6 +12,10 @@ https://hackerone.com/reports/292500
 # Reporter 
 paulos_
 
+# Title
 Insufficient Type Check leading to Developer ability to delete Project, Repository, Group, ...
+# URL 
 https://hackerone.com/reports/960244
+# Reporter 
 ledz1996
+

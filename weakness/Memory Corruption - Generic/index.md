@@ -5,730 +5,2194 @@ https://hackerone.com/reports/145267
 # Reporter 
 hhj4ck
 
- integer overflow in str_pad caused heap corruption
-https://hackerone.com/reports/167903
-minhrau
-integer overflow in preg_quote caused heap corruption
-https://hackerone.com/reports/167907
-minhrau
+# Title
 NULL Pointer Dereference in WDDX Packet Deserialization with PDORow
+# URL 
 https://hackerone.com/reports/180908
+# Reporter 
 ryat
+
+# Title
 risk of having secure=false in a crossdomain.xml
+# URL 
 https://hackerone.com/reports/105463
+# Reporter 
 hacker00000000
+
+# Title
+integer overflow in preg_quote caused heap corruption
+# URL 
+https://hackerone.com/reports/167907
+# Reporter 
+minhrau
+
+# Title
+ integer overflow in str_pad caused heap corruption
+# URL 
+https://hackerone.com/reports/167903
+# Reporter 
+minhrau
+
+# Title
 ldap_escape could produce string larger than 2Gb
+# URL 
 https://hackerone.com/reports/168029
+# Reporter 
 jot
-Memory corruption due to missing check size in _php_math_number_format_ex()
-https://hackerone.com/reports/180572
-fosec
+
+# Title
 integer overflow in xml_utf8_encode
+# URL 
 https://hackerone.com/reports/167921
+# Reporter 
 ahihi
-Integer overflow in wordwrap
-https://hackerone.com/reports/113268
-jakkdu
-Ruby 2.3.x and 2.2.x still bundle DoS vulnerable verision of libYAML
-https://hackerone.com/reports/235842
-usa
+
+# Title
+Memory corruption due to missing check size in _php_math_number_format_ex()
+# URL 
+https://hackerone.com/reports/180572
+# Reporter 
+fosec
+
+# Title
 Adobe Flash Player FileReference Use-after-Free Vulnerability
+# URL 
 https://hackerone.com/reports/12497
-No Rate Limitation on Promo Code
-https://hackerone.com/reports/123091
-daniyal_nasir
+# Reporter 
+hhj4ck
+
+# Title
 Use After Free Vulnerability in SNMP with GC and unserialize()
+# URL 
 https://hackerone.com/reports/152266
+# Reporter 
+ryat
+
+# Title
+Ruby 2.3.x and 2.2.x still bundle DoS vulnerable verision of libYAML
+# URL 
+https://hackerone.com/reports/235842
+# Reporter 
+usa
+
+# Title
+Integer overflow in wordwrap
+# URL 
+https://hackerone.com/reports/113268
+# Reporter 
+jakkdu
+
+# Title
 Crash: calling Proc::initialize_copy with a Proc instance where initialize never ran leads to a crash
+# URL 
 https://hackerone.com/reports/184857
+# Reporter 
 brakhane
+
+# Title
+No Rate Limitation on Promo Code
+# URL 
+https://hackerone.com/reports/123091
+# Reporter 
+daniyal_nasir
+
+# Title
 CVE-2017-5342 In tcpdump before 4.9.0 a bug in multiple protocol parsers could cause a buffer overflow in print-ether.c:ether_print()
+# URL 
 https://hackerone.com/reports/202968
+# Reporter 
 geeknik
-NULL Pointer Dereference while unserialize php object
-https://hackerone.com/reports/195688
-hoangnguyen
-Invalid memory access in spl_filesystem_info_set_filename function
-https://hackerone.com/reports/180592
-SIGSEGV on mruby's mark_tbl() (Invalid memory access)
-https://hackerone.com/reports/183239
-jpenalbae
-Adobe Flash Player Regular Expression UAF Remote Code Execution Vulnerability
-https://hackerone.com/reports/139879
-bee13oy
+
+# Title
 Heap corruption via memarea.c
+# URL 
 https://hackerone.com/reports/138025
+# Reporter 
 guido
-imagescale out-of-bounds read
-https://hackerone.com/reports/141202
-fms
-Malformed .WAV triggers an Access Violation on GoldSRC (hl.exe)
-https://hackerone.com/reports/495789
-chippy
-Sender policy framework (SPF) records evaluation return (Too many DNS lookups) error
-https://hackerone.com/reports/119033
+
+# Title
 napi_get_value_string_X allow various kinds of memory corruption
+# URL 
 https://hackerone.com/reports/784186
+# Reporter 
 tniessen
+
+# Title
+Invalid memory access in spl_filesystem_info_set_filename function
+# URL 
+https://hackerone.com/reports/180592
+# Reporter 
+jot
+
+# Title
+NULL Pointer Dereference while unserialize php object
+# URL 
+https://hackerone.com/reports/195688
+# Reporter 
+hoangnguyen
+
+# Title
+Sender policy framework (SPF) records evaluation return (Too many DNS lookups) error
+# URL 
+https://hackerone.com/reports/119033
+# Reporter 
+hacker00000000
+
+# Title
+imagescale out-of-bounds read
+# URL 
+https://hackerone.com/reports/141202
+# Reporter 
+fms
+
+# Title
 crash in gzcompress and 3 other compress functions
+# URL 
 https://hackerone.com/reports/180109
+# Reporter 
+jot
+
+# Title
+SIGSEGV on mruby's mark_tbl() (Invalid memory access)
+# URL 
+https://hackerone.com/reports/183239
+# Reporter 
+jpenalbae
+
+# Title
+Adobe Flash Player Regular Expression UAF Remote Code Execution Vulnerability
+# URL 
+https://hackerone.com/reports/139879
+# Reporter 
+bee13oy
+
+# Title
+Malformed .WAV triggers an Access Violation on GoldSRC (hl.exe)
+# URL 
+https://hackerone.com/reports/495789
+# Reporter 
+chippy
+
+# Title
 wddx_deserialize allows illegal memory access
-[w1.dwar.ru] Core Dump
-https://hackerone.com/reports/99686
-bigbear_
+# URL 
 https://hackerone.com/reports/161200
-Use After Free in unserialize()
-https://hackerone.com/reports/198732
-Assertion `col >= 0 && col < line->cols' failed, process aborted while streaming ouput from remote server
-https://hackerone.com/reports/503821
+# Reporter 
+fms
+
+# Title
+[w1.dwar.ru] Core Dump
+# URL 
+https://hackerone.com/reports/99686
+# Reporter 
+bigbear_
+
+# Title
 crash in bzcompress function
+# URL 
 https://hackerone.com/reports/180111
-ZeroMQ libzmq remote code execution
-https://hackerone.com/reports/477073
+# Reporter 
+jot
+
+# Title
+Use After Free in unserialize()
+# URL 
+https://hackerone.com/reports/198732
+# Reporter 
+ryat
+
+# Title
+Assertion `col >= 0 && col < line->cols' failed, process aborted while streaming ouput from remote server
+# URL 
+https://hackerone.com/reports/503821
+# Reporter 
+geeknik
+
+# Title
 Yet another Buffer Overflow in PHP of the AirMax Products
+# URL 
 https://hackerone.com/reports/74025
+# Reporter 
 93c08539
+
+# Title
 Use After Free/Double Free in Garbage Collection
+# URL 
 https://hackerone.com/reports/152281
-StringIO strio_getline() can divulge arbitrary memory
-https://hackerone.com/reports/144482
-Race condition in Flash workers may cause an exploitabl​e double free
-https://hackerone.com/reports/37240
-biloulehibou
+# Reporter 
+ryat
+
+# Title
+ZeroMQ libzmq remote code execution
+# URL 
+https://hackerone.com/reports/477073
+# Reporter 
+guido
+
+# Title
 forgot to add the patch
+# URL 
 https://hackerone.com/reports/203595
+# Reporter 
 soreks
+
+# Title
+Race condition in Flash workers may cause an exploitabl​e double free
+# URL 
+https://hackerone.com/reports/37240
+# Reporter 
+biloulehibou
+
+# Title
+StringIO strio_getline() can divulge arbitrary memory
+# URL 
+https://hackerone.com/reports/144482
+# Reporter 
+guido
+
+# Title
 xml_parse_into_struct segmentation fault
+# URL 
 https://hackerone.com/reports/135294
-Crash: mrb_any_to_s can't handle NilClass, Symbol and Fixnum
-https://hackerone.com/reports/185794
-Use-after-free during XML transformations (MFSA-2016-27)
-https://hackerone.com/reports/126797
-agarri_fr
+# Reporter 
+fms
+
+# Title
 malloc negative size parameter
+# URL 
 https://hackerone.com/reports/181073
+# Reporter 
+ahihi
+
+# Title
+Crash: mrb_any_to_s can't handle NilClass, Symbol and Fixnum
+# URL 
+https://hackerone.com/reports/185794
+# Reporter 
+brakhane
+
+# Title
 SIGABRT in mrb_debug_info_append_file
+# URL 
 https://hackerone.com/reports/215967
+# Reporter 
 ston3
+
+# Title
 Adobe Flash Player ASnative(900,1).call(TextField) Use-After-Free Vulnerability
+# URL 
 https://hackerone.com/reports/119655
-wddx_deserialize null dereference with invalid xml
-https://hackerone.com/reports/161198
-gdImageTrueColorToPaletteBody allows arbitrary write/read access
-https://hackerone.com/reports/153776
+# Reporter 
+hhj4ck
+
+# Title
+Use-after-free during XML transformations (MFSA-2016-27)
+# URL 
+https://hackerone.com/reports/126797
+# Reporter 
+agarri_fr
+
+# Title
 Recursion causing uninitialized memory reads leading to a segfault
+# URL 
 https://hackerone.com/reports/201897
+# Reporter 
 dgaletic
-Integer underflow / arbitrary null write in fread/gzread
-https://hackerone.com/reports/141212
+
+# Title
+gdImageTrueColorToPaletteBody allows arbitrary write/read access
+# URL 
+https://hackerone.com/reports/153776
+# Reporter 
+fms
+
+# Title
 Heap Overflow Due To Integer Overflow
+# URL 
 https://hackerone.com/reports/146360
-Uninitialized pointer in phar_make_dirstream()
-https://hackerone.com/reports/109843
-l4w
+# Reporter 
+hoangnguyen
+
+# Title
+wddx_deserialize null dereference with invalid xml
+# URL 
+https://hackerone.com/reports/161198
+# Reporter 
+fms
+
+# Title
 Multiple vulnerabilities related to PCRE functions (already fixed)
+# URL 
 https://hackerone.com/reports/141839
+# Reporter 
 mongo
+
+# Title
 heap overflow in substr_replace
+# URL 
 https://hackerone.com/reports/167904
+# Reporter 
+minhrau
+
+# Title
+Integer underflow / arbitrary null write in fread/gzread
+# URL 
+https://hackerone.com/reports/141212
+# Reporter 
+fms
+
+# Title
+Uninitialized pointer in phar_make_dirstream()
+# URL 
+https://hackerone.com/reports/109843
+# Reporter 
+l4w
+
+# Title
 Race condition in workers may cause an exploitable double free by abusing bytearray.compress()  
+# URL 
 https://hackerone.com/reports/47227
+# Reporter 
+biloulehibou
+
+# Title
 BN_hex2bn/BN_dec2bn NULL pointer deref/heap corruption (CVE-2016-0797)
+# URL 
 https://hackerone.com/reports/119873
-integer overflow in pg_escape_string caused heap corruption
-https://hackerone.com/reports/167901
+# Reporter 
+guido
+
+# Title
 Ruby 2.4.1 has "Stack consistency error" and aborts when processing return statement within a case statement
+# URL 
 https://hackerone.com/reports/247640
+# Reporter 
 haquaman
-Use After Free in str_replace
-https://hackerone.com/reports/193143
-tunz
-SIGABRT - in free
-https://hackerone.com/reports/216725
-wddx_deserialize null dereference in php_wddx_pop_element
-https://hackerone.com/reports/161217
+
+# Title
+integer overflow in pg_escape_string caused heap corruption
+# URL 
+https://hackerone.com/reports/167901
+# Reporter 
+minhrau
+
+# Title
 Adobe Flash Player Out-of-Bound Read/Write Vulnerability
+# URL 
 https://hackerone.com/reports/31408
-CVE-2016-0799 memory issues in BIO_*printf functions
-https://hackerone.com/reports/118855
+# Reporter 
+hhj4ck
+
+# Title
+Use After Free in str_replace
+# URL 
+https://hackerone.com/reports/193143
+# Reporter 
+tunz
+
+# Title
 Incorrect GC behavior in xxlimited could lead to use-after-free
+# URL 
 https://hackerone.com/reports/203002
+# Reporter 
 zeroinside
+
+# Title
+CVE-2016-0799 memory issues in BIO_*printf functions
+# URL 
+https://hackerone.com/reports/118855
+# Reporter 
+guido
+
+# Title
 Heap Buffer Overflow
+# URL 
 https://hackerone.com/reports/150626
+# Reporter 
 b6945caf98f2f809b8e6ece
+
+# Title
+SIGABRT - in free
+# URL 
+https://hackerone.com/reports/216725
+# Reporter 
+ston3
+
+# Title
+wddx_deserialize null dereference in php_wddx_pop_element
+# URL 
+https://hackerone.com/reports/161217
+# Reporter 
+fms
+
+# Title
 Yahoo! Messenger v11.5.0.228 emoticons.xml shortcut Value Handling Stack-Based Buffer Overflow
+# URL 
 https://hackerone.com/reports/10767
+# Reporter 
 mrtuxracer
-SEGV on ary_concat
-https://hackerone.com/reports/296198
+
+# Title
 Use After Free in unserialize() with Unexpected Session Deserialization
+# URL 
 https://hackerone.com/reports/152267
-openssl_seal() uninitialized memory usage
-https://hackerone.com/reports/114414
-51201
-Heap BufferOver Flow in escapeshellargs and escapeshellcmd functions
-https://hackerone.com/reports/110722
-libnex
+# Reporter 
+ryat
+
+# Title
 Arbitrary heap exposure in JSON.generate
+# URL 
 https://hackerone.com/reports/209949
+# Reporter 
 ahmadsherif
+
+# Title
+openssl_seal() uninitialized memory usage
+# URL 
+https://hackerone.com/reports/114414
+# Reporter 
+51201
+
+# Title
+SEGV on ary_concat
+# URL 
+https://hackerone.com/reports/296198
+# Reporter 
+ahihi
+
+# Title
 NULL Pointer Dereference in exif_process_user_comment
+# URL 
 https://hackerone.com/reports/152232
+# Reporter 
+hoangnguyen
+
+# Title
 integer overflow in bzdecompress caused heap corruption
+# URL 
 https://hackerone.com/reports/159955
+# Reporter 
+minhrau
+
+# Title
 Session Management Issue CMS Airship
+# URL 
 https://hackerone.com/reports/148914
+# Reporter 
 ahsan
- Spam Some one using (user.saveInvite) system
-https://hackerone.com/reports/182089
-madrobot
-Email Authentication Bypass
-https://hackerone.com/reports/135283
-khoujaahmed
-stack-buffer-overflow through "ResourceBundle" methods
-https://hackerone.com/reports/175316
+
+# Title
+Heap BufferOver Flow in escapeshellargs and escapeshellcmd functions
+# URL 
+https://hackerone.com/reports/110722
+# Reporter 
+libnex
+
+# Title
 An integer overflow bug in php_str_to_str_ex() led arbitrary code execution.
+# URL 
 https://hackerone.com/reports/113122
+# Reporter 
 blue9057
-CVE-2017-5484 The ATM parser in tcpdump before 4.9.0 has a buffer overflow in print-atm.c:sig_print()
-https://hackerone.com/reports/202967
-JSBeautifier BApp: Race condition leads to memory disclosure
-https://hackerone.com/reports/187134
-jelmer
+
+# Title
+Email Authentication Bypass
+# URL 
+https://hackerone.com/reports/135283
+# Reporter 
+khoujaahmed
+
+# Title
+ Spam Some one using (user.saveInvite) system
+# URL 
+https://hackerone.com/reports/182089
+# Reporter 
+madrobot
+
+# Title
+stack-buffer-overflow through "ResourceBundle" methods
+# URL 
+https://hackerone.com/reports/175316
+# Reporter 
+fms
+
+# Title
 Crossdomain.xml settings on api.imgur.com too open
+# URL 
 https://hackerone.com/reports/91604
+# Reporter 
 kiraak-boy
-gzuncompress does NOT check output string size which leads to an overflow
-https://hackerone.com/reports/168028
+
+# Title
+JSBeautifier BApp: Race condition leads to memory disclosure
+# URL 
+https://hackerone.com/reports/187134
+# Reporter 
+jelmer
+
+# Title
+CVE-2017-5484 The ATM parser in tcpdump before 4.9.0 has a buffer overflow in print-atm.c:sig_print()
+# URL 
+https://hackerone.com/reports/202967
+# Reporter 
+geeknik
+
+# Title
 Integer Overflow in gdImagePaletteToTrueColor() resulting in heap overflow
+# URL 
 https://hackerone.com/reports/147125
+# Reporter 
 gogil
-_php_mb_regex_ereg_replace_exec - double free
-https://hackerone.com/reports/146200
+
+# Title
 Session WDDX Packet Deserialization Type Confusion Vulnerability
+# URL 
 https://hackerone.com/reports/108683
-Buffer Overflow in PHP of the AirMax Products
-https://hackerone.com/reports/73491
+# Reporter 
+ryat
+
+# Title
+gzuncompress does NOT check output string size which leads to an overflow
+# URL 
+https://hackerone.com/reports/168028
+# Reporter 
+jot
+
+# Title
+_php_mb_regex_ereg_replace_exec - double free
+# URL 
+https://hackerone.com/reports/146200
+# Reporter 
+51201
+
+# Title
 SIGSEGV mrb_obj_freeze() Manipulating Register RAX and RSI
+# URL 
 https://hackerone.com/reports/191994
-integer overflow in pg_escape_bytea caused heap corruption
-https://hackerone.com/reports/167905
-Heap Overflow due to integer overflows
-https://hackerone.com/reports/159988
-knight9
-heap-buffer-overflow (buffer read overrun) in curl: ourWriteOut() src/tool_writeout.c:115
-https://hackerone.com/reports/212931
-CVE-2016-2177 Undefined pointer arithmetic in SSL code
-https://hackerone.com/reports/142472
-Use of unitialized value in token_check_object (src/or/parsecommon.c:224)
-https://hackerone.com/reports/276255
-Malformed .MDL triggers an Access Violation on GoldSRC (hl.exe)
-https://hackerone.com/reports/495793
+# Reporter 
+ston3
+
+# Title
+Buffer Overflow in PHP of the AirMax Products
+# URL 
+https://hackerone.com/reports/73491
+# Reporter 
+93c08539
+
+# Title
 Negative size parameter (-1) in memcpy mbfl_strcut 
+# URL 
 https://hackerone.com/reports/127242
-Race Conditions in Popular reports feature.
-https://hackerone.com/reports/146845
-shmoo
+# Reporter 
+fms
+
+# Title
+Malformed .MDL triggers an Access Violation on GoldSRC (hl.exe)
+# URL 
+https://hackerone.com/reports/495793
+# Reporter 
+chippy
+
+# Title
+Heap Overflow due to integer overflows
+# URL 
+https://hackerone.com/reports/159988
+# Reporter 
+knight9
+
+# Title
+integer overflow in pg_escape_bytea caused heap corruption
+# URL 
+https://hackerone.com/reports/167905
+# Reporter 
+minhrau
+
+# Title
+heap-buffer-overflow (buffer read overrun) in curl: ourWriteOut() src/tool_writeout.c:115
+# URL 
+https://hackerone.com/reports/212931
+# Reporter 
+geeknik
+
+# Title
 Heap overflow in mysqlnd related to BIT fields (CVE-2016-7412)
+# URL 
 https://hackerone.com/reports/176279
+# Reporter 
+mongo
+
+# Title
 SIGABRT - method_missing - mark_context_stack
+# URL 
 https://hackerone.com/reports/205284
-Exposed, outdated nginx server (v1.4.6) potentially vulnerable to heap-based buffer overflow & RCE
-https://hackerone.com/reports/168485
-cha5m
+# Reporter 
+ston3
+
+# Title
 Write out-of-bounds at number_format
+# URL 
 https://hackerone.com/reports/175310
-Crash: Overwriting NoMethodError with a builtin class crashes/corrupts memory
-https://hackerone.com/reports/186723
+# Reporter 
+fms
+
+# Title
+Use of unitialized value in token_check_object (src/or/parsecommon.c:224)
+# URL 
+https://hackerone.com/reports/276255
+# Reporter 
+geeknik
+
+# Title
 3 heap corruptions in PHP
+# URL 
 https://hackerone.com/reports/188102
-iconv() function missing string length check
-https://hackerone.com/reports/180112
-Double free vulnerability in Flash Player Settings Manager (CVE-2015-0346)
-https://hackerone.com/reports/56385
-jouko
-Missing type check when unserializing SplArray
-https://hackerone.com/reports/167977
+# Reporter 
+minhrau
+
+# Title
+CVE-2016-2177 Undefined pointer arithmetic in SSL code
+# URL 
+https://hackerone.com/reports/142472
+# Reporter 
+guido
+
+# Title
+Crash: Overwriting NoMethodError with a builtin class crashes/corrupts memory
+# URL 
+https://hackerone.com/reports/186723
+# Reporter 
+brakhane
+
+# Title
+Exposed, outdated nginx server (v1.4.6) potentially vulnerable to heap-based buffer overflow & RCE
+# URL 
+https://hackerone.com/reports/168485
+# Reporter 
+cha5m
+
+# Title
+Race Conditions in Popular reports feature.
+# URL 
+https://hackerone.com/reports/146845
+# Reporter 
+shmoo
+
+# Title
 Invalid memory access in spl_filesystem_dir_open function
+# URL 
 https://hackerone.com/reports/180590
+# Reporter 
+jot
+
+# Title
 potential memory corruption in or/buffers.c (particularly on 32 bit)
+# URL 
 https://hackerone.com/reports/163459
+# Reporter 
+guido
+
+# Title
+iconv() function missing string length check
+# URL 
+https://hackerone.com/reports/180112
+# Reporter 
+jot
+
+# Title
+Double free vulnerability in Flash Player Settings Manager (CVE-2015-0346)
+# URL 
+https://hackerone.com/reports/56385
+# Reporter 
+jouko
+
+# Title
+Missing type check when unserializing SplArray
+# URL 
+https://hackerone.com/reports/167977
+# Reporter 
+ahihi
+
+# Title
 Parsing invalid unicode codepoints using json c extension (2.0.1+) triggers a segfault
+# URL 
 https://hackerone.com/reports/198927
+# Reporter 
 dgollahon
-Email spoofing in security@paragonie.com
-https://hackerone.com/reports/148763
-SIGSEGV in mrb_vm_exec
-https://hackerone.com/reports/196380
-Use After Free Vulnerability in unserialize()
-https://hackerone.com/reports/159948
+
+# Title
 bcpowmod accepts negative scale and corrupts _one_ definition
+# URL 
 https://hackerone.com/reports/135293
+# Reporter 
+fms
+
+# Title
+SIGSEGV in mrb_vm_exec
+# URL 
+https://hackerone.com/reports/196380
+# Reporter 
+ston3
+
+# Title
+Email spoofing in security@paragonie.com
+# URL 
+https://hackerone.com/reports/148763
+# Reporter 
+ahsan
+
+# Title
+Use After Free Vulnerability in unserialize()
+# URL 
+https://hackerone.com/reports/159948
+# Reporter 
+ryat
+
+# Title
 Adobe Flash Player TextField Use-After-Free Vulnerability
+# URL 
 https://hackerone.com/reports/122254
+# Reporter 
+hhj4ck
+
+# Title
 CVE-2016-4796 OpenJPEG color_cmyk_to_rgb Out-of-Bounds Read Vulnerability
+# URL 
 https://hackerone.com/reports/167955
+# Reporter 
 hacker2nd
+
+# Title
 Memory corruption in _php_math_number_format_ex()
+# URL 
 https://hackerone.com/reports/180562
+# Reporter 
+fosec
+
+# Title
 select_colors write out-of-bounds
+# URL 
 https://hackerone.com/reports/161189
+# Reporter 
+fms
+
+# Title
 An integer overflow bug in php_implode() could lead heap overflow, make PHP to crash
+# URL 
 https://hackerone.com/reports/113120
+# Reporter 
+blue9057
+
+# Title
 Use of uninitialized value in networkstatus_parse_vote_from_string (src/or/routerparse.c:3533)
-mruby-time: Crash host with uninitialized Time obj
+# URL 
 https://hackerone.com/reports/276253
-https://hackerone.com/reports/184661
-nginx SPDY heap buffer overflow for https://grtp.co/
-https://hackerone.com/reports/116352
-anonymous_ftpuser
+# Reporter 
+geeknik
+
+# Title
 EVP_EncodeUpdate overflow (CVE-2016-2105)
+# URL 
 https://hackerone.com/reports/135944
-Adobe Flash Player ASnative(101,10) Memory Corruption Vulnerability
-https://hackerone.com/reports/119652
-Adobe Flash Player ShimOpportunityGenerator class Memory Corruption Vulnerability
-https://hackerone.com/reports/145269
+# Reporter 
+guido
+
+# Title
+mruby-time: Crash host with uninitialized Time obj
+# URL 
+https://hackerone.com/reports/184661
+# Reporter 
+brakhane
+
+# Title
+nginx SPDY heap buffer overflow for https://grtp.co/
+# URL 
+https://hackerone.com/reports/116352
+# Reporter 
+anonymous_ftpuser
+
+# Title
 Type Confusion in Object Deserialization
+# URL 
 https://hackerone.com/reports/198733
+# Reporter 
+ryat
+
+# Title
+Adobe Flash Player ShimOpportunityGenerator class Memory Corruption Vulnerability
+# URL 
+https://hackerone.com/reports/145269
+# Reporter 
+hhj4ck
+
+# Title
 heap-buffer-overflow (write) simplestring_addn simplestring.c
+# URL 
 https://hackerone.com/reports/153863
+# Reporter 
 pjumde
-Heap corruption in string.c tr_trans() due to undersized buffer
-https://hackerone.com/reports/144485
+
+# Title
+Adobe Flash Player ASnative(101,10) Memory Corruption Vulnerability
+# URL 
+https://hackerone.com/reports/119652
+# Reporter 
+hhj4ck
+
+# Title
 Adobe Flash Player ContentFactory class Memory Corruption Vulnerability
+# URL 
 https://hackerone.com/reports/138516
+# Reporter 
+hhj4ck
+
+# Title
 Adobe Flash Player OpportunityGenerator class Memory Corruption Vulnerability
+# URL 
 https://hackerone.com/reports/138518
-Adobe Flash Player MP4 Use-After-Free Vulnerability
-https://hackerone.com/reports/30567
-imagegif/output out-of-bounds access
-https://hackerone.com/reports/152784
+# Reporter 
+hhj4ck
+
+# Title
+Heap corruption in string.c tr_trans() due to undersized buffer
+# URL 
+https://hackerone.com/reports/144485
+# Reporter 
+guido
+
+# Title
 crash in get_icu_value_internal function
+# URL 
 https://hackerone.com/reports/180113
+# Reporter 
+jot
+
+# Title
 type confusion in Sass::ParserState::ParserState(Sass::ParserState const&)
+# URL 
 https://hackerone.com/reports/66724
+# Reporter 
 richo
-imagegammacorrect allows arbitrary write access
-https://hackerone.com/reports/161193
+
+# Title
+imagegif/output out-of-bounds access
+# URL 
+https://hackerone.com/reports/152784
+# Reporter 
+fms
+
+# Title
+Adobe Flash Player MP4 Use-After-Free Vulnerability
+# URL 
+https://hackerone.com/reports/30567
+# Reporter 
+hhj4ck
+
+# Title
 crash in implode() function
+# URL 
 https://hackerone.com/reports/180110
+# Reporter 
+jot
+
+# Title
+imagegammacorrect allows arbitrary write access
+# URL 
+https://hackerone.com/reports/161193
+# Reporter 
+fms
+
+# Title
 Memory disclosure in timegm
+# URL 
 https://hackerone.com/reports/192896
+# Reporter 
 volc
-puttygen: 160MB memory leak while trying to extract openssh public key from crafted key file
-https://hackerone.com/reports/484930
-Heap overflow due to integer overflow in bzdecompress() function
-https://hackerone.com/reports/180563
-Adobe Flash Player  Uninitialised Memory Corruption
-https://hackerone.com/reports/122256
-riusksk
-Heap Overflow in mrb_arb_splice
-https://hackerone.com/reports/192362
+
+# Title
 CVE-2016-1924 OpenJPEG opj_tgt_reset Out-of-Bounds Read Vulnerability
+# URL 
 https://hackerone.com/reports/167957
-Crash: A call to Symbol.new leads to a crash when inspecting the resulting object
-https://hackerone.com/reports/185957
-Misusing of FPU Instruction Could Cause Security Vulnerabilities in Adobe Flash Player
-https://hackerone.com/reports/66962
-yopwn
+# Reporter 
+hacker2nd
+
+# Title
+puttygen: 160MB memory leak while trying to extract openssh public key from crafted key file
+# URL 
+https://hackerone.com/reports/484930
+# Reporter 
+geeknik
+
+# Title
+Heap overflow due to integer overflow in bzdecompress() function
+# URL 
+https://hackerone.com/reports/180563
+# Reporter 
+fosec
+
+# Title
+Adobe Flash Player  Uninitialised Memory Corruption
+# URL 
+https://hackerone.com/reports/122256
+# Reporter 
+riusksk
+
+# Title
+Heap Overflow in mrb_arb_splice
+# URL 
+https://hackerone.com/reports/192362
+# Reporter 
+tunz
+
+# Title
 Use After Free in Flash MessageChannel.send can cause arbitrary code execution
+# URL 
 https://hackerone.com/reports/47234
-Use after free during the StageVideoAvailabilityEvent can result in arbitrary code execution
-https://hackerone.com/reports/47232
-Invalid free in phar_extract_file()
-https://hackerone.com/reports/146202
-hji
+# Reporter 
+biloulehibou
+
+# Title
+Crash: A call to Symbol.new leads to a crash when inspecting the resulting object
+# URL 
+https://hackerone.com/reports/185957
+# Reporter 
+brakhane
+
+# Title
 integer overflow in curl_escape caused heap corruption
+# URL 
 https://hackerone.com/reports/159953
+# Reporter 
+minhrau
+
+# Title
+Misusing of FPU Instruction Could Cause Security Vulnerabilities in Adobe Flash Player
+# URL 
+https://hackerone.com/reports/66962
+# Reporter 
+yopwn
+
+# Title
+Invalid free in phar_extract_file()
+# URL 
+https://hackerone.com/reports/146202
+# Reporter 
+hji
+
+# Title
+Use after free during the StageVideoAvailabilityEvent can result in arbitrary code execution
+# URL 
+https://hackerone.com/reports/47232
+# Reporter 
+biloulehibou
+
+# Title
 A Serious Bug on SIGNUP Process!
+# URL 
 https://hackerone.com/reports/7941
+# Reporter 
 faisalahmed
+
+# Title
 LZ4 Core
+# URL 
 https://hackerone.com/reports/17688
+# Reporter 
 donb
-stack buffer overflows in the curses module
-https://hackerone.com/reports/159690
-tehybel
+
+# Title
 Out of bounds memory read in unserialize()
+# URL 
 https://hackerone.com/reports/200909
+# Reporter 
 hanno
-Stack-based buffer overflow vulnerability in virtual_file_ex
-https://hackerone.com/reports/152280
-[tor] libevent dns remote stack overread vulnerability
-https://hackerone.com/reports/112632
+
+# Title
+stack buffer overflows in the curses module
+# URL 
+https://hackerone.com/reports/159690
+# Reporter 
+tehybel
+
+# Title
 Illegal write/read access caused by gdImageAALine overflow
+# URL 
 https://hackerone.com/reports/182420
+# Reporter 
+fms
+
+# Title
+[tor] libevent dns remote stack overread vulnerability
+# URL 
+https://hackerone.com/reports/112632
+# Reporter 
+guido
+
+# Title
+Stack-based buffer overflow vulnerability in virtual_file_ex
+# URL 
+https://hackerone.com/reports/152280
+# Reporter 
+knight9
+
+# Title
 Heap buffer oveflow with many arguments
+# URL 
 https://hackerone.com/reports/204421
+# Reporter 
 titanous
+
+# Title
 integer overflow in php_ldap_do_escape caused heap corruption
+# URL 
 https://hackerone.com/reports/167902
-imap_rfc822_parse_headers GS Violation
-https://hackerone.com/reports/170260
+# Reporter 
+minhrau
+
+# Title
 crash in simplestring_addn function
+# URL 
 https://hackerone.com/reports/180589
+# Reporter 
+jot
+
+# Title
+imap_rfc822_parse_headers GS Violation
+# URL 
+https://hackerone.com/reports/170260
+# Reporter 
+fms
+
+# Title
 PHP Integer Overflow in gdImageWebpCtx
+# URL 
 https://hackerone.com/reports/170619
-memory allocator fails to realloc small block to large one
-https://hackerone.com/reports/159992
-tinduong
+# Reporter 
+hacker2nd
+
+# Title
 Perl 5.22 VDir::MapPathA/W Out-of-bounds Reads and Buffer Over-reads
+# URL 
 https://hackerone.com/reports/110352
+# Reporter 
 johnleitch
+
+# Title
+memory allocator fails to realloc small block to large one
+# URL 
+https://hackerone.com/reports/159992
+# Reporter 
+tinduong
+
+# Title
 pass2_no_dither out-of-bounds access
+# URL 
 https://hackerone.com/reports/146940
+# Reporter 
+fms
+
+# Title
 Out of bound when verify signature of zip phar in phar_parse_zipfile
+# URL 
 https://hackerone.com/reports/167895
-wddx_deserialize use-after-free
-https://hackerone.com/reports/170144
+# Reporter 
+hoangnguyen
+
+# Title
 CachingIterator null dereference when convert to string
+# URL 
 https://hackerone.com/reports/176226
+# Reporter 
+ahihi
+
+# Title
+wddx_deserialize use-after-free
+# URL 
+https://hackerone.com/reports/170144
+# Reporter 
+fms
+
+# Title
 mruby heap use-after-free 
+# URL 
 https://hackerone.com/reports/206109
+# Reporter 
 mg36
-gzdecode does NOT check output string size which leads to an overflow
-https://hackerone.com/reports/168027
-SIGABRT - mrb_realloc_simple - gc.c - line:201
-https://hackerone.com/reports/198452
+
+# Title
 no string size restriction on team name
+# URL 
 https://hackerone.com/reports/237125
+# Reporter 
 michan
+
+# Title
+gzdecode does NOT check output string size which leads to an overflow
+# URL 
+https://hackerone.com/reports/168027
+# Reporter 
+jot
+
+# Title
 Heap overflow due to integer overflow in php_escape_html_entities_ex() function
+# URL 
 https://hackerone.com/reports/180582
-locale_accept_from_http out-of-bounds access
-https://hackerone.com/reports/152782
-Integer Overflow in mrb_ary_set
-https://hackerone.com/reports/192235
+# Reporter 
+fosec
+
+# Title
 memcpy negative parameter _bc_new_num_ex
+# URL 
 https://hackerone.com/reports/175312
-Heap overflow due to integer overflow in pg_escape_string() function
-https://hackerone.com/reports/180584
-[tor] libevent dns OOB read
-https://hackerone.com/reports/115702
+# Reporter 
+fms
+
+# Title
+SIGABRT - mrb_realloc_simple - gc.c - line:201
+# URL 
+https://hackerone.com/reports/198452
+# Reporter 
+ston3
+
+# Title
+Integer Overflow in mrb_ary_set
+# URL 
+https://hackerone.com/reports/192235
+# Reporter 
+tunz
+
+# Title
 Invalid read when wddx decodes empty boolean element
+# URL 
 https://hackerone.com/reports/188661
-memory corruption in wordwrap function
-https://hackerone.com/reports/167910
+# Reporter 
+fosec
+
+# Title
 imagecropauto out-of-bounds access
+# URL 
 https://hackerone.com/reports/178144
+# Reporter 
+fms
+
+# Title
+locale_accept_from_http out-of-bounds access
+# URL 
+https://hackerone.com/reports/152782
+# Reporter 
+fms
+
+# Title
+Heap overflow due to integer overflow in pg_escape_string() function
+# URL 
+https://hackerone.com/reports/180584
+# Reporter 
+fosec
+
+# Title
+[tor] libevent dns OOB read
+# URL 
+https://hackerone.com/reports/115702
+# Reporter 
+guido
+
+# Title
+memory corruption in wordwrap function
+# URL 
+https://hackerone.com/reports/167910
+# Reporter 
+minhrau
+
+# Title
 MISSING SPF RECORDS & MISSING DKIM POLICY
+# URL 
 https://hackerone.com/reports/117818
+# Reporter 
 noob-boy
-CVE-2017-5341 The OTV parser in tcpdump before 4.9.0 has a buffer overflow in print-otv.c:otv_print()
-https://hackerone.com/reports/202965
-Heap corruption in tar/zip/phar parser
-https://hackerone.com/reports/110417
+
+# Title
 attempting double-free using the mruby compiler `mrbc`
+# URL 
 https://hackerone.com/reports/193517
+# Reporter 
+geeknik
+
+# Title
+CVE-2017-5341 The OTV parser in tcpdump before 4.9.0 has a buffer overflow in print-otv.c:otv_print()
+# URL 
+https://hackerone.com/reports/202965
+# Reporter 
+geeknik
+
+# Title
+Heap corruption in tar/zip/phar parser
+# URL 
+https://hackerone.com/reports/110417
+# Reporter 
+l4w
+
+# Title
 Heap overflow due to off-by-one when expanding stack
+# URL 
 https://hackerone.com/reports/194906
-Heap corruption in DateTime.strftime() on 32 bit for certain format strings
-https://hackerone.com/reports/144484
-SEH buffer overflow msgfmt_format_message
-https://hackerone.com/reports/170138
-Missing "size check" on files to upload could make memory leaks.
-https://hackerone.com/reports/19532
-eth3real
+# Reporter 
+titanous
+
+# Title
 Memory corrouption in mrb_gc_mark
+# URL 
 https://hackerone.com/reports/208363
+# Reporter 
+minhrau
+
+# Title
+Missing "size check" on files to upload could make memory leaks.
+# URL 
+https://hackerone.com/reports/19532
+# Reporter 
+eth3real
+
+# Title
+Heap corruption in DateTime.strftime() on 32 bit for certain format strings
+# URL 
+https://hackerone.com/reports/144484
+# Reporter 
+guido
+
+# Title
+SEH buffer overflow msgfmt_format_message
+# URL 
+https://hackerone.com/reports/170138
+# Reporter 
+fms
+
+# Title
 Invalid memory access in zend_strtod() function
+# URL 
 https://hackerone.com/reports/180588
-SIGSEGV in str_buf_cat
-https://hackerone.com/reports/213255
-CVE-2017-5482 The Q.933 parser in tcpdump before 4.9.0 has a buffer overflow in print-fr.c:q933_print().
-https://hackerone.com/reports/202969
-Memory disclosure in mruby String#lines method
-https://hackerone.com/reports/181319
-isra17
-Out-of-bounds reads in zif_grapheme_stripos with negative offset
-https://hackerone.com/reports/135291
+# Reporter 
+jot
+
+# Title
 UAF in xmlparser_setevents (1)
+# URL 
 https://hackerone.com/reports/112858
+# Reporter 
 pakt_
-Multiple use after frees in obj2ast_* methods
-https://hackerone.com/reports/172115
-pakt_
-Ericsson Erlang OTP Core Allocation Subsystem Integer Overflow (All Versions)
-https://hackerone.com/reports/28640
+
+# Title
+Out-of-bounds reads in zif_grapheme_stripos with negative offset
+# URL 
+https://hackerone.com/reports/135291
+# Reporter 
+fms
+
+# Title
+CVE-2017-5482 The Q.933 parser in tcpdump before 4.9.0 has a buffer overflow in print-fr.c:q933_print().
+# URL 
+https://hackerone.com/reports/202969
+# Reporter 
+geeknik
+
+# Title
+SIGSEGV in str_buf_cat
+# URL 
+https://hackerone.com/reports/213255
+# Reporter 
+ston3
+
+# Title
 b2i_PVK_bio heap corruption
+# URL 
 https://hackerone.com/reports/119989
+# Reporter 
+guido
+
+# Title
+Ericsson Erlang OTP Core Allocation Subsystem Integer Overflow (All Versions)
+# URL 
+https://hackerone.com/reports/28640
+# Reporter 
+donb
+
+# Title
+Memory disclosure in mruby String#lines method
+# URL 
+https://hackerone.com/reports/181319
+# Reporter 
+isra17
+
+# Title
+Multiple use after frees in obj2ast_* methods
+# URL 
+https://hackerone.com/reports/172115
+# Reporter 
+pakt_
+
+# Title
 Missing memory corruption protection on Windows release built
+# URL 
 https://hackerone.com/reports/380102
+# Reporter 
 secconsult
+
+# Title
 Type Confusion Vulnerability - SOAP / make_http_soap_request()
+# URL 
 https://hackerone.com/reports/116773
+# Reporter 
+l4w
+
+# Title
+Adobe Flash Player MP4 Use-After-Free Vulnerability
+# URL 
 https://hackerone.com/reports/36279
+# Reporter 
+hhj4ck
+
+# Title
 SIGABRT - mirb and mruby
+# URL 
 https://hackerone.com/reports/214000
+# Reporter 
+ston3
+
+# Title
 Illegal write access through Locale methods
+# URL 
 https://hackerone.com/reports/175315
-libevent (stack) buffer overflow in evutil_parse_sockaddr_port
-https://hackerone.com/reports/112784
+# Reporter 
+fms
+
+# Title
 Memory corruption in imap-parser.c
+# URL 
 https://hackerone.com/reports/537550
+# Reporter 
 nick_roessler
-amazon aws s3 bucket content is public :-  http://shopify.com.s3.amazonaws.com/
-https://hackerone.com/reports/57505
-pulkit_pandey
+
+# Title
+libevent (stack) buffer overflow in evutil_parse_sockaddr_port
+# URL 
+https://hackerone.com/reports/112784
+# Reporter 
+guido
+
+# Title
 Use-after-free in unserialize()
+# URL 
 https://hackerone.com/reports/175982
-SIGABRT - mrb_default_allocf 
-https://hackerone.com/reports/193773
-icanthack
+# Reporter 
+ryat
+
+# Title
+amazon aws s3 bucket content is public :-  http://shopify.com.s3.amazonaws.com/
+# URL 
+https://hackerone.com/reports/57505
+# Reporter 
+pulkit_pandey
+
+# Title
 Memory Leakage In exif_process_IFD_in_TIFF (CVE-2016-7128)
+# URL 
 https://hackerone.com/reports/160294
-use-after-free vulnerability in Flash Player
-https://hackerone.com/reports/18843
-mrb_vformat() heap overflow could lead to code execution
-https://hackerone.com/reports/192318
+# Reporter 
+hoangnguyen
+
+# Title
+SIGABRT - mrb_default_allocf 
+# URL 
+https://hackerone.com/reports/193773
+# Reporter 
+icanthack
+
+# Title
 Segmentation fault on program counter
+# URL 
 https://hackerone.com/reports/196498
-Linux kernel: CVE-2017-1000112: a memory corruption due to UFO to non-UFO path switch
-https://hackerone.com/reports/684573
-xairy
-Flash double free vulnerability leads to code execution
-https://hackerone.com/reports/2170
-clem1
+# Reporter 
+icanthack
+
+# Title
+mrb_vformat() heap overflow could lead to code execution
+# URL 
+https://hackerone.com/reports/192318
+# Reporter 
+mg36
+
+# Title
 Adobe Flash Player Metadata class Memory Corruption Vulnerability
+# URL 
 https://hackerone.com/reports/138517
-Uninitialized Thumbail Data Leads To Memory Leakage in exif_process_IFD_in_TIFF
-https://hackerone.com/reports/167888
-SIGSEGV - mark_context_stack
-https://hackerone.com/reports/209937
-Easy spam with USE My PHONE Feature
-https://hackerone.com/reports/127918
-decoder
+# Reporter 
+hhj4ck
+
+# Title
+use-after-free vulnerability in Flash Player
+# URL 
+https://hackerone.com/reports/18843
+# Reporter 
+yopwn
+
+# Title
+Linux kernel: CVE-2017-1000112: a memory corruption due to UFO to non-UFO path switch
+# URL 
+https://hackerone.com/reports/684573
+# Reporter 
+xairy
+
+# Title
+Flash double free vulnerability leads to code execution
+# URL 
+https://hackerone.com/reports/2170
+# Reporter 
+clem1
+
+# Title
 Create N Accounts In Dropbox Irrespective Of Domain
+# URL 
 https://hackerone.com/reports/49378
+# Reporter 
 rohill-eis
+
+# Title
+Uninitialized Thumbail Data Leads To Memory Leakage in exif_process_IFD_in_TIFF
+# URL 
+https://hackerone.com/reports/167888
+# Reporter 
+hoangnguyen
+
+# Title
 	Out-of-Bound Read in phar_parse_zipfile()
+# URL 
 https://hackerone.com/reports/114172
-Adobe Flash Player PSDK Class Use After Free Vulnerability
-https://hackerone.com/reports/151043
-Linux kernel: CVE-2017-7308: a signedness issue in AF_PACKET sockets
-https://hackerone.com/reports/684567
- heap-use-after-free /home/operac/testafl/mruby/mrubylast/mruby/src/gc.c
-https://hackerone.com/reports/200821
-Integer Overflow in _gd2GetHeader() resulting in heap overflow
-https://hackerone.com/reports/143234
-Potential double free in EVP_DigestInit_ex
-https://hackerone.com/reports/135027
-nextcloud.com: Mail Bombing ( No Rate Limiting On Sending Emails On Contact us Page)
-https://hackerone.com/reports/145458
-iamashishgeek
+# Reporter 
+l4w
+
+# Title
+SIGSEGV - mark_context_stack
+# URL 
+https://hackerone.com/reports/209937
+# Reporter 
+ston3
+
+# Title
 Overreads/overcopies in torsocks
+# URL 
 https://hackerone.com/reports/126598
-read outside of buffer (heap buffer overflow) in S_regmatch - regexec.c:6057
-https://hackerone.com/reports/207983
-Use of uninitialized value in memarea_strdup (src/common/memarea.c:369)
-https://hackerone.com/reports/274997
+# Reporter 
+guido
+
+# Title
+Easy spam with USE My PHONE Feature
+# URL 
+https://hackerone.com/reports/127918
+# Reporter 
+decoder
+
+# Title
+Adobe Flash Player PSDK Class Use After Free Vulnerability
+# URL 
+https://hackerone.com/reports/151043
+# Reporter 
+hhj4ck
+
+# Title
+Linux kernel: CVE-2017-7308: a signedness issue in AF_PACKET sockets
+# URL 
+https://hackerone.com/reports/684567
+# Reporter 
+xairy
+
+# Title
+Integer Overflow in _gd2GetHeader() resulting in heap overflow
+# URL 
+https://hackerone.com/reports/143234
+# Reporter 
+gogil
+
+# Title
 Memory corruption when parsing a hostile PHAR archive
+# URL 
 https://hackerone.com/reports/195586
+# Reporter 
 aerodudrizzt
-Python 2.7 32-bit JSON encoding heap corruption
-https://hackerone.com/reports/172403
+
+# Title
+ heap-use-after-free /home/operac/testafl/mruby/mrubylast/mruby/src/gc.c
+# URL 
+https://hackerone.com/reports/200821
+# Reporter 
+fms
+
+# Title
+read outside of buffer (heap buffer overflow) in S_regmatch - regexec.c:6057
+# URL 
+https://hackerone.com/reports/207983
+# Reporter 
+geeknik
+
+# Title
 No Rate Limiting at /contact
+# URL 
 https://hackerone.com/reports/229511
+# Reporter 
 chols
-chain.__setstate__ Type Confusion
-https://hackerone.com/reports/175091
-Adobe Flash Player Out-of-Bound Access Vulnerability
-https://hackerone.com/reports/47012
+
+# Title
+Potential double free in EVP_DigestInit_ex
+# URL 
+https://hackerone.com/reports/135027
+# Reporter 
+guido
+
+# Title
+nextcloud.com: Mail Bombing ( No Rate Limiting On Sending Emails On Contact us Page)
+# URL 
+https://hackerone.com/reports/145458
+# Reporter 
+iamashishgeek
+
+# Title
+Use of uninitialized value in memarea_strdup (src/common/memarea.c:369)
+# URL 
+https://hackerone.com/reports/274997
+# Reporter 
+geeknik
+
+# Title
+Python 2.7 32-bit JSON encoding heap corruption
+# URL 
+https://hackerone.com/reports/172403
+# Reporter 
+guido
+
+# Title
 Adobe Flash Player Race Condition Vulnerability
+# URL 
 https://hackerone.com/reports/119657
-Out of Bounds Memory Read in php_jpg_get16
-https://hackerone.com/reports/665330
-sediruoksitsero
-Heap corruption via Python 2.7.11 IOBase readline()
-https://hackerone.com/reports/143022
-infinite number of new project creation!
-https://hackerone.com/reports/8093
-SIGABRT in only mirb
-https://hackerone.com/reports/212882
+# Reporter 
+hhj4ck
+
+# Title
 Out of bound when verify signature of tar phar in phar_parse_tarfile
+# URL 
 https://hackerone.com/reports/167896
+# Reporter 
+hoangnguyen
+
+# Title
+chain.__setstate__ Type Confusion
+# URL 
+https://hackerone.com/reports/175091
+# Reporter 
+johnleitch
+
+# Title
+Out of Bounds Memory Read in php_jpg_get16
+# URL 
+https://hackerone.com/reports/665330
+# Reporter 
+sediruoksitsero
+
+# Title
+Adobe Flash Player Out-of-Bound Access Vulnerability
+# URL 
+https://hackerone.com/reports/47012
+# Reporter 
+hhj4ck
+
+# Title
+infinite number of new project creation!
+# URL 
+https://hackerone.com/reports/8093
+# Reporter 
+faisalahmed
+
+# Title
+SIGABRT in only mirb
+# URL 
+https://hackerone.com/reports/212882
+# Reporter 
+ston3
+
+# Title
 null pointer dereference in set_conversion_mode due uncheck _ctypes_conversion_errors
+# URL 
 https://hackerone.com/reports/166080
-get_icu_value_internal out-of-bounds read
-https://hackerone.com/reports/141197
-Heapoverflow in zipimporter module
-https://hackerone.com/reports/112057
-Other Buffer Overflow in PHP of the AirMax Products
-putty pscp client-side post-auth stack buffer overwrite when processing remote file size 
-https://hackerone.com/reports/74004
-https://hackerone.com/reports/120903
-hxd
+# Reporter 
+minhrau
+
+# Title
 Heap overflow caused by type confusion vulnerability in merge_param()
+# URL 
 https://hackerone.com/reports/172411
+# Reporter 
 rc0r
-LZMADecompressor.decompress Use After Free
-https://hackerone.com/reports/172562
-Bime Unable to load Data Sources
-https://hackerone.com/reports/141676
-anish2good
-Too many included lookups
-https://hackerone.com/reports/125400
-trabajoduro_2
-wddx_deserialize null dereference
-https://hackerone.com/reports/161216
+
+# Title
+Heapoverflow in zipimporter module
+# URL 
+https://hackerone.com/reports/112057
+# Reporter 
+jakkdu
+
+# Title
+Heap corruption via Python 2.7.11 IOBase readline()
+# URL 
+https://hackerone.com/reports/143022
+# Reporter 
+guido
+
+# Title
+get_icu_value_internal out-of-bounds read
+# URL 
+https://hackerone.com/reports/141197
+# Reporter 
+fms
+
+# Title
 Exploiting Secure Shell (SSH) on mobilelt.lahitapiola.fi
+# URL 
 https://hackerone.com/reports/139940
+# Reporter 
 aaditya_purani
+
+# Title
+putty pscp client-side post-auth stack buffer overwrite when processing remote file size 
+# URL 
+https://hackerone.com/reports/120903
+# Reporter 
+hxd
+
+# Title
+Other Buffer Overflow in PHP of the AirMax Products
+# URL 
+https://hackerone.com/reports/74004
+# Reporter 
+93c08539
+
+# Title
+LZMADecompressor.decompress Use After Free
+# URL 
+https://hackerone.com/reports/172562
+# Reporter 
+johnleitch
+
+# Title
+Too many included lookups
+# URL 
+https://hackerone.com/reports/125400
+# Reporter 
+trabajoduro_2
+
+# Title
+wddx_deserialize null dereference
+# URL 
+https://hackerone.com/reports/161216
+# Reporter 
+fms
+
+# Title
+Bime Unable to load Data Sources
+# URL 
+https://hackerone.com/reports/141676
+# Reporter 
+anish2good
+
+# Title
 Multiple Heap Overflow due to integer overflows | xml/filter_url/addcslashes
+# URL 
 https://hackerone.com/reports/117651
-Use-after-free in ArrayObject Deserialization
+# Reporter 
+l4w
+
+# Title
 Out of bound read in exif_process_IFD_in_MAKERNOTE
+# URL 
 https://hackerone.com/reports/152231
+# Reporter 
+hoangnguyen
+
+# Title
+Use-after-free in ArrayObject Deserialization
+# URL 
 https://hackerone.com/reports/180909
-Adobe Flash Player ShimContentFactory class Memory Corruption Vulnerability
-https://hackerone.com/reports/145265
-heap-buffer-overflow on mruby
-https://hackerone.com/reports/192665
+# Reporter 
+ryat
+
+# Title
 Double free of filename after codegen error
+# URL 
 https://hackerone.com/reports/193719
+# Reporter 
+titanous
+
+# Title
+heap-buffer-overflow on mruby
+# URL 
+https://hackerone.com/reports/192665
+# Reporter 
+ahihi
+
+# Title
 smartlist_add, smartlist_insert (may) cause heap corruption as a result of inadequate checks in smartlist_ensure_capacity
+# URL 
 https://hackerone.com/reports/112386
+# Reporter 
+guido
+
+# Title
 CVE-2016-7418 PHP Out-Of-Bounds Read in php_wddx_push_element
+# URL 
 https://hackerone.com/reports/170618
+# Reporter 
+hacker2nd
+
+# Title
+Adobe Flash Player ShimContentFactory class Memory Corruption Vulnerability
+# URL 
+https://hackerone.com/reports/145265
+# Reporter 
+hhj4ck
+
+# Title
 apps.owncloud.com: SSL Server Allows Anonymous Authentication Vulnerability (SMTP)
+# URL 
 https://hackerone.com/reports/83803
+# Reporter 
 ashesh
-Adobe Flash Player ShimContentResolver(resolverType=0) class Memory Corruption Vulnerability
-https://hackerone.com/reports/145271
-Use-After-Free / Double-Free in WDDX Deserialize
-https://hackerone.com/reports/116372
+
+# Title
 Certain inputs cause tight C-level recursion leading to process stack overflow
+# URL 
 https://hackerone.com/reports/189633
+# Reporter 
 dkasak
-UAF  in xmlparser_setevents (2)
-https://hackerone.com/reports/112860
-Python 2.7 strop.replace Integer Overflow
-https://hackerone.com/reports/129771
+
+# Title
+Adobe Flash Player ShimContentResolver(resolverType=0) class Memory Corruption Vulnerability
+# URL 
+https://hackerone.com/reports/145271
+# Reporter 
+hhj4ck
+
+# Title
 integer overflow in fgetcsv caused heap corruption
-CVE-2016-3183 OpenJPEG sycc422_to_rgb Out-of-Bounds Read Vulnerability
+# URL 
 https://hackerone.com/reports/167911
+# Reporter 
+minhrau
+
+# Title
+CVE-2016-3183 OpenJPEG sycc422_to_rgb Out-of-Bounds Read Vulnerability
+# URL 
 https://hackerone.com/reports/167947
-Format string implementation vulnerability, resulting in code execution
-https://hackerone.com/reports/271330
+# Reporter 
+hacker2nd
+
+# Title
+UAF  in xmlparser_setevents (2)
+# URL 
+https://hackerone.com/reports/112860
+# Reporter 
+pakt_
+
+# Title
+Use-After-Free / Double-Free in WDDX Deserialize
+# URL 
+https://hackerone.com/reports/116372
+# Reporter 
+l4w
+
+# Title
+Python 2.7 strop.replace Integer Overflow
+# URL 
+https://hackerone.com/reports/129771
+# Reporter 
+johnleitch
+
+# Title
 e.mail.ru: File upload "Chapito" circus
+# URL 
 https://hackerone.com/reports/20616
+# Reporter 
 isox
+
+# Title
 CVE-2016-7163 OpenJPEG opj_pi_create_decode Integer Overflow Vulnerability
+# URL 
 https://hackerone.com/reports/167512
+# Reporter 
+hacker2nd
+
+# Title
+Format string implementation vulnerability, resulting in code execution
+# URL 
+https://hackerone.com/reports/271330
+# Reporter 
+aerodudrizzt
+
+# Title
 money.mail.ru: Странное поведение SMS
+# URL 
 https://hackerone.com/reports/23852
+# Reporter 
 isox
+
+# Title
 Read after free in mrb_vm_exec with OP_ARYCAT reading R(B)
+# URL 
 https://hackerone.com/reports/184715
-Invalid parameter in memcpy function trough openssl_pbkdf2
-https://hackerone.com/reports/190933
-emyei
-Adobe Flash Player ShimAdPolicySelector(adPolicySelectorType=0) class Memory Corruption
-https://hackerone.com/reports/151040
+# Reporter 
+haquaman
+
+# Title
 Integer overflow in ZipArchive::getFrom*
+# URL 
 https://hackerone.com/reports/135152
-Heap use-after-free in mrb_vm_exec 
-https://hackerone.com/reports/207710
-Heap overflow in curl_escape
-https://hackerone.com/reports/160295
-integer overflow in base64_decode caused heap corruption
-https://hackerone.com/reports/159954
-Arbitary Memory Read via gdImageRotateInterpolated Array Index Out of Bounds
-https://hackerone.com/reports/110720
-Invalid memory access in php_basename function
-https://hackerone.com/reports/180591
-Use After Free Vulnerability in WDDX Packet Deserialization
-https://hackerone.com/reports/108681
+# Reporter 
+hji
+
+# Title
+Invalid parameter in memcpy function trough openssl_pbkdf2
+# URL 
+https://hackerone.com/reports/190933
+# Reporter 
+emyei
+
+# Title
+Adobe Flash Player ShimAdPolicySelector(adPolicySelectorType=0) class Memory Corruption
+# URL 
+https://hackerone.com/reports/151040
+# Reporter 
+hhj4ck
+
+# Title
 EVP_EncryptUpdate overflow (CVE-2016-2106)
+# URL 
 https://hackerone.com/reports/135945
+# Reporter 
+guido
+
+# Title
+Heap use-after-free in mrb_vm_exec 
+# URL 
+https://hackerone.com/reports/207710
+# Reporter 
+mg36
+
+# Title
+Arbitary Memory Read via gdImageRotateInterpolated Array Index Out of Bounds
+# URL 
+https://hackerone.com/reports/110720
+# Reporter 
+libnex
+
+# Title
+Heap overflow in curl_escape
+# URL 
+https://hackerone.com/reports/160295
+# Reporter 
+hoangnguyen
+
+# Title
+Invalid memory access in php_basename function
+# URL 
+https://hackerone.com/reports/180591
+# Reporter 
+jot
+
+# Title
+integer overflow in base64_decode caused heap corruption
+# URL 
+https://hackerone.com/reports/159954
+# Reporter 
+minhrau
+
+# Title
 CVE-2016-3182 OpenJPEG color_esycc_to_rgb Out-of-Bounds Read Vulnerability
+# URL 
 https://hackerone.com/reports/167953
-Use After Free in PHP7 unserialize()
-https://hackerone.com/reports/182474
-[FG-VD-19-009] Intel(R) Trace Analyzer and Collector 2019 Memory Corruption Vulnerability Notification
-https://hackerone.com/reports/483572
-kushal89shah
-CVE-2017-5204: The IPv6 parser in tcpdump before 4.9.0 has a buffer overflow in print-ip6.c:ip6_print()
-https://hackerone.com/reports/202960
+# Reporter 
+hacker2nd
+
+# Title
+Use After Free Vulnerability in WDDX Packet Deserialization
+# URL 
+https://hackerone.com/reports/108681
+# Reporter 
+ryat
+
+# Title
 Adobe Flash Player ShimContentFactory.retrieveResolvers Memory Corruption Vulnerability
+# URL 
 https://hackerone.com/reports/145266
-Heap overflow in H. Spencer’s regex library on 32 bit systems 
-https://hackerone.com/reports/47779
-CVE-2016-5157 OpenJPEG opj_dwt_interleave_v Out-of-Bounds Write Vulnerability
-https://hackerone.com/reports/167510
+# Reporter 
+hhj4ck
+
+# Title
+Use After Free in PHP7 unserialize()
+# URL 
+https://hackerone.com/reports/182474
+# Reporter 
+ryat
+
+# Title
+CVE-2017-5204: The IPv6 parser in tcpdump before 4.9.0 has a buffer overflow in print-ip6.c:ip6_print()
+# URL 
+https://hackerone.com/reports/202960
+# Reporter 
+geeknik
+
+# Title
+[FG-VD-19-009] Intel(R) Trace Analyzer and Collector 2019 Memory Corruption Vulnerability Notification
+# URL 
+https://hackerone.com/reports/483572
+# Reporter 
+kushal89shah
+
+# Title
 Inadequate error handling in bzread()
+# URL 
 https://hackerone.com/reports/152772
+# Reporter 
+hji
+
+# Title
+Heap overflow in H. Spencer’s regex library on 32 bit systems 
+# URL 
+https://hackerone.com/reports/47779
+# Reporter 
+guido
+
+# Title
 Missing restriction on string size of Full Name at https://demo.weblate.org/accounts/register/
+# URL 
 https://hackerone.com/reports/223454
+# Reporter 
 sumit7
+
+# Title
 Missing Restriction On String Size
+# URL 
 https://hackerone.com/reports/257376
+# Reporter 
 alyanwarr
-heap-use-after-free in mrb_vm_exec - vm.c:1247
-https://hackerone.com/reports/222294
-ilsani
+
+# Title
 integer overflow in fgets cause heap corruption
+# URL 
 https://hackerone.com/reports/167908
+# Reporter 
+minhrau
+
+# Title
+CVE-2016-5157 OpenJPEG opj_dwt_interleave_v Out-of-Bounds Write Vulnerability
+# URL 
+https://hackerone.com/reports/167510
+# Reporter 
+hacker2nd
+
+# Title
+heap-use-after-free in mrb_vm_exec - vm.c:1247
+# URL 
+https://hackerone.com/reports/222294
+# Reporter 
+ilsani
+
+# Title
 Use After Free Vulnerability in array_walk()/array_walk_recursive()
+# URL 
 https://hackerone.com/reports/155223
+# Reporter 
+ryat
+
+# Title
 SIGSEGV in array_copy - array.c:71
+# URL 
 https://hackerone.com/reports/218567
-kh_get_n2s() stack overrun
-https://hackerone.com/reports/192578
-Heap use-after-free during range creation
-https://hackerone.com/reports/194884
-Bug in Source Code Files(v1.1)
-https://hackerone.com/reports/5466
-robin
-Double-free in X509 parsing
-https://hackerone.com/reports/175230
+# Reporter 
+ilsani
+
+# Title
 Bad Write in TTF font parsing (win32k.sys)
+# URL 
 https://hackerone.com/reports/48100
+# Reporter 
 dirtybit
+
+# Title
+kh_get_n2s() stack overrun
+# URL 
+https://hackerone.com/reports/192578
+# Reporter 
+mg36
+
+# Title
+Heap use-after-free during range creation
+# URL 
+https://hackerone.com/reports/194884
+# Reporter 
+titanous
+
+# Title
+Bug in Source Code Files(v1.1)
+# URL 
+https://hackerone.com/reports/5466
+# Reporter 
+robin
+
+# Title
 Adobe Flash Player TimedEvent.parent Memory Corruption Vulnerability
+# URL 
 https://hackerone.com/reports/151039
+# Reporter 
+hhj4ck
+
+# Title
 integer overflow in imap_binary caused heap corruption
+# URL 
 https://hackerone.com/reports/167906
+# Reporter 
+minhrau
+
+# Title
+Double-free in X509 parsing
+# URL 
+https://hackerone.com/reports/175230
+# Reporter 
+guido
+
+# Title
 Heap buffer overflow in mruby value_move
+# URL 
 https://hackerone.com/reports/209765
+# Reporter 
 sukhoi
+
+# Title
 Stack overflow when decompressing tar archives
+# URL 
 https://hackerone.com/reports/114024
-EBCDIC overread (CVE-2016-2176)
-https://hackerone.com/reports/135946
+# Reporter 
+hji
+
+# Title
 imagecolormatch Out Of Bounds Write on Heap 
+# URL 
 https://hackerone.com/reports/478368
+# Reporter 
 simonscannell
+
+# Title
 Memory Corruption in During Deserialized-object Destruction
+# URL 
 https://hackerone.com/reports/167931
+# Reporter 
+ryat
+
+# Title
+EBCDIC overread (CVE-2016-2176)
+# URL 
+https://hackerone.com/reports/135946
+# Reporter 
+guido
+
+# Title
 SIGABRT in sym_validate_len - symbol.c:44
+# URL 
 https://hackerone.com/reports/218803
-Adobe Flash Player ShimContentResolver(resolverType=1) class Memory Corruption Vulnerability
-https://hackerone.com/reports/145272
+# Reporter 
+ilsani
+
+# Title
 sprintf combined format string attack
+# URL 
 https://hackerone.com/reports/212241
-integer overflow in recode_string caused heap corruption
-https://hackerone.com/reports/167909
-libtiff 4.0.6 segfault / read outside of buffer (CVE-2016-9297)
-https://hackerone.com/reports/182140
+# Reporter 
+aerodudrizzt
+
+# Title
+Adobe Flash Player ShimContentResolver(resolverType=1) class Memory Corruption Vulnerability
+# URL 
+https://hackerone.com/reports/145272
+# Reporter 
+hhj4ck
+
+# Title
 Buffer underflow in sprintf
+# URL 
 https://hackerone.com/reports/192127
+# Reporter 
+haquaman
+
+# Title
 HTTP/2 Denial of Service Vulnerability
+# URL 
 https://hackerone.com/reports/335533
+# Reporter 
 jzebor
+
+# Title
+libtiff 4.0.6 segfault / read outside of buffer (CVE-2016-9297)
+# URL 
+https://hackerone.com/reports/182140
+# Reporter 
+geeknik
+
+# Title
+integer overflow in recode_string caused heap corruption
+# URL 
+https://hackerone.com/reports/167909
+# Reporter 
+minhrau
+
+# Title
 Adobe Flash Player ASnative(900,1).call(MovieClip) Use-After-Free Vulnerability
-Use After Free in sortWithSortKeys()
+# URL 
 https://hackerone.com/reports/119653
+# Reporter 
+hhj4ck
+
+# Title
+Use After Free in sortWithSortKeys()
+# URL 
 https://hackerone.com/reports/109175
+# Reporter 
+libnex
+
+# Title
 memcpy negative size parameter in php_resolve_path
+# URL 
 https://hackerone.com/reports/175311
-php_snmp_parse_oid integer overflow in memory allocation
-https://hackerone.com/reports/178094
-fwh
+# Reporter 
+fms
+
+# Title
 Stack Buffer Overflow in GD dynamicGetbuf
+# URL 
 https://hackerone.com/reports/175587
+# Reporter 
+libnex
+
+# Title
+php_snmp_parse_oid integer overflow in memory allocation
+# URL 
+https://hackerone.com/reports/178094
+# Reporter 
+fwh
+
+# Title
 kh_put_iv SEGFAULT - mruby 1.2.0
+# URL 
 https://hackerone.com/reports/217610
+# Reporter 
+ilsani
+
+# Title
 Buffer overflow in HTTP parse_hostinfo(), parse_userinfo() and parse_scheme()
+# URL 
 https://hackerone.com/reports/174069
+# Reporter 
+rc0r
+

@@ -13,2242 +13,6393 @@ https://hackerone.com/reports/186315
 r0p3
 
 # Title
+Stored-XSS in https://www.coinbase.com/
+# URL 
+https://hackerone.com/reports/100829
+# Reporter 
+hazimaslam
+
+# Title
 demo.owncloud.org: Web Server HTTP Trace/Track Method Support Cross-Site Tracing Vulnerability
 # URL 
 https://hackerone.com/reports/83837
 # Reporter 
 ashesh
 
-Stored-XSS in https://www.coinbase.com/
-https://hackerone.com/reports/100829
-hazimaslam
+# Title
 Cross site scripting 
+# URL 
 https://hackerone.com/reports/158757
+# Reporter 
 an0n-j
-CSP : Inline scripts can be inserted
-https://hackerone.com/reports/513105
-darkdude
-[public] Stored XSS in the filename when directories listing
-https://hackerone.com/reports/329950
-tungpun
+
+# Title
 XSS in uber oauth
+# URL 
 https://hackerone.com/reports/131052
+# Reporter 
 zombiehelp54
+
+# Title
+CSP : Inline scripts can be inserted
+# URL 
+https://hackerone.com/reports/513105
+# Reporter 
+darkdude
+
+# Title
 Stored XSS in Template Documents
+# URL 
 https://hackerone.com/reports/179559
+# Reporter 
 haquaman
-Stored XSS in blog comments through Shopify API
-https://hackerone.com/reports/192210
-prakharprasad
-Persistent XSS in www.starbucks.com
-https://hackerone.com/reports/188972
-ddworken
-CSP not consistently applied
-https://hackerone.com/reports/321
-janpaul123
-Stored XSS in Feature tile 
-https://hackerone.com/reports/50639
-ishahriyar
+
+# Title
+[public] Stored XSS in the filename when directories listing
+# URL 
+https://hackerone.com/reports/329950
+# Reporter 
+tungpun
+
+# Title
 Response splitting vulnerability in WEBrick
+# URL 
 https://hackerone.com/reports/153794
+# Reporter 
 tenderlove
+
+# Title
+Stored XSS in blog comments through Shopify API
+# URL 
+https://hackerone.com/reports/192210
+# Reporter 
+prakharprasad
+
+# Title
+CSP not consistently applied
+# URL 
+https://hackerone.com/reports/321
+# Reporter 
+janpaul123
+
+# Title
+Persistent XSS in www.starbucks.com
+# URL 
+https://hackerone.com/reports/188972
+# Reporter 
+ddworken
+
+# Title
 [Android] XSS via start ContentActivity
+# URL 
 https://hackerone.com/reports/189793
+# Reporter 
 bobrov
+
+# Title
 Stored XSS from Display Settings triggered on Save and viewing realtime search demo
+# URL 
 https://hackerone.com/reports/156387
+# Reporter 
 ctee
-Reflected XSS in U2F plugin by shipping the example endpoints
-https://hackerone.com/reports/192786
-lukasreschke
+
+# Title
+Stored XSS in Feature tile 
+# URL 
+https://hackerone.com/reports/50639
+# Reporter 
+ishahriyar
+
+# Title
 XSS in Localize.io
+# URL 
 https://hackerone.com/reports/7890
+# Reporter 
 siddiki
-Improperly validated fields allows injection of arbitrary HTML via spoofed React objects
-https://hackerone.com/reports/49652
-danlec
-an xss issue in https://hunter22.slack.com/help/requests/793043
-https://hackerone.com/reports/116419
-securitythinker
+
+# Title
+Reflected XSS in U2F plugin by shipping the example endpoints
+# URL 
+https://hackerone.com/reports/192786
+# Reporter 
+lukasreschke
+
+# Title
 Stored XSS in the Shopify Discussion Forums
-XSS via React element spoofing
+# URL 
 https://hackerone.com/reports/59015
+# Reporter 
 duplicateguy
+
+# Title
+XSS via React element spoofing
+# URL 
 https://hackerone.com/reports/124277
+# Reporter 
 jouko
+
+# Title
+an xss issue in https://hunter22.slack.com/help/requests/793043
+# URL 
+https://hackerone.com/reports/116419
+# Reporter 
+securitythinker
+
+# Title
+Improperly validated fields allows injection of arbitrary HTML via spoofed React objects
+# URL 
+https://hackerone.com/reports/49652
+# Reporter 
+danlec
+
+# Title
 a stored xss in  slack integration  https://onerror.slack.com/services/import
+# URL 
 https://hackerone.com/reports/33018
-XSS @ *.letgo.com
-https://hackerone.com/reports/150822
-thezawad
-XSS @ love.uber.com
-https://hackerone.com/reports/117068
-Reflective Xss Vulnerability 
-https://hackerone.com/reports/80694
-XSS @ *.olx.com.ar
-https://hackerone.com/reports/150560
+# Reporter 
+securitythinker
+
+# Title
 Stored XSS in Restoring Archived Tasks
+# URL 
 https://hackerone.com/reports/177757
+# Reporter 
 bugs3ra
+
+# Title
+XSS @ *.letgo.com
+# URL 
+https://hackerone.com/reports/150822
+# Reporter 
+thezawad
+
+# Title
+Reflective Xss Vulnerability 
+# URL 
+https://hackerone.com/reports/80694
+# Reporter 
+alyssa_herrera
+
+# Title
 XSS in desktop client via invalid server address on login form
+# URL 
 https://hackerone.com/reports/685552
+# Reporter 
 jplopezy
+
+# Title
+XSS @ *.olx.com.ar
+# URL 
+https://hackerone.com/reports/150560
+# Reporter 
+thezawad
+
+# Title
+XSS @ love.uber.com
+# URL 
+https://hackerone.com/reports/117068
+# Reporter 
+siddiki
+
+# Title
 [odnoklassniki.ru] XSS via Host
+# URL 
 https://hackerone.com/reports/39316
-doc.owncloud.org: XSS via Referrer
-https://hackerone.com/reports/130951
-sandh0t
-Stored XSS via Angular Expression injection on developer.zendesk.com
-https://hackerone.com/reports/117480
-albinowax
-Stored XSS in photo comment functionality
-https://hackerone.com/reports/172227
-dudez
-STORED XSS FOUND
-https://hackerone.com/reports/136396
-dirtycoder
-XSS in https://app.mavenlink.com/workspaces/
-https://hackerone.com/reports/63537
-enderun07
-Reflected Self-XSS Vulnerability in the Comment section of Files (Different-payloads)
-https://hackerone.com/reports/164520
-shivakumar143
-Reflected XSS on a DoD website
-https://hackerone.com/reports/194294
-amsda
+# Reporter 
+bobrov
+
+# Title
 [start.icq.com] Reflected XSS via Cookies
+# URL 
 https://hackerone.com/reports/83576
+# Reporter 
 bigbear_
+
+# Title
+Stored XSS via Angular Expression injection on developer.zendesk.com
+# URL 
+https://hackerone.com/reports/117480
+# Reporter 
+albinowax
+
+# Title
+doc.owncloud.org: XSS via Referrer
+# URL 
+https://hackerone.com/reports/130951
+# Reporter 
+sandh0t
+
+# Title
+XSS in https://app.mavenlink.com/workspaces/
+# URL 
+https://hackerone.com/reports/63537
+# Reporter 
+enderun07
+
+# Title
+Stored XSS in photo comment functionality
+# URL 
+https://hackerone.com/reports/172227
+# Reporter 
+dudez
+
+# Title
+Reflected XSS on a DoD website
+# URL 
+https://hackerone.com/reports/194294
+# Reporter 
+amsda
+
+# Title
+Reflected Self-XSS Vulnerability in the Comment section of Files (Different-payloads)
+# URL 
+https://hackerone.com/reports/164520
+# Reporter 
+shivakumar143
+
+# Title
+STORED XSS FOUND
+# URL 
+https://hackerone.com/reports/136396
+# Reporter 
+dirtycoder
+
+# Title
 [reStructuredText] XSS in project README files
+# URL 
 https://hackerone.com/reports/205497
+# Reporter 
 ysx
-XSS in original referrer after follow
-https://hackerone.com/reports/50134
-akhil-reni
-XSS in express-useragent through HTTP User-Agent
-https://hackerone.com/reports/362702
-b9b86c2fc8409c628fb3de6
+
+# Title
 Angular injection in the profile name of onpatient
+# URL 
 https://hackerone.com/reports/141240
+# Reporter 
 yaworsk
-touch.afisha.mail.ru: XSS
-https://hackerone.com/reports/13319
-isox
-www.shopify.com XSS via third-party script
-https://hackerone.com/reports/111475
-reactors08
+
+# Title
+XSS in express-useragent through HTTP User-Agent
+# URL 
+https://hackerone.com/reports/362702
+# Reporter 
+b9b86c2fc8409c628fb3de6
+
+# Title
+XSS in original referrer after follow
+# URL 
+https://hackerone.com/reports/50134
+# Reporter 
+akhil-reni
+
+# Title
 Log pollution can lead to HTML Injection.
+# URL 
 https://hackerone.com/reports/146278
+# Reporter 
 apok
-https://hackerone.com/reports/189241
-juliocesar
-XSS on www.wordpress.com
-https://hackerone.com/reports/133963
-spam404
+
+# Title
+touch.afisha.mail.ru: XSS
+# URL 
+https://hackerone.com/reports/13319
+# Reporter 
+isox
+
+# Title
+www.shopify.com XSS via third-party script
+# URL 
+https://hackerone.com/reports/111475
+# Reporter 
+reactors08
+
+# Title
 Subdomain takeover due to an unclaimed Amazon S3 bucket on ███
+# URL 
 https://hackerone.com/reports/918946
+# Reporter 
 chron0x
-Redirect URL in /intent/ functionality is not properly escaped
-https://hackerone.com/reports/48516
-homakov
-Stored XSS via AngularJS Injection
-https://hackerone.com/reports/141463
-Stored XSS using  SVG 
-https://hackerone.com/reports/148853
-abdullah
-Stored XSS triggered by json key during UI generation
-https://hackerone.com/reports/156347
-Reflective XSS at dubai.dubizzle.com
-https://hackerone.com/reports/177619
-hogarth45
+
+# Title
+Reflected XSS on a DoD website
+# URL 
+https://hackerone.com/reports/189241
+# Reporter 
+juliocesar
+
+# Title
 Stored XSS on 'Badges' page
+# URL 
 https://hackerone.com/reports/137845
+# Reporter 
 zuh4n
-XSS via SVG file
-https://hackerone.com/reports/212253
-0xspade
-[informatica.com]- Cross Site scripting 
-https://hackerone.com/reports/204237
-irotem2
-shopifyapps.com XSS on sales channels via currency formatting
-https://hackerone.com/reports/104359
-genericons.com - DOM based XSS.
-https://hackerone.com/reports/14305
-smiegles
+
+# Title
+Redirect URL in /intent/ functionality is not properly escaped
+# URL 
+https://hackerone.com/reports/48516
+# Reporter 
+homakov
+
+# Title
+XSS on www.wordpress.com
+# URL 
+https://hackerone.com/reports/133963
+# Reporter 
+spam404
+
+# Title
+Stored XSS triggered by json key during UI generation
+# URL 
+https://hackerone.com/reports/156347
+# Reporter 
+ctee
+
+# Title
+Stored XSS via AngularJS Injection
+# URL 
+https://hackerone.com/reports/141463
+# Reporter 
+yaworsk
+
+# Title
+Stored XSS using  SVG 
+# URL 
+https://hackerone.com/reports/148853
+# Reporter 
+abdullah
+
+# Title
 XSS in dropbox main domain 
+# URL 
 https://hackerone.com/reports/59356
+# Reporter 
 missoum1307
-Content-Injection/XSS ████
-https://hackerone.com/reports/205360
-c0rte
+
+# Title
+Reflective XSS at dubai.dubizzle.com
+# URL 
+https://hackerone.com/reports/177619
+# Reporter 
+hogarth45
+
+# Title
 Vimeo Search - XSS Vulnerability [http://vimeo.com/search]
+# URL 
 https://hackerone.com/reports/44798
+# Reporter 
 shamrocksu88
+
+# Title
+XSS via SVG file
+# URL 
+https://hackerone.com/reports/212253
+# Reporter 
+0xspade
+
+# Title
 Stored XSS at Udemy
+# URL 
 https://hackerone.com/reports/132602
+# Reporter 
 ankitsingh
+
+# Title
+[informatica.com]- Cross Site scripting 
+# URL 
+https://hackerone.com/reports/204237
+# Reporter 
+irotem2
+
+# Title
+shopifyapps.com XSS on sales channels via currency formatting
+# URL 
+https://hackerone.com/reports/104359
+# Reporter 
+reactors08
+
+# Title
+Content-Injection/XSS ████
+# URL 
+https://hackerone.com/reports/205360
+# Reporter 
+c0rte
+
+# Title
+genericons.com - DOM based XSS.
+# URL 
+https://hackerone.com/reports/14305
+# Reporter 
+smiegles
+
+# Title
 xss in app.simplenote.com
+# URL 
 https://hackerone.com/reports/13703
+# Reporter 
 heizes
-XSS in www.eobot.com(IE9 only)
-https://hackerone.com/reports/37622
-masatokinugawa
+
+# Title
 Cross Site Scripting(XSS) on IRCCloud Badges Page (using Parameter Pollution)
+# URL 
 https://hackerone.com/reports/150083
+# Reporter 
 rohitdua
-Cross-Site Scripting (XSS) on a DoD website
-https://hackerone.com/reports/186402
-clizsec
+
+# Title
+XSS in www.eobot.com(IE9 only)
+# URL 
+https://hackerone.com/reports/37622
+# Reporter 
+masatokinugawa
+
+# Title
 Stored XSS in https://productreviews.shopifyapps.com/proxy/v4/reviews/product
+# URL 
 https://hackerone.com/reports/168458
+# Reporter 
+zombiehelp54
+
+# Title
 Stored XSS in Title of the topic List
+# URL 
 https://hackerone.com/reports/50626
-XSS https://www.shopify.com/signup
-https://hackerone.com/reports/85291
-mdv
-[html-pages] Stored XSS in the filename when directories listing
-https://hackerone.com/reports/330356
+# Reporter 
+ishahriyar
+
+# Title
 Stored XSS on BillingCountry parameter
+# URL 
 https://hackerone.com/reports/182414
+# Reporter 
 tsug0d
-Adobe XSS
-https://hackerone.com/reports/50389
-dsopas
-touch.mail.ru XSS via message id
-https://hackerone.com/reports/28832
+
+# Title
+Cross-Site Scripting (XSS) on a DoD website
+# URL 
+https://hackerone.com/reports/186402
+# Reporter 
+clizsec
+
+# Title
+[html-pages] Stored XSS in the filename when directories listing
+# URL 
+https://hackerone.com/reports/330356
+# Reporter 
+tungpun
+
+# Title
+XSS https://www.shopify.com/signup
+# URL 
+https://hackerone.com/reports/85291
+# Reporter 
+mdv
+
+# Title
 XSS in L.mapbox.shareControl in mapbox.js
+# URL 
 https://hackerone.com/reports/99245
-Stored XSS on Share-popup of a directory's Gallery-view
-https://hackerone.com/reports/145355
-fransrosen
+# Reporter 
+enderun07
+
+# Title
+touch.mail.ru XSS via message id
+# URL 
+https://hackerone.com/reports/28832
+# Reporter 
+reactors08
+
+# Title
+Adobe XSS
+# URL 
+https://hackerone.com/reports/50389
+# Reporter 
+dsopas
+
+# Title
 Reflected Cross Site Script in imtportal.gm.com
+# URL 
 https://hackerone.com/reports/120622
+# Reporter 
 adrianomarcmont
-IFXSS (image filename XSS) by creating a new Photo Gallery
-https://hackerone.com/reports/19451
-jimeno
-Reflected XSS in a Navy website
-https://hackerone.com/reports/188691
-XSS in Groups
-https://hackerone.com/reports/7868
-nahamsec
-Reflected XSS and something more Store XSS too
-https://hackerone.com/reports/134004
-secdoor
-Stored Cross-Site Scripting via Angular Template Injection
-https://hackerone.com/reports/132658
-fitzpr
+
+# Title
 Reflected Xss
+# URL 
 https://hackerone.com/reports/2777
+# Reporter 
 niks
+
+# Title
+IFXSS (image filename XSS) by creating a new Photo Gallery
+# URL 
+https://hackerone.com/reports/19451
+# Reporter 
+jimeno
+
+# Title
+Stored XSS on Share-popup of a directory's Gallery-view
+# URL 
+https://hackerone.com/reports/145355
+# Reporter 
+fransrosen
+
+# Title
+XSS in Groups
+# URL 
+https://hackerone.com/reports/7868
+# Reporter 
+nahamsec
+
+# Title
+Stored Cross-Site Scripting via Angular Template Injection
+# URL 
+https://hackerone.com/reports/132658
+# Reporter 
+fitzpr
+
+# Title
+Reflected XSS in a Navy website
+# URL 
+https://hackerone.com/reports/188691
+# Reporter 
+juliocesar
+
+# Title
 Stored XSS on developer.uber.com via admin account compromise
+# URL 
 https://hackerone.com/reports/152067
-The react-marked-markdown module allows XSS injection in href values.
-https://hackerone.com/reports/344069
-ronperris
-Reflected XSS in owncloud.com
-https://hackerone.com/reports/127259
-sergeym
+# Reporter 
+albinowax
+
+# Title
 XSS in Bootbox
+# URL 
 https://hackerone.com/reports/508446
+# Reporter 
 yonjah
-XSS on Vimeo
-https://hackerone.com/reports/45484
-niyaax
-Content spoofing and potential Cross-Site Scripting vulnerability on www.hackerone.com
-https://hackerone.com/reports/374919
-suresh1c
-[riot.mail.ru] Reflected XSS in debug-mode
-https://hackerone.com/reports/83585
+
+# Title
+Reflected XSS and something more Store XSS too
+# URL 
+https://hackerone.com/reports/134004
+# Reporter 
+secdoor
+
+# Title
 GET /surveys/2auth: XSS
+# URL 
 https://hackerone.com/reports/41939
-XSS in PDF Viewer
-https://hackerone.com/reports/819863
-skewbed
+# Reporter 
+isox
+
+# Title
+Reflected XSS in owncloud.com
+# URL 
+https://hackerone.com/reports/127259
+# Reporter 
+sergeym
+
+# Title
+Content spoofing and potential Cross-Site Scripting vulnerability on www.hackerone.com
+# URL 
+https://hackerone.com/reports/374919
+# Reporter 
+suresh1c
+
+# Title
+XSS on Vimeo
+# URL 
+https://hackerone.com/reports/45484
+# Reporter 
+niyaax
+
+# Title
 XSS in experts.shopify.com
+# URL 
 https://hackerone.com/reports/57459
+# Reporter 
 haxs101
+
+# Title
+The react-marked-markdown module allows XSS injection in href values.
+# URL 
+https://hackerone.com/reports/344069
+# Reporter 
+ronperris
+
+# Title
 Persistent XSS in afisha.mail.ru
+# URL 
 https://hackerone.com/reports/10154
+# Reporter 
 4p00rv
+
+# Title
+[riot.mail.ru] Reflected XSS in debug-mode
+# URL 
+https://hackerone.com/reports/83585
+# Reporter 
+bigbear_
+
+# Title
 Cross site scripting - XSRF Token
+# URL 
 https://hackerone.com/reports/858255
+# Reporter 
 a9hora
+
+# Title
+XSS in PDF Viewer
+# URL 
+https://hackerone.com/reports/819863
+# Reporter 
+skewbed
+
+# Title
 Link sanitation bypass in xss_clean() 
+# URL 
 https://hackerone.com/reports/171670
+# Reporter 
 0xsyndr0me
-cloud.mail.ru: File upload XSS using Content-Type header
-https://hackerone.com/reports/20720
-Reflected XSS in chat
-https://hackerone.com/reports/73566
-skavans
-[Stored XSS] sandbox.veris.in 
-https://hackerone.com/reports/137127
-bogdantcaciuc
+
+# Title
 Remote File Inclusion, Malicious File Hosting, and Cross-site Scripting (XSS) in ████████
+# URL 
 https://hackerone.com/reports/192940
+# Reporter 
 jutsuce
-[network.informatica.com] The login form XSS via the referer value
-https://hackerone.com/reports/190016
-s_p_q_r
-XSS vulnerability in video player page
-https://hackerone.com/reports/15125
-guido
+
+# Title
+Reflected XSS in chat
+# URL 
+https://hackerone.com/reports/73566
+# Reporter 
+skavans
+
+# Title
+[Stored XSS] sandbox.veris.in 
+# URL 
+https://hackerone.com/reports/137127
+# Reporter 
+bogdantcaciuc
+
+# Title
+cloud.mail.ru: File upload XSS using Content-Type header
+# URL 
+https://hackerone.com/reports/20720
+# Reporter 
+isox
+
+# Title
 [XSS/pay.qiwi.com] Pay SubDomain Hard-Use XSS
+# URL 
 https://hackerone.com/reports/198251
+# Reporter 
 nstikhomirov
+
+# Title
+[network.informatica.com] The login form XSS via the referer value
+# URL 
+https://hackerone.com/reports/190016
+# Reporter 
+s_p_q_r
+
+# Title
 HTML Injection possible due to bad filter
+# URL 
 https://hackerone.com/reports/198907
+# Reporter 
 jackb898
-Reflected xss on websummit.net
-https://hackerone.com/reports/166699
-rubyroobs
-refelected Xss on https://gmid.gm.com/gmid/jsp/GMIDInitialLogin.jsp
-https://hackerone.com/reports/109461
-d1pakda5
-[bbPress] Stored XSS in any forum post.
-https://hackerone.com/reports/151117
-psych0tr1a
-Stored XSS in Image Alt. Text
-https://hackerone.com/reports/50782
-Stored XSS on Admin Access Page - Email field
-https://hackerone.com/reports/173501
-pavanw3b
-[ishop.qiwi.com] XSS + Misconfiguration
-https://hackerone.com/reports/47536
-kxyry
-Unauthenticated Stored xss 
-https://hackerone.com/reports/168054
-spetr0x
-Unchecking hidden parameter is vulnerable to XSS-attack
-https://hackerone.com/reports/13506
-bigbear
+
+# Title
+XSS vulnerability in video player page
+# URL 
+https://hackerone.com/reports/15125
+# Reporter 
+guido
+
+# Title
 stored xss in transaction
+# URL 
 https://hackerone.com/reports/42161
+# Reporter 
 4lemon
+
+# Title
+Unauthenticated Stored xss 
+# URL 
+https://hackerone.com/reports/168054
+# Reporter 
+spetr0x
+
+# Title
+Reflected xss on websummit.net
+# URL 
+https://hackerone.com/reports/166699
+# Reporter 
+rubyroobs
+
+# Title
 XSS using yql and developers console proxy
-Self XSS Protection not used , I can trick users to insert JavaScript
+# URL 
 https://hackerone.com/reports/1011
-https://hackerone.com/reports/76307
+# Reporter 
 kyprizel
-Open Redirect on slack.com
-https://hackerone.com/reports/140447
-sudotop
-XSS in http://localhost:8153/go/admin/config/server/update
-https://hackerone.com/reports/151634
-pradeepch99
-ActionController::Parameters .each returns an unsafe hash
-https://hackerone.com/reports/292797
-abuisman
+
+# Title
+Unchecking hidden parameter is vulnerable to XSS-attack
+# URL 
+https://hackerone.com/reports/13506
+# Reporter 
+bigbear
+
+# Title
+refelected Xss on https://gmid.gm.com/gmid/jsp/GMIDInitialLogin.jsp
+# URL 
+https://hackerone.com/reports/109461
+# Reporter 
+d1pakda5
+
+# Title
+Stored XSS on Admin Access Page - Email field
+# URL 
+https://hackerone.com/reports/173501
+# Reporter 
+pavanw3b
+
+# Title
+[ishop.qiwi.com] XSS + Misconfiguration
+# URL 
+https://hackerone.com/reports/47536
+# Reporter 
+kxyry
+
+# Title
+Self XSS Protection not used , I can trick users to insert JavaScript
+# URL 
+https://hackerone.com/reports/76307
+# Reporter 
+ashesh
+
+# Title
+Stored XSS in Image Alt. Text
+# URL 
+https://hackerone.com/reports/50782
+# Reporter 
+ishahriyar
+
+# Title
+[bbPress] Stored XSS in any forum post.
+# URL 
+https://hackerone.com/reports/151117
+# Reporter 
+psych0tr1a
+
+# Title
 Stored Cross-Site-Scripting in CMS Airship's  authors profiles
+# URL 
 https://hackerone.com/reports/148741
+# Reporter 
+lukasreschke
+
+# Title
+XSS in http://localhost:8153/go/admin/config/server/update
+# URL 
+https://hackerone.com/reports/151634
+# Reporter 
+pradeepch99
+
+# Title
+Open Redirect on slack.com
+# URL 
+https://hackerone.com/reports/140447
+# Reporter 
+sudotop
+
+# Title
+ActionController::Parameters .each returns an unsafe hash
+# URL 
+https://hackerone.com/reports/292797
+# Reporter 
+abuisman
+
+# Title
 Stored Xss in rpm.newrelic.com
+# URL 
 https://hackerone.com/reports/170241
+# Reporter 
 hackerwahab
+
+# Title
 Content spoofing
+# URL 
 https://hackerone.com/reports/27564
+# Reporter 
 djadmin
+
+# Title
 No CSRF protection when creating new community points actions, and related stored XSS
+# URL 
 https://hackerone.com/reports/65808
+# Reporter 
 jmpalk
-Multiple DOMXSS on Amplify Web Player
-https://hackerone.com/reports/88719
-filedescriptor
+
+# Title
 Reflected XSS on Uber.com careers
+# URL 
 https://hackerone.com/reports/117190
+# Reporter 
+pavanw3b
+
+# Title
 Reflected XSS in cart at hardware.shopify.com
+# URL 
 https://hackerone.com/reports/95089
+# Reporter 
 juhhga
+
+# Title
+Multiple DOMXSS on Amplify Web Player
+# URL 
+https://hackerone.com/reports/88719
+# Reporter 
+filedescriptor
+
+# Title
 XSS at in instacart.com/store/partner_recipe
+# URL 
 https://hackerone.com/reports/227809
+# Reporter 
 ak1t4
+
+# Title
 xss on bittorrent.com
+# URL 
 https://hackerone.com/reports/846432
+# Reporter 
 aslanemre
-XSS in api_v1
-https://hackerone.com/reports/198851
-ramsexy
-Flash XSS in http://go.mail.ru
+
+# Title
 XSS at forum : 
-https://hackerone.com/reports/15330
+# URL 
 https://hackerone.com/reports/107718
+# Reporter 
 paresh_parmar
-quistertow
-xss in https://www.uber.com
-https://hackerone.com/reports/145278
-netfuzzer
-[RDoc] XSS in project README files
-https://hackerone.com/reports/200693
-Import emails from Gmail are activate XSS
-https://hackerone.com/reports/7913
-sasi2103
-XSS IN member List (Because of City Textbox)
-https://hackerone.com/reports/4839
-atom
-[CRITICAL] HTML injection issue leading to account take over
-https://hackerone.com/reports/111915
-XSS работающая по всему сайту, где есть упоминания
-https://hackerone.com/reports/292997
-flyink
-Reflected XSS and Open Redirect (verkkopalvelu.lahitapiola.fi)
-https://hackerone.com/reports/194207
-ahsan
+
+# Title
+XSS in api_v1
+# URL 
+https://hackerone.com/reports/198851
+# Reporter 
+ramsexy
+
+# Title
 Persistent XSS in image title
+# URL 
 https://hackerone.com/reports/95564
+# Reporter 
 kasperkarlsson
-xss на нескольких форумах игр от mail.ru (Cross-Site Scripting)
-https://hackerone.com/reports/86069
-danila
+
+# Title
+XSS работающая по всему сайту, где есть упоминания
+# URL 
+https://hackerone.com/reports/292997
+# Reporter 
+flyink
+
+# Title
+[RDoc] XSS in project README files
+# URL 
+https://hackerone.com/reports/200693
+# Reporter 
+ysx
+
+# Title
+xss in https://www.uber.com
+# URL 
+https://hackerone.com/reports/145278
+# Reporter 
+netfuzzer
+
+# Title
+Flash XSS in http://go.mail.ru
+# URL 
+https://hackerone.com/reports/15330
+# Reporter 
+quistertow
+
+# Title
+[CRITICAL] HTML injection issue leading to account take over
+# URL 
+https://hackerone.com/reports/111915
+# Reporter 
+zombiehelp54
+
+# Title
+Import emails from Gmail are activate XSS
+# URL 
+https://hackerone.com/reports/7913
+# Reporter 
+sasi2103
+
+# Title
 Reflected XSS on a Department of Defense website
+# URL 
 https://hackerone.com/reports/183855
-WordPress core stored XSS via attachment file name
-https://hackerone.com/reports/139245
+# Reporter 
+juliocesar
+
+# Title
+XSS IN member List (Because of City Textbox)
+# URL 
+https://hackerone.com/reports/4839
+# Reporter 
+atom
+
+# Title
+xss на нескольких форумах игр от mail.ru (Cross-Site Scripting)
+# URL 
+https://hackerone.com/reports/86069
+# Reporter 
+danila
+
+# Title
 Stored XSS on Blog's page Tile
+# URL 
 https://hackerone.com/reports/50552
-[scores.ubnt.com] DOM based XSS at form.html
-https://hackerone.com/reports/158484
-[nutty.ubnt.com] DOM Based XSS nuttyapp github-btn.html
-https://hackerone.com/reports/200753
-Tweet Deck XSS- Persistent- Group DM name
-https://hackerone.com/reports/119022
-URGENT - Subdomain Takeover on media.vine.co due to unclaimed domain pointing to AWS
-https://hackerone.com/reports/32825
-Stored XSS in testimonial Company
+# Reporter 
+ishahriyar
+
+# Title
+Reflected XSS and Open Redirect (verkkopalvelu.lahitapiola.fi)
+# URL 
+https://hackerone.com/reports/194207
+# Reporter 
+ahsan
+
+# Title
 Cross-site request forgery (CSRF) vulnerability in a DoD website
-https://hackerone.com/reports/50656
+# URL 
 https://hackerone.com/reports/202808
+# Reporter 
 mantis
-Reflected Xss on 
-https://hackerone.com/reports/182033
-[careers.informatica.com] XSS on "isJTN"
-https://hackerone.com/reports/190020
-huntertxt
-Store XSS
-https://hackerone.com/reports/187410
-imran_hadid
+
+# Title
+WordPress core stored XSS via attachment file name
+# URL 
+https://hackerone.com/reports/139245
+# Reporter 
+jouko
+
+# Title
+[scores.ubnt.com] DOM based XSS at form.html
+# URL 
+https://hackerone.com/reports/158484
+# Reporter 
+s_p_q_r
+
+# Title
+Tweet Deck XSS- Persistent- Group DM name
+# URL 
+https://hackerone.com/reports/119022
+# Reporter 
+akhil-reni
+
+# Title
+[nutty.ubnt.com] DOM Based XSS nuttyapp github-btn.html
+# URL 
+https://hackerone.com/reports/200753
+# Reporter 
+bobrov
+
+# Title
+URGENT - Subdomain Takeover on media.vine.co due to unclaimed domain pointing to AWS
+# URL 
+https://hackerone.com/reports/32825
+# Reporter 
+fransrosen
+
+# Title
+Stored XSS in testimonial Company
+# URL 
+https://hackerone.com/reports/50656
+# Reporter 
+ishahriyar
+
+# Title
 Multiple vulnerabilities in http://blog.dubizzle.com/uae
+# URL 
 https://hackerone.com/reports/188279
+# Reporter 
 hackerhero
-APIs for channels allow HTML entities that may cause XSS issue
-https://hackerone.com/reports/42702
-artem
+
+# Title
+[careers.informatica.com] XSS on "isJTN"
+# URL 
+https://hackerone.com/reports/190020
+# Reporter 
+huntertxt
+
+# Title
+Reflected Xss on 
+# URL 
+https://hackerone.com/reports/182033
+# Reporter 
+d1pakda5
+
+# Title
+Store XSS
+# URL 
+https://hackerone.com/reports/187410
+# Reporter 
+imran_hadid
+
+# Title
 CSRF bypass + XSS on verkkopalvelu.tapiola.fi
+# URL 
 https://hackerone.com/reports/200683
+# Reporter 
 b6117130df17feef13481e3
-Persistent input validation mail encoding vulnerability  in the "just followed you" email notification.
-https://hackerone.com/reports/114879
-pr0tagon1st
+
+# Title
+APIs for channels allow HTML entities that may cause XSS issue
+# URL 
+https://hackerone.com/reports/42702
+# Reporter 
+artem
+
+# Title
 XSS Reflected - Yahoo Travel
+# URL 
 https://hackerone.com/reports/1553
+# Reporter 
 akkilion
-XSS
-https://hackerone.com/reports/18372
-shubham
+
+# Title
 Cross-site scripting (XSS) on a DoD website
+# URL 
 https://hackerone.com/reports/203060
+# Reporter 
 reptou
+
+# Title
 XSS 1
+# URL 
 https://hackerone.com/reports/9230
+# Reporter 
 shahmeer-amir
-Reflected Cross Site Script in m.chevrolet.com.wpsegment5.gm.com
-https://hackerone.com/reports/120656
-XSS vulnerability on a DoD website
-https://hackerone.com/reports/192751
-swissky
+
+# Title
+XSS
+# URL 
+https://hackerone.com/reports/18372
+# Reporter 
+shubham
+
+# Title
+Persistent input validation mail encoding vulnerability  in the "just followed you" email notification.
+# URL 
+https://hackerone.com/reports/114879
+# Reporter 
+pr0tagon1st
+
+# Title
 Bypass to postMessage origin validation via FTP
+# URL 
 https://hackerone.com/reports/210654
+# Reporter 
 a1kmm-
-XSS ReflectedGET /*embed_player*?
-https://hackerone.com/reports/138045
-clubjk
-Cross Site Scripting
-https://hackerone.com/reports/151678
-kiraak-boy
-Reflective Xss on news.mail.ru and admin.news.mail.ru
-https://hackerone.com/reports/94517
-mak
-XSS and open redirect in verkkopalvelu.lahitapiola.fi
-https://hackerone.com/reports/183796
-th3g3nt3lman
-Reflected Self-XSS in Slack
-https://hackerone.com/reports/97683
-harry_mg
+
+# Title
+XSS vulnerability on a DoD website
+# URL 
+https://hackerone.com/reports/192751
+# Reporter 
+swissky
+
+# Title
 XSS in people.uber.com
+# URL 
 https://hackerone.com/reports/140791
-Reflected XSS
-https://hackerone.com/reports/203241
-no_thing
-https://hackerone.com/reports/184495
-Multiple vulnerabilities in mail.ru subdomains
-https://hackerone.com/reports/109373
-XSS on www.mapbox.com/authorize/ because of open redirect at /core/oauth/auth
-https://hackerone.com/reports/143240
-stefanofinding
+# Reporter 
+thezawad
+
+# Title
+Reflected Cross Site Script in m.chevrolet.com.wpsegment5.gm.com
+# URL 
+https://hackerone.com/reports/120656
+# Reporter 
+adrianomarcmont
+
+# Title
+Reflective Xss on news.mail.ru and admin.news.mail.ru
+# URL 
+https://hackerone.com/reports/94517
+# Reporter 
+mak
+
+# Title
+XSS ReflectedGET /*embed_player*?
+# URL 
+https://hackerone.com/reports/138045
+# Reporter 
+clubjk
+
+# Title
+Cross Site Scripting
+# URL 
+https://hackerone.com/reports/151678
+# Reporter 
+kiraak-boy
+
+# Title
 [kb.informatica.com] Dom Based xss
+# URL 
 https://hackerone.com/reports/156166
-XSS @ yaman.olx.ph
+# Reporter 
 e3xpl0it
-https://hackerone.com/reports/150565
-XSS via Email
-https://hackerone.com/reports/7919
-XSS when using captions/subtitles on video player based on Flash (requires user interaction)
-https://hackerone.com/reports/88508
+
+# Title
+XSS on www.mapbox.com/authorize/ because of open redirect at /core/oauth/auth
+# URL 
+https://hackerone.com/reports/143240
+# Reporter 
 stefanofinding
+
+# Title
+XSS and open redirect in verkkopalvelu.lahitapiola.fi
+# URL 
+https://hackerone.com/reports/183796
+# Reporter 
+th3g3nt3lman
+
+# Title
+XSS when using captions/subtitles on video player based on Flash (requires user interaction)
+# URL 
+https://hackerone.com/reports/88508
+# Reporter 
+stefanofinding
+
+# Title
+XSS @ yaman.olx.ph
+# URL 
+https://hackerone.com/reports/150565
+# Reporter 
+thezawad
+
+# Title
+Cross-site scripting (XSS) vulnerability on a DoD website
+# URL 
+https://hackerone.com/reports/184495
+# Reporter 
+juliocesar
+
+# Title
+Reflected Self-XSS in Slack
+# URL 
+https://hackerone.com/reports/97683
+# Reporter 
+harry_mg
+
+# Title
+XSS via Email
+# URL 
+https://hackerone.com/reports/7919
+# Reporter 
+prakharprasad
+
+# Title
+Multiple vulnerabilities in mail.ru subdomains
+# URL 
+https://hackerone.com/reports/109373
+# Reporter 
+harry_mg
+
+# Title
 a stored xss in web widget chat
+# URL 
 https://hackerone.com/reports/193462
-Stored XSS on new Calling plugin (spreed)
-https://hackerone.com/reports/190870
-coolboss
-Self-XSS Vulnerability on Password Reset Form
-https://hackerone.com/reports/125059
-bhavi
+# Reporter 
+securitythinker
+
+# Title
+Reflected XSS
+# URL 
+https://hackerone.com/reports/203241
+# Reporter 
+no_thing
+
+# Title
 XSS 01 on staging.fct.li
+# URL 
 https://hackerone.com/reports/18805
+# Reporter 
 pum
+
+# Title
+Stored XSS on new Calling plugin (spreed)
+# URL 
+https://hackerone.com/reports/190870
+# Reporter 
+coolboss
+
+# Title
 Stored XSS in Contact Form
+# URL 
 https://hackerone.com/reports/50564
-xss on https://www.rockstargames.com/GTAOnline/jp/screens/ 
-https://hackerone.com/reports/507494
+# Reporter 
+ishahriyar
+
+# Title
+Self-XSS Vulnerability on Password Reset Form
+# URL 
+https://hackerone.com/reports/125059
+# Reporter 
+bhavi
+
+# Title
 Stored XSS through Angular Expression Sandbox Escape
+# URL 
 https://hackerone.com/reports/124724
+# Reporter 
 ryhanson
+
+# Title
 WordPress Flash XSS in *flashmediaelement.swf*
+# URL 
 https://hackerone.com/reports/134546
+# Reporter 
 cure53
+
+# Title
 XSS on Home page olx.com.ar via auto save search text
+# URL 
 https://hackerone.com/reports/151691
+# Reporter 
 c37hun
-Reflected cross-site scripting vulnerability on a DoD website
-https://hackerone.com/reports/184042
-konduru-jashwanth
+
+# Title
 owncloud.com: Cross Site Tracing
+# URL 
 https://hackerone.com/reports/83373
+# Reporter 
+psych0tr1a
+
+# Title
+xss on https://www.rockstargames.com/GTAOnline/jp/screens/ 
+# URL 
+https://hackerone.com/reports/507494
+# Reporter 
+netfuzzer
+
+# Title
 XSS platform.twitter.com | video-js metadata
+# URL 
 https://hackerone.com/reports/29360
+# Reporter 
 batram
+
+# Title
+Reflected cross-site scripting vulnerability on a DoD website
+# URL 
+https://hackerone.com/reports/184042
+# Reporter 
+konduru-jashwanth
+
+# Title
 Stored XSS in comments
+# URL 
 https://hackerone.com/reports/106779
+# Reporter 
 a0xnirudh
+
+# Title
 [airbnb.com] XSS via Cookie flash
+# URL 
 https://hackerone.com/reports/197334
-Multiple Stored XSS
-https://hackerone.com/reports/120324
-itly
+# Reporter 
+bobrov
+
+# Title
 apps.owncloud.com: Multiple reflected XSS by insecure URL generation (IE only)
+# URL 
 https://hackerone.com/reports/83381
+# Reporter 
+psych0tr1a
+
+# Title
+Multiple Stored XSS
+# URL 
+https://hackerone.com/reports/120324
+# Reporter 
+itly
+
+# Title
 XSS on partners.uber.com
+# URL 
 https://hackerone.com/reports/42393
+# Reporter 
 redshark1802
+
+# Title
 Data-Tags and the New HTML Sanitizer Subverts CSRF protection
+# URL 
 https://hackerone.com/reports/42728
+# Reporter 
 benmmurphy
+
+# Title
 player.vimeo.com - Reflected XSS Vulnerability
+# URL 
 https://hackerone.com/reports/43672
+# Reporter 
 dekeeu
-Escaping the iframe via exceptions
-https://hackerone.com/reports/103989
-benburrill
-many xss in widgets.shopifyapps.com
-https://hackerone.com/reports/105659
-xss in link items (mopub.com)
-https://hackerone.com/reports/100931
-cymtrick
+
+# Title
 XSS in Tagregator plugin
+# URL 
 https://hackerone.com/reports/35036
+# Reporter 
 dia2diab
+
+# Title
+Escaping the iframe via exceptions
+# URL 
+https://hackerone.com/reports/103989
+# Reporter 
+benburrill
+
+# Title
+xss in link items (mopub.com)
+# URL 
+https://hackerone.com/reports/100931
+# Reporter 
+cymtrick
+
+# Title
 XSS onmouseover 
+# URL 
 https://hackerone.com/reports/139981
+# Reporter 
 idomin
-Stored XSS в имени песни (2) на платёжном гейте.
-https://hackerone.com/reports/78260
-Home page reflected XSS
-https://hackerone.com/reports/9318
-bitquark
+
+# Title
+many xss in widgets.shopifyapps.com
+# URL 
+https://hackerone.com/reports/105659
+# Reporter 
+sergeym
+
+# Title
 Stored XSS at https://finance.owox.com/customer/accountList
+# URL 
 https://hackerone.com/reports/192922
+# Reporter 
 sp1d3rs
-s2.owncloud.com: Web Server HTTP Trace/Track Method Support Cross-Site Tracing Vulnerability
-https://hackerone.com/reports/83855
-Stored XSS in Slackbot Direct Messages
-https://hackerone.com/reports/4561
-XSS on ecommerce.shopify.com
-https://hackerone.com/reports/56779
-r0x33d
+
+# Title
+Stored XSS в имени песни (2) на платёжном гейте.
+# URL 
+https://hackerone.com/reports/78260
+# Reporter 
+4lemon
+
+# Title
+Home page reflected XSS
+# URL 
+https://hackerone.com/reports/9318
+# Reporter 
+bitquark
+
+# Title
 Stored xss 
+# URL 
 https://hackerone.com/reports/149154
+# Reporter 
 sysecure
+
+# Title
+Stored XSS in Slackbot Direct Messages
+# URL 
+https://hackerone.com/reports/4561
+# Reporter 
+prakharprasad
+
+# Title
 OX (Guard): Stored Cross-Site Scripting via Email Attachment
+# URL 
 https://hackerone.com/reports/165275
+# Reporter 
 dejavuln
-Reflected XSS on partners.cloudflare.com
-https://hackerone.com/reports/131397
-Cross-site Scripting in mailing (username)
-https://hackerone.com/reports/20049
-melvin
-Reflected XSS in domain www.veris.in
-https://hackerone.com/reports/137938
-aziose
+
+# Title
+XSS on ecommerce.shopify.com
+# URL 
+https://hackerone.com/reports/56779
+# Reporter 
+r0x33d
+
+# Title
 Store XSS Flicker main page
+# URL 
 https://hackerone.com/reports/940
+# Reporter 
 panchocosil
+
+# Title
+s2.owncloud.com: Web Server HTTP Trace/Track Method Support Cross-Site Tracing Vulnerability
+# URL 
+https://hackerone.com/reports/83855
+# Reporter 
+ashesh
+
+# Title
+Cross-site Scripting in mailing (username)
+# URL 
+https://hackerone.com/reports/20049
+# Reporter 
+melvin
+
+# Title
+Reflected XSS on partners.cloudflare.com
+# URL 
+https://hackerone.com/reports/131397
+# Reporter 
+albinowax
+
+# Title
+Reflected XSS in domain www.veris.in
+# URL 
+https://hackerone.com/reports/137938
+# Reporter 
+aziose
+
+# Title
 Two XSS vulns in widget parameters (all_collections.php and o2.php)
+# URL 
 https://hackerone.com/reports/115560
-apps.owncloud.com: Potential XSS
-https://hackerone.com/reports/85577
-ala_arfaoui
-https://hackerone.com/reports/184750
+# Reporter 
+pr0tagon1st
+
+# Title
 XSS at af.attachmail.ru
+# URL 
 https://hackerone.com/reports/85421
-Stored XSS in www.slack-files.com
-https://hackerone.com/reports/2617
+# Reporter 
+paresh_parmar
+
+# Title
+apps.owncloud.com: Potential XSS
+# URL 
+https://hackerone.com/reports/85577
+# Reporter 
+ala_arfaoui
+
+# Title
+Reflected XSS on a DoD website
+# URL 
+https://hackerone.com/reports/184750
+# Reporter 
+ramsexy
+
+# Title
 Stored Xss in Feature Paragraph
+# URL 
 https://hackerone.com/reports/50642
-otrs.owncloud.com: Reflected Cross-Site Scripting
-https://hackerone.com/reports/108288
-arover7
-Find, private notes Cross-site scripting.
-https://hackerone.com/reports/7917
-XSS on codex.wordpress.org
-https://hackerone.com/reports/104559
+# Reporter 
+ishahriyar
+
+# Title
 apps.owncloud.com: Stored XSS in profile page
+# URL 
 https://hackerone.com/reports/84371
+# Reporter 
+enderun07
+
+# Title
+XSS on codex.wordpress.org
+# URL 
+https://hackerone.com/reports/104559
+# Reporter 
+spam404
+
+# Title
+otrs.owncloud.com: Reflected Cross-Site Scripting
+# URL 
+https://hackerone.com/reports/108288
+# Reporter 
+arover7
+
+# Title
 Flash XSS on img.mail.ru
+# URL 
 https://hackerone.com/reports/58831
+# Reporter 
 tunnelshade
-Stored XSS на street-combats.mail.ru
-https://hackerone.com/reports/117168
-cyberpunkych
-Bulk Discount App in myshopify.com exposes http://bulkdiscounts.shopifyapps.com vulnerable to XSS
-https://hackerone.com/reports/62861
-nismo
+
+# Title
+Stored XSS in www.slack-files.com
+# URL 
+https://hackerone.com/reports/2617
+# Reporter 
+prakharprasad
+
+# Title
+Find, private notes Cross-site scripting.
+# URL 
+https://hackerone.com/reports/7917
+# Reporter 
+smiegles
+
+# Title
 Cross-site Scripting in all Zopim
+# URL 
 https://hackerone.com/reports/94230
+# Reporter 
+mdv
+
+# Title
+Bulk Discount App in myshopify.com exposes http://bulkdiscounts.shopifyapps.com vulnerable to XSS
+# URL 
+https://hackerone.com/reports/62861
+# Reporter 
+nismo
+
+# Title
 DOM XSS bypassing in Regional Office -selector
+# URL 
 https://hackerone.com/reports/142609
+# Reporter 
 rojansec
-XSS Via Method injection
+
+# Title
 Stored XSS / Bypassing .htaccess protection in http://nodebb.ubnt.com/
-https://hackerone.com/reports/161621
+# URL 
 https://hackerone.com/reports/202354
-exception
+# Reporter 
 inhibitor181
-Stored Cross Site Scripting Vulnerability in Yahoo Mail
-https://hackerone.com/reports/4277
-sehgalsec
+
+# Title
+XSS Via Method injection
+# URL 
+https://hackerone.com/reports/161621
+# Reporter 
+exception
+
+# Title
+Stored XSS на street-combats.mail.ru
+# URL 
+https://hackerone.com/reports/117168
+# Reporter 
+cyberpunkych
+
+# Title
 xss for admin of https://newsletter.nextcloud.com
+# URL 
 https://hackerone.com/reports/153799
+# Reporter 
+sergeym
+
+# Title
+Stored Cross Site Scripting Vulnerability in Yahoo Mail
+# URL 
+https://hackerone.com/reports/4277
+# Reporter 
+sehgalsec
+
+# Title
 Reflected XSS in chat.
+# URL 
 https://hackerone.com/reports/81757
+# Reporter 
 dz_samir
-Reflected Xss in AirMax [Nanostation Loco M2]
-https://hackerone.com/reports/149287
-XSS and HTML Injection https://sharjah.dubizzle.com/
-https://hackerone.com/reports/162296
-mefkan
-Xss on billing
-https://hackerone.com/reports/151034
-Stored XSS on the http://ht.pornhub.com/widgets/
-https://hackerone.com/reports/186613
-shepard
-api.video.mail.ru: XSS
-https://hackerone.com/reports/13302
+
+# Title
 DOMPurify 0.8.9 released
+# URL 
 https://hackerone.com/reports/225777
-Stored XSS
-https://hackerone.com/reports/214484
-t-pwn
-XSS via "gp" cookie reflected in source code
-https://hackerone.com/reports/929717
-setuid
-http://jetpack.me/ Self XSS
-https://hackerone.com/reports/14303
-Cross-site scripting on the main page of flickr by tagging a user.
-https://hackerone.com/reports/916
+# Reporter 
+lukasreschke
+
+# Title
+Stored XSS on the http://ht.pornhub.com/widgets/
+# URL 
+https://hackerone.com/reports/186613
+# Reporter 
+shepard
+
+# Title
+XSS and HTML Injection https://sharjah.dubizzle.com/
+# URL 
+https://hackerone.com/reports/162296
+# Reporter 
+mefkan
+
+# Title
+Reflected Xss in AirMax [Nanostation Loco M2]
+# URL 
+https://hackerone.com/reports/149287
+# Reporter 
+shubham
+
+# Title
+api.video.mail.ru: XSS
+# URL 
+https://hackerone.com/reports/13302
+# Reporter 
+isox
+
+# Title
+Xss on billing
+# URL 
+https://hackerone.com/reports/151034
+# Reporter 
+nstikhomirov
+
+# Title
 Cross-Domain JavaScript Source File Inclusion 
+# URL 
 https://hackerone.com/reports/307681
+# Reporter 
 mrunal
-Flash XSS  on swfupload.swf showing at app.mavenlink.com
-https://hackerone.com/reports/21150
+
+# Title
+Cross-site scripting on the main page of flickr by tagging a user.
+# URL 
+https://hackerone.com/reports/916
+# Reporter 
+smiegles
+
+# Title
 Cross-site scripting vulnerability on a DoD website
+# URL 
 https://hackerone.com/reports/184575
-/index.php/dashboard/sitemap/explore/ Cross-site scripting
-https://hackerone.com/reports/4808
-Reflected XSS in olx.pt
-https://hackerone.com/reports/206125
-ph0b0s
-XSS vulnerability on an Army website
-https://hackerone.com/reports/187881
-Reflected Cross-Site Scripting due to vulnerable Flash component (Flashmediaelement.swf)
-https://hackerone.com/reports/180253
-XSS with needed user intervention
-https://hackerone.com/reports/204969
+# Reporter 
+r0p3
+
+# Title
+Stored XSS
+# URL 
+https://hackerone.com/reports/214484
+# Reporter 
+t-pwn
+
+# Title
+XSS via "gp" cookie reflected in source code
+# URL 
+https://hackerone.com/reports/929717
+# Reporter 
+setuid
+
+# Title
+Flash XSS  on swfupload.swf showing at app.mavenlink.com
+# URL 
+https://hackerone.com/reports/21150
+# Reporter 
+panchocosil
+
+# Title
 Stored XSS in topics because of whitelisted_generic engine vulnerability
+# URL 
 https://hackerone.com/reports/197902
-Persistent Cross Site Scripting within the IRCCloud Pastebin 
-https://hackerone.com/reports/7121
+# Reporter 
+skavans
+
+# Title
+http://jetpack.me/ Self XSS
+# URL 
+https://hackerone.com/reports/14303
+# Reporter 
+smiegles
+
+# Title
+/index.php/dashboard/sitemap/explore/ Cross-site scripting
+# URL 
+https://hackerone.com/reports/4808
+# Reporter 
+smiegles
+
+# Title
+Reflected XSS in olx.pt
+# URL 
+https://hackerone.com/reports/206125
+# Reporter 
+ph0b0s
+
+# Title
 Pretty Photo Dom XSS 
+# URL 
 https://hackerone.com/reports/62385
+# Reporter 
 ana
-Dom Based Xss
-https://hackerone.com/reports/125498
+
+# Title
+XSS vulnerability on an Army website
+# URL 
+https://hackerone.com/reports/187881
+# Reporter 
+spam404
+
+# Title
+Reflected Cross-Site Scripting due to vulnerable Flash component (Flashmediaelement.swf)
+# URL 
+https://hackerone.com/reports/180253
+# Reporter 
+lukasreschke
+
+# Title
+Persistent Cross Site Scripting within the IRCCloud Pastebin 
+# URL 
+https://hackerone.com/reports/7121
+# Reporter 
+mantis
+
+# Title
 Stored XSS in Channel Chat 
+# URL 
 https://hackerone.com/reports/2652
-Reflected cross site scripting at https://auto.mail.ru/reviews/add_review/ via problems_text parameter.
-https://hackerone.com/reports/536341
-mayurudiniya
+# Reporter 
+prakharprasad
+
+# Title
+XSS with needed user intervention
+# URL 
+https://hackerone.com/reports/204969
+# Reporter 
+irotem2
+
+# Title
+Dom Based Xss
+# URL 
+https://hackerone.com/reports/125498
+# Reporter 
+e3xpl0it
+
+# Title
 Blind SQLi vulnerability in a DoD Website
+# URL 
 https://hackerone.com/reports/213239
-Stored XSS in SupportFlow Ticket Subject
-https://hackerone.com/reports/145086
-whitehatter
+# Reporter 
+sp1d3rs
+
+# Title
 files.mail.ru: XSS
+# URL 
 https://hackerone.com/reports/13313
+# Reporter 
+isox
+
+# Title
+Stored XSS in SupportFlow Ticket Subject
+# URL 
+https://hackerone.com/reports/145086
+# Reporter 
+whitehatter
+
+# Title
+Reflected cross site scripting at https://auto.mail.ru/reviews/add_review/ via problems_text parameter.
+# URL 
+https://hackerone.com/reports/536341
+# Reporter 
+mayurudiniya
+
+# Title
 Flash XSS - http://hi-tech.mail.ru/
+# URL 
 https://hackerone.com/reports/14485
+# Reporter 
+quistertow
+
+# Title
 XSS in my yahoo
+# URL 
 https://hackerone.com/reports/1203
+# Reporter 
 mildata
+
+# Title
 Reflected cross-site scripting (XSS) on api.tiles.mapbox.com
+# URL 
 https://hackerone.com/reports/135217
+# Reporter 
 dawgyg
-xss in DM group name in twitter
-https://hackerone.com/reports/129436
-ashish_r_padelkar
+
+# Title
 Subdomain Takeover using blog.greenhouse.io pointing to Hubspot
+# URL 
 https://hackerone.com/reports/38007
-TESTING FOR REFLECTED CROSS SITE SCRIPTING (OWASP‐DV‐001)
-https://hackerone.com/reports/12011
-cmaruti
-Vimeo.com - reflected xss vulnerability
-https://hackerone.com/reports/42584
-Self-XSS via location cookie city field when getting suggestions for a new location
-https://hackerone.com/reports/166709
+# Reporter 
+fransrosen
+
+# Title
 XSS Reflected incategories*p
+# URL 
 https://hackerone.com/reports/138046
+# Reporter 
+clubjk
+
+# Title
+xss in DM group name in twitter
+# URL 
+https://hackerone.com/reports/129436
+# Reporter 
+ashish_r_padelkar
+
+# Title
+TESTING FOR REFLECTED CROSS SITE SCRIPTING (OWASP‐DV‐001)
+# URL 
+https://hackerone.com/reports/12011
+# Reporter 
+cmaruti
+
+# Title
+Self-XSS via location cookie city field when getting suggestions for a new location
+# URL 
+https://hackerone.com/reports/166709
+# Reporter 
+haquaman
+
+# Title
 HTML/Javascript possible in "Discussion" section of reviews
+# URL 
 https://hackerone.com/reports/7897
+# Reporter 
 jackds
-Stored XSS on team.slack.com using new Markdown editor of posts inside the Editing mode and using javascript-URIs
-https://hackerone.com/reports/132104
+
+# Title
+Vimeo.com - reflected xss vulnerability
+# URL 
+https://hackerone.com/reports/42584
+# Reporter 
+dekeeu
+
+# Title
 XSS с помощью специально сформированного файла.
+# URL 
 https://hackerone.com/reports/134878
+# Reporter 
 0x01alka
-DOM Based XSS in Checkout
-https://hackerone.com/reports/105688
-techintheprovince
+
+# Title
 XSS in Yahoo! Web Analytics
+# URL 
 https://hackerone.com/reports/5442
+# Reporter 
 techintheprovince
+
+# Title
+DOM Based XSS in Checkout
+# URL 
+https://hackerone.com/reports/105688
+# Reporter 
+techintheprovince
+
+# Title
 XSS in invite approval
+# URL 
 https://hackerone.com/reports/7887
+# Reporter 
+nahamsec
+
+# Title
+Stored XSS on team.slack.com using new Markdown editor of posts inside the Editing mode and using javascript-URIs
+# URL 
+https://hackerone.com/reports/132104
+# Reporter 
+fransrosen
+
+# Title
 javascript: and mailto: links are allowed on users' profiles
+# URL 
 https://hackerone.com/reports/4184
+# Reporter 
 tectonic
- Cross-site scripting (reflected)
-https://hackerone.com/reports/176754
-linkks
+
+# Title
 XSS in main page (invitation)
+# URL 
 https://hackerone.com/reports/7886
-XSS on postal codes
-https://hackerone.com/reports/192140
-pappan
+# Reporter 
+nahamsec
+
+# Title
+ Cross-site scripting (reflected)
+# URL 
+https://hackerone.com/reports/176754
+# Reporter 
+linkks
+
+# Title
 Self-XSS to Good-XSS - pornhub.com
+# URL 
 https://hackerone.com/reports/761904
+# Reporter 
 renekroka
-Reflected XSS connect.mail.ru (IE6-IE8)
-https://hackerone.com/reports/12929
+
+# Title
+XSS on postal codes
+# URL 
+https://hackerone.com/reports/192140
+# Reporter 
+pappan
+
+# Title
 Stored Cross Site Scripting in Customer Name
+# URL 
 https://hackerone.com/reports/211643
+# Reporter 
+yaworsk
+
+# Title
+Reflected XSS connect.mail.ru (IE6-IE8)
+# URL 
+https://hackerone.com/reports/12929
+# Reporter 
+4lemon
+
+# Title
 [IMP] - Blind XSS in the admin panel for reviewing comments
+# URL 
 https://hackerone.com/reports/197337
+# Reporter 
 anshuman_bh
+
+# Title
 Reflected XSS на https://aw.mail.ru/news/
+# URL 
 https://hackerone.com/reports/90083
-a stored xss issue in https://files.slack.com
-https://hackerone.com/reports/149011
-XSS in myshopify.com Admin site in TAX Overrides
-https://hackerone.com/reports/62427
-XSS on www.██████ alerts and a number of other pages
-https://hackerone.com/reports/450315
-d0nut
+# Reporter 
+0x01alka
+
+# Title
 XSS on mobile version of vimeo.com where the button "Follow" appears
+# URL 
 https://hackerone.com/reports/88088
+# Reporter 
+stefanofinding
+
+# Title
+XSS in myshopify.com Admin site in TAX Overrides
+# URL 
+https://hackerone.com/reports/62427
+# Reporter 
+nismo
+
+# Title
+a stored xss issue in https://files.slack.com
+# URL 
+https://hackerone.com/reports/149011
+# Reporter 
+securitythinker
+
+# Title
 Follow Button XSS
+# URL 
 https://hackerone.com/reports/172574
-Stored XSS on player.vimeo.com
-https://hackerone.com/reports/85488
-Reflected XSS on blockchain.info
-https://hackerone.com/reports/179426
-Several XSS affecting Zomato.com and developers.zomato.com
-https://hackerone.com/reports/114631
-Persistent XSS: Editor link
-https://hackerone.com/reports/4114
-tomvg
+# Reporter 
+bobrov
+
+# Title
+XSS on www.██████ alerts and a number of other pages
+# URL 
+https://hackerone.com/reports/450315
+# Reporter 
+d0nut
+
+# Title
 HTML injection via 'underlying' parameter
+# URL 
 https://hackerone.com/reports/109832
+# Reporter 
 roshanpty
-[careers.informatica.com] Cross Site Script Vulnerability on informatica
-https://hackerone.com/reports/42537
-gorkha
-XSS at www.woothemes.com
-https://hackerone.com/reports/111365
-valievkarim
-XSS and Open Redirect on https://jobs.dubizzle.com/
-https://hackerone.com/reports/167107
-HTML injection in Desktop Client
-https://hackerone.com/reports/206877
-XSS on remote.bittorrent.com
-https://hackerone.com/reports/846397
-DOM XSS on teavana.com via "pr_zip_location" parameter
-https://hackerone.com/reports/209736
-fizhimchik
+
+# Title
 Persistent XSS on public project page
+# URL 
 https://hackerone.com/reports/129736
+# Reporter 
 jobert
-File Upload XSS in image uploading of App in mopub
-https://hackerone.com/reports/97672
-indoappsec
-Subdomain takeover on podcasts.slack-core.com
-https://hackerone.com/reports/195350
-michiel
-Manipulating joinolx.com Job Vacancy alert subscription emails (HTML Injection / Script Injection)
-https://hackerone.com/reports/151149
-HTML injection-WordCamp Talks plugin
-https://hackerone.com/reports/199996
+
+# Title
+Stored XSS on player.vimeo.com
+# URL 
+https://hackerone.com/reports/85488
+# Reporter 
+stefanofinding
+
+# Title
+Reflected XSS on blockchain.info
+# URL 
+https://hackerone.com/reports/179426
+# Reporter 
+kasperkarlsson
+
+# Title
+Persistent XSS: Editor link
+# URL 
+https://hackerone.com/reports/4114
+# Reporter 
+tomvg
+
+# Title
+Several XSS affecting Zomato.com and developers.zomato.com
+# URL 
+https://hackerone.com/reports/114631
+# Reporter 
+harry_mg
+
+# Title
+XSS and Open Redirect on https://jobs.dubizzle.com/
+# URL 
+https://hackerone.com/reports/167107
+# Reporter 
+mefkan
+
+# Title
+XSS at www.woothemes.com
+# URL 
+https://hackerone.com/reports/111365
+# Reporter 
+valievkarim
+
+# Title
+HTML injection in Desktop Client
+# URL 
+https://hackerone.com/reports/206877
+# Reporter 
+lukasreschke
+
+# Title
+[careers.informatica.com] Cross Site Script Vulnerability on informatica
+# URL 
+https://hackerone.com/reports/42537
+# Reporter 
+gorkha
+
+# Title
 Stored Cross Site Scripting [SELF] in partners.uber.com
+# URL 
 https://hackerone.com/reports/125503
+# Reporter 
 patrik
-Reflected XSS via Livefyre Media Wall in newsroom.uber.com
-https://hackerone.com/reports/134061
-Stored XSS in Slack (weird, trial and error)
-https://hackerone.com/reports/96337
+
+# Title
+XSS on remote.bittorrent.com
+# URL 
+https://hackerone.com/reports/846397
+# Reporter 
+aslanemre
+
+# Title
+HTML injection-WordCamp Talks plugin
+# URL 
+https://hackerone.com/reports/199996
+# Reporter 
+paresh_parmar
+
+# Title
+DOM XSS on teavana.com via "pr_zip_location" parameter
+# URL 
+https://hackerone.com/reports/209736
+# Reporter 
+fizhimchik
+
+# Title
+Manipulating joinolx.com Job Vacancy alert subscription emails (HTML Injection / Script Injection)
+# URL 
+https://hackerone.com/reports/151149
+# Reporter 
+thezawad
+
+# Title
+File Upload XSS in image uploading of App in mopub
+# URL 
+https://hackerone.com/reports/97672
+# Reporter 
+indoappsec
+
+# Title
 Stored XSS Found
+# URL 
 https://hackerone.com/reports/9774
+# Reporter 
 karshxz7593
+
+# Title
+Subdomain takeover on podcasts.slack-core.com
+# URL 
+https://hackerone.com/reports/195350
+# Reporter 
+michiel
+
+# Title
 XSS In https://docs.gocd.org/current/
+# URL 
 https://hackerone.com/reports/1033832
+# Reporter 
 asusrog
+
+# Title
+Reflected XSS via Livefyre Media Wall in newsroom.uber.com
+# URL 
+https://hackerone.com/reports/134061
+# Reporter 
+mdv
+
+# Title
 XSS in Myshopify Admin Site in DISCOUNTS
+# URL 
 https://hackerone.com/reports/71614
-Stored XSS in slack.com (integrations)
-https://hackerone.com/reports/10297
+# Reporter 
+nismo
+
+# Title
+Stored XSS in Slack (weird, trial and error)
+# URL 
+https://hackerone.com/reports/96337
+# Reporter 
+harry_mg
+
+# Title
 [harp] Unsafe rendering of Markdown files
+# URL 
 https://hackerone.com/reports/453795
+# Reporter 
 skyn3t
+
+# Title
+Stored XSS in slack.com (integrations)
+# URL 
+https://hackerone.com/reports/10297
+# Reporter 
+heizes
+
+# Title
 [wallet.rapida.ru] XSS Cookie flashcookie
+# URL 
 https://hackerone.com/reports/164662
-DOMPurify bypass
-https://hackerone.com/reports/1024734
-vovohelo
-"Bad Protocols Validation" Bypass in "wp_kses_bad_protocol_once" using HTML-encoding without trailing semicolons
-https://hackerone.com/reports/339483
-irsdl
-Reflected XSS on Zones > Invocation Code
-https://hackerone.com/reports/178611
+# Reporter 
+bobrov
+
+# Title
 Android WebViews in Twitter app are vulnerable to UXSS due to configuration and CVE-2020-6506
+# URL 
 https://hackerone.com/reports/906433
+# Reporter 
 alesandroortiz
+
+# Title
+"Bad Protocols Validation" Bypass in "wp_kses_bad_protocol_once" using HTML-encoding without trailing semicolons
+# URL 
+https://hackerone.com/reports/339483
+# Reporter 
+irsdl
+
+# Title
+DOMPurify bypass
+# URL 
+https://hackerone.com/reports/1024734
+# Reporter 
+vovohelo
+
+# Title
+Reflected XSS on Zones > Invocation Code
+# URL 
+https://hackerone.com/reports/178611
+# Reporter 
+pavanw3b
+
+# Title
 Self XSS in Timeline 
+# URL 
 https://hackerone.com/reports/854299
+# Reporter 
 ryat
+
+# Title
 Reflected XSS vulnerability on a DoD website
+# URL 
 https://hackerone.com/reports/184125
-XSS on Every sports.yahoo.com page
-https://hackerone.com/reports/2168
-kenb
-Stored XSS on this link https://sehacure.slack.com/help/requests/
-https://hackerone.com/reports/2639
-anandprakash_
-XSS on zomato.com
-https://hackerone.com/reports/143294
+# Reporter 
+r0p3
+
+# Title
 Self-XSS in Partners Profile
+# URL 
 https://hackerone.com/reports/145289
+# Reporter 
 s0nk3y
+
+# Title
 http://cdnjs.cloudflare.com/ Cross-site scripting 2
+# URL 
 https://hackerone.com/reports/8817
-xss yaman.olx.ph
-https://hackerone.com/reports/151310
-hacklikeapro
-Self-XSS on partners.uber.com
-https://hackerone.com/reports/138622
-cyber__sec
+# Reporter 
+smiegles
+
+# Title
+XSS on Every sports.yahoo.com page
+# URL 
+https://hackerone.com/reports/2168
+# Reporter 
+kenb
+
+# Title
+Stored XSS on this link https://sehacure.slack.com/help/requests/
+# URL 
+https://hackerone.com/reports/2639
+# Reporter 
+anandprakash_
+
+# Title
+XSS on zomato.com
+# URL 
+https://hackerone.com/reports/143294
+# Reporter 
+spam404
+
+# Title
 xss in Theme http://bztfashion.booztx.com
+# URL 
 https://hackerone.com/reports/166694
+# Reporter 
 m7mdharoun
-[api.login.icq.net] Reflected XSS
-https://hackerone.com/reports/113336
+
+# Title
+Self-XSS on partners.uber.com
+# URL 
+https://hackerone.com/reports/138622
+# Reporter 
+cyber__sec
+
+# Title
+xss yaman.olx.ph
+# URL 
+https://hackerone.com/reports/151310
+# Reporter 
+hacklikeapro
+
+# Title
 XSS and CSRF in Zomato Contact form
+# URL 
 https://hackerone.com/reports/115248
+# Reporter 
 saiinfosec
+
+# Title
+[api.login.icq.net] Reflected XSS
+# URL 
+https://hackerone.com/reports/113336
+# Reporter 
+bigbear_
+
+# Title
 Critical : Malware and XSS file can be uploaded and executed on udemy
+# URL 
 https://hackerone.com/reports/172694
+# Reporter 
 csanuragjain
-Reflected XSS on ███████ page
-https://hackerone.com/reports/915573
-scraps
+
+# Title
 XSS in https://hk.user.auctions.yahoo.com
+# URL 
 https://hackerone.com/reports/7266
-Stored XSS in community.ubnt.com
-https://hackerone.com/reports/179164
-Reflected Self-XSS Vulnerability in the Comment section of Files Information
-https://hackerone.com/reports/164027
-naveenv
+# Reporter 
+quistertow
+
+# Title
 Xss in m.ok.ru
+# URL 
 https://hackerone.com/reports/137126
+# Reporter 
 hamooda_anonphantom
+
+# Title
+Reflected Self-XSS Vulnerability in the Comment section of Files Information
+# URL 
+https://hackerone.com/reports/164027
+# Reporter 
+naveenv
+
+# Title
+Reflected XSS on ███████ page
+# URL 
+https://hackerone.com/reports/915573
+# Reporter 
+scraps
+
+# Title
 XSS on username when register to proffesional account
+# URL 
 https://hackerone.com/reports/196989
+# Reporter 
+bogdantcaciuc
+
+# Title
+Stored XSS in community.ubnt.com
+# URL 
+https://hackerone.com/reports/179164
+# Reporter 
+saiinfosec
+
+# Title
 Dom Based Xss DIV.innerHTML  parameters store.starbucks*
+# URL 
 https://hackerone.com/reports/188185
+# Reporter 
+e3xpl0it
+
+# Title
 DOM Based XSS on an Army website
+# URL 
 https://hackerone.com/reports/191407
-Cross Site Scripting (Stored) 
-https://hackerone.com/reports/20221
-charan-eis
+# Reporter 
+juliocesar
+
+# Title
 www.lahitapiola.fi DOM XSS by choosing regional company
+# URL 
 https://hackerone.com/reports/127077
-XSS in Asset name
-https://hackerone.com/reports/133744
-Unauthenticated Cross-Site Scripting in Web Management Console
-https://hackerone.com/reports/121941
-jstjohn
+# Reporter 
+reactors08
+
+# Title
 Multiple XSS in Camptix Event Ticketing Plugin
+# URL 
 https://hackerone.com/reports/152958
+# Reporter 
+thezawad
+
+# Title
+XSS in Asset name
+# URL 
+https://hackerone.com/reports/133744
+# Reporter 
+ashish_r_padelkar
+
+# Title
+Unauthenticated Cross-Site Scripting in Web Management Console
+# URL 
+https://hackerone.com/reports/121941
+# Reporter 
+jstjohn
+
+# Title
+Cross Site Scripting (Stored) 
+# URL 
+https://hackerone.com/reports/20221
+# Reporter 
+charan-eis
+
+# Title
 Stored XSS in concrete5 5.7.0.4.
+# URL 
 https://hackerone.com/reports/30019
+# Reporter 
 yujitounai
+
+# Title
 HTML Escaping Error in the 404 Page on developer.uber.com/docs/
+# URL 
 https://hackerone.com/reports/125130
+# Reporter 
+ddworken
+
+# Title
 Reflected cross-site scripting (XSS) vulnerability on a DoD website
+# URL 
 https://hackerone.com/reports/191381
-Stored XSS on [your_zendesk].zendesk.com in Facebook Channel
-https://hackerone.com/reports/129862
-eboda
+# Reporter 
+ahsan
+
+# Title
 XSS via password recovering
+# URL 
 https://hackerone.com/reports/131123
+# Reporter 
 codequick
-Flash-based XSS in cdnjs.cloudflare.com subdomain
-https://hackerone.com/reports/9017
-Stored xss in agent.qiwi.com
-https://hackerone.com/reports/38012
-[github.algolia.com] DOM Based XSS github-btn.html
-https://hackerone.com/reports/200826
-ads.twitter.com xss
-https://hackerone.com/reports/27511
-arbitrarycode
-POST-based XSS on apps.shopify.com
-https://hackerone.com/reports/429679
-chaosbolt
-[XSS/3dsecure.qiwi.com] 3DSecure XSS
-https://hackerone.com/reports/198249
-PornIQ Reflected Cross-Site Scripting
-https://hackerone.com/reports/105486
-zephrfish
-Persistent XSS at verkkopalvelu.tapiola.fi using spoofed React element and React v.0.13.3
-https://hackerone.com/reports/139004
+
+# Title
+Stored XSS on [your_zendesk].zendesk.com in Facebook Channel
+# URL 
+https://hackerone.com/reports/129862
+# Reporter 
+eboda
+
+# Title
 Xss in CampTix Event Ticketing
+# URL 
 https://hackerone.com/reports/9391
+# Reporter 
 old_reporter
- Stored XSS(Cross Site Scripting) In Slack App Name
-https://hackerone.com/reports/159460
-imnarendrabhati
+
+# Title
+Flash-based XSS in cdnjs.cloudflare.com subdomain
+# URL 
+https://hackerone.com/reports/9017
+# Reporter 
+prakharprasad
+
+# Title
+Stored xss in agent.qiwi.com
+# URL 
+https://hackerone.com/reports/38012
+# Reporter 
+4lemon
+
+# Title
+PornIQ Reflected Cross-Site Scripting
+# URL 
+https://hackerone.com/reports/105486
+# Reporter 
+zephrfish
+
+# Title
+POST-based XSS on apps.shopify.com
+# URL 
+https://hackerone.com/reports/429679
+# Reporter 
+chaosbolt
+
+# Title
+ads.twitter.com xss
+# URL 
+https://hackerone.com/reports/27511
+# Reporter 
+arbitrarycode
+
+# Title
+[github.algolia.com] DOM Based XSS github-btn.html
+# URL 
+https://hackerone.com/reports/200826
+# Reporter 
+bobrov
+
+# Title
 Reflected XSS via #tags= while using a callback in newswire  http://www.rockstargames.com/newswire
+# URL 
 https://hackerone.com/reports/153618
+# Reporter 
+nahamsec
+
+# Title
 Stored xss in user name (2) affected another user.
+# URL 
 https://hackerone.com/reports/47349
+# Reporter 
+4lemon
+
+# Title
+Persistent XSS at verkkopalvelu.tapiola.fi using spoofed React element and React v.0.13.3
+# URL 
+https://hackerone.com/reports/139004
+# Reporter 
+fransrosen
+
+# Title
+[XSS/3dsecure.qiwi.com] 3DSecure XSS
+# URL 
+https://hackerone.com/reports/198249
+# Reporter 
+nstikhomirov
+
+# Title
 Subdomain Takeover (moderator.ubnt.com)
+# URL 
 https://hackerone.com/reports/181665
+# Reporter 
 madrobot
+
+# Title
 Multiple issues in looking-glass software (aka from web to BGP injections)
+# URL 
 https://hackerone.com/reports/16330
+# Reporter 
 kaeso
-Reflected XSS at m.olx.ph
-https://hackerone.com/reports/175410
-https://hackerone.com/reports/112025
+
+# Title
+ Stored XSS(Cross Site Scripting) In Slack App Name
+# URL 
+https://hackerone.com/reports/159460
+# Reporter 
+imnarendrabhati
+
+# Title
 XSS vulnerability in "/coach/roster/" ( create your first class) 
-[hs.mail.ru] CRLF Injection / XSS
-manish121
+# URL 
 https://hackerone.com/reports/111763
-Cross site scripting (content-sniffing)
+# Reporter 
 hacker00000000
+
+# Title
+Stored XSS
+# URL 
+https://hackerone.com/reports/112025
+# Reporter 
+manish121
+
+# Title
+[hs.mail.ru] CRLF Injection / XSS
+# URL 
 https://hackerone.com/reports/178279
+# Reporter 
+bobrov
+
+# Title
+Cross site scripting (content-sniffing)
+# URL 
 https://hackerone.com/reports/438953
+# Reporter 
 sarmadkhan
-Open redirect and reflected xss in http://youthvoices.adobe.com/community?return_url=[payload her]
-https://hackerone.com/reports/50379
-nijagaw
+
+# Title
+Reflected XSS at m.olx.ph
+# URL 
+https://hackerone.com/reports/175410
+# Reporter 
+ak1t4
+
+# Title
 Reflected cross-site scripting (XSS) vulnerability in pornhub.com allows attackers to inject arbitrary web script or HTML.
+# URL 
 https://hackerone.com/reports/182132
+# Reporter 
 edoverflow
+
+# Title
+Open redirect and reflected xss in http://youthvoices.adobe.com/community?return_url=[payload her]
+# URL 
+https://hackerone.com/reports/50379
+# Reporter 
+nijagaw
+
+# Title
 XSS in "About Video" 
+# URL 
 https://hackerone.com/reports/14080
-Multiple Stored Cross Site Scripting Vulnerabilities in Concrete5 version 5.7.3.1
-https://hackerone.com/reports/59662
-egix
+# Reporter 
+reactors08
+
+# Title
 XSS on a DoD website
+# URL 
 https://hackerone.com/reports/184759
+# Reporter 
+ramsexy
+
+# Title
 "a stored xss issue in share post menu"
+# URL 
 https://hackerone.com/reports/148848
-https://hackerone.com/reports/190427
-stored xss in comments : driver exam 
-https://hackerone.com/reports/274443
+# Reporter 
+securitythinker
+
+# Title
+Multiple Stored Cross Site Scripting Vulnerabilities in Concrete5 version 5.7.3.1
+# URL 
+https://hackerone.com/reports/59662
+# Reporter 
+egix
+
+# Title
 Stored XSS thru SVG upload
+# URL 
 https://hackerone.com/reports/130591
-XSS при загрузке изображения на [games.mail.ru]
-https://hackerone.com/reports/614441
-xaleraf4ra
+# Reporter 
+4lemon
+
+# Title
+stored xss in comments : driver exam 
+# URL 
+https://hackerone.com/reports/274443
+# Reporter 
+paresh_parmar
+
+# Title
+Reflected XSS on a DoD website
+# URL 
+https://hackerone.com/reports/190427
+# Reporter 
+juliocesar
+
+# Title
 [share.polymail.io] XSS when uploading a file to the server
+# URL 
 https://hackerone.com/reports/720251
+# Reporter 
+xaleraf4ra
+
+# Title
+XSS при загрузке изображения на [games.mail.ru]
+# URL 
+https://hackerone.com/reports/614441
+# Reporter 
+xaleraf4ra
+
+# Title
 Reflected XSS on teavana.com (Locale-Change)
+# URL 
 https://hackerone.com/reports/190798
-Stored Cross site scripting In developer.zendesk.com
-https://hackerone.com/reports/75727
-Persistent class XSS [the fuck]
-https://hackerone.com/reports/6412
-[www.zomato.com] Blind XSS in one of the admin dashboard
-https://hackerone.com/reports/461272
-khoiasd
+# Reporter 
+inhibitor181
+
+# Title
 XSS in topics because of bandcamp preview engine vulnerability
+# URL 
 https://hackerone.com/reports/197443
+# Reporter 
+skavans
+
+# Title
+Stored Cross site scripting In developer.zendesk.com
+# URL 
+https://hackerone.com/reports/75727
+# Reporter 
+d1pakda5
+
+# Title
 XSS in Stopthehacker support
+# URL 
 https://hackerone.com/reports/8862
-Reflected XSS and/or malicious redirection via JWPlayer 6 configuration modification
-https://hackerone.com/reports/95640
-decay
+# Reporter 
+techintheprovince
+
+# Title
+[www.zomato.com] Blind XSS in one of the admin dashboard
+# URL 
+https://hackerone.com/reports/461272
+# Reporter 
+khoiasd
+
+# Title
 Unauthenticated Stored XSS on <any>.myshopify.com via checkout page
+# URL 
 https://hackerone.com/reports/189378
+# Reporter 
+zombiehelp54
+
+# Title
+Reflected XSS and/or malicious redirection via JWPlayer 6 configuration modification
+# URL 
+https://hackerone.com/reports/95640
+# Reporter 
+decay
+
+# Title
 XSS on Meta Tag at https://m.olx.ph
+# URL 
 https://hackerone.com/reports/157813
+# Reporter 
 yappare
+
+# Title
+Persistent class XSS [the fuck]
+# URL 
+https://hackerone.com/reports/6412
+# Reporter 
+smiegles
+
+# Title
 XSS Reflected - https://www.stopthehacker.com/
+# URL 
 https://hackerone.com/reports/9148
-owncloud.com: DOM Based XSS
-https://hackerone.com/reports/83178
-hammadshamsi
+# Reporter 
+dekeeu
+
+# Title
 VERY DANGEROUS XSS STORED inside emails 
+# URL 
 https://hackerone.com/reports/116570
+# Reporter 
 seifelsallamy
+
+# Title
+owncloud.com: DOM Based XSS
+# URL 
+https://hackerone.com/reports/83178
+# Reporter 
+hammadshamsi
+
+# Title
 \OCA\DAV\CardDAV\ImageExportPlugin allows serving arbitrary data with user-defined or empty mimetype
+# URL 
 https://hackerone.com/reports/163338
-Stored XSS in username.slack.com
-https://hackerone.com/reports/2625
-[webpack-bundle-analyzer] Cross-site Scripting
-https://hackerone.com/reports/463380
-ermilov
-DOM based reflected XSS in rockstargames.com/newswire/tags through cross domain ajax request
-https://hackerone.com/reports/172843
-XSS with Time-of-Day Format
-https://hackerone.com/reports/52822
-candux
+# Reporter 
+lukasreschke
+
+# Title
 Cross site scripting in apps.owncloud.com
+# URL 
 https://hackerone.com/reports/129551
+# Reporter 
 kalihat007
-XSS in my.shopify.com in  widget
-https://hackerone.com/reports/185826
-xssa
+
+# Title
+[webpack-bundle-analyzer] Cross-site Scripting
+# URL 
+https://hackerone.com/reports/463380
+# Reporter 
+ermilov
+
+# Title
+DOM based reflected XSS in rockstargames.com/newswire/tags through cross domain ajax request
+# URL 
+https://hackerone.com/reports/172843
+# Reporter 
+zombiehelp54
+
+# Title
+Stored XSS in username.slack.com
+# URL 
+https://hackerone.com/reports/2625
+# Reporter 
+prakharprasad
+
+# Title
+XSS with Time-of-Day Format
+# URL 
+https://hackerone.com/reports/52822
+# Reporter 
+candux
+
+# Title
 XSS in SHOPIFY: Unsanitized Supplier Name  can lead to XSS in Transfers Timeline
+# URL 
 https://hackerone.com/reports/167075
-Reflected XSS on www.bookfresh.com/index.html?view=upload_form
-https://hackerone.com/reports/31187
-[rubm.qiwi.com] Yui charts.swf XSS
-https://hackerone.com/reports/104488
+# Reporter 
+nismo
+
+# Title
 XSS in https://e.mail.ru/cgi-bin/lstatic (Limited use)
+# URL 
 https://hackerone.com/reports/11410
-Cross site scripting in a subdomain of newrelic.com
-https://hackerone.com/reports/181528
-asaxena2190
-[ibank.qiwi.ru] XSS via Request-URI
-https://hackerone.com/reports/164152
-Reflected XSS in www.lahitapiola.fi (/cs/Satellite) using Oracle WebCenter -page
-https://hackerone.com/reports/164578
-rpinuaga
+# Reporter 
+4lemon
+
+# Title
+XSS in my.shopify.com in  widget
+# URL 
+https://hackerone.com/reports/185826
+# Reporter 
+xssa
+
+# Title
+[rubm.qiwi.com] Yui charts.swf XSS
+# URL 
+https://hackerone.com/reports/104488
+# Reporter 
+kxyry
+
+# Title
 Arbitrary Script Injection (Mail) in a DoD Website
+# URL 
 https://hackerone.com/reports/187232
-XSS Reflected in test.qiwi.ru
-https://hackerone.com/reports/98281
-hassham
+# Reporter 
+ahsan
+
+# Title
+Reflected XSS on www.bookfresh.com/index.html?view=upload_form
+# URL 
+https://hackerone.com/reports/31187
+# Reporter 
+stefanofinding
+
+# Title
 WordPress <= 4.6.1 Stored XSS Via Theme File
+# URL 
 https://hackerone.com/reports/197878
-Reflected XSS on developer.uber.com via Angular template injection
-https://hackerone.com/reports/125027
-Persistent XSS via e-mail when creating merge requests
-https://hackerone.com/reports/496973
-mario-areias
+# Reporter 
+madrobot
+
+# Title
+Cross site scripting in a subdomain of newrelic.com
+# URL 
+https://hackerone.com/reports/181528
+# Reporter 
+asaxena2190
+
+# Title
+Reflected XSS in www.lahitapiola.fi (/cs/Satellite) using Oracle WebCenter -page
+# URL 
+https://hackerone.com/reports/164578
+# Reporter 
+rpinuaga
+
+# Title
+[ibank.qiwi.ru] XSS via Request-URI
+# URL 
+https://hackerone.com/reports/164152
+# Reporter 
+bobrov
+
+# Title
+XSS Reflected in test.qiwi.ru
+# URL 
+https://hackerone.com/reports/98281
+# Reporter 
+hassham
+
+# Title
 XSS on vimeo.com | "Search within these results" feature (requires user interaction)
+# URL 
 https://hackerone.com/reports/88105
-Multiple XSS Vulnerabilities in Concrete5 5.7.3.1
-https://hackerone.com/reports/62294
-netsparker
-https://hackerone.com/reports/183844
-XSS vulnerability using GIF tags
-https://hackerone.com/reports/191674
-alberto__segura
+# Reporter 
+stefanofinding
+
+# Title
 XSS vulnerability on Audio and Video parsers
+# URL 
 https://hackerone.com/reports/192223
+# Reporter 
+alberto__segura
+
+# Title
+Reflected XSS on developer.uber.com via Angular template injection
+# URL 
+https://hackerone.com/reports/125027
+# Reporter 
+albinowax
+
+# Title
+Persistent XSS via e-mail when creating merge requests
+# URL 
+https://hackerone.com/reports/496973
+# Reporter 
+mario-areias
+
+# Title
+Reflected XSS on a DoD website
+# URL 
+https://hackerone.com/reports/183844
+# Reporter 
+juliocesar
+
+# Title
+Multiple XSS Vulnerabilities in Concrete5 5.7.3.1
+# URL 
+https://hackerone.com/reports/62294
+# Reporter 
+netsparker
+
+# Title
+XSS vulnerability using GIF tags
+# URL 
+https://hackerone.com/reports/191674
+# Reporter 
+alberto__segura
+
+# Title
 [statics-server] XSS via injected iframe in file name when statics-server displays directory index in the browser
+# URL 
 https://hackerone.com/reports/355458
+# Reporter 
 bl4de
+
+# Title
 Persistent XSS on Reservation / Booking Page
+# URL 
 https://hackerone.com/reports/123005
+# Reporter 
 murat
+
+# Title
 XSS in version history of an HTML file in a shared folder
+# URL 
 https://hackerone.com/reports/56803
-XSS in imgur mobile 3
-https://hackerone.com/reports/107036
-charfee
+# Reporter 
+haquaman
+
+# Title
 XSS vulnerability in sanitize-method when parsing link's href
+# URL 
 https://hackerone.com/reports/328270
+# Reporter 
 kaarloh
+
+# Title
+Reflected XSS on a DoD website
+# URL 
 https://hackerone.com/reports/183871
-[xss] pornhubpremium.com, /redeem?code= URL endpoint 
-https://hackerone.com/reports/202536
-jon_bottarini
+# Reporter 
+juliocesar
+
+# Title
+XSS in imgur mobile 3
+# URL 
+https://hackerone.com/reports/107036
+# Reporter 
+charfee
+
+# Title
 Reflected XSS на games.mail.ru
+# URL 
 https://hackerone.com/reports/123093
+# Reporter 
+cyberpunkych
+
+# Title
+[xss] pornhubpremium.com, /redeem?code= URL endpoint 
+# URL 
+https://hackerone.com/reports/202536
+# Reporter 
+jon_bottarini
+
+# Title
 XSS Challenge
+# URL 
 https://hackerone.com/reports/1027918
+# Reporter 
 effectrenan
+
+# Title
 [tz.mail.ru] XSS в функционале авторизации 
+# URL 
 https://hackerone.com/reports/100500
+# Reporter 
+s_p_q_r
+
+# Title
 HTML Code Injection 
+# URL 
 https://hackerone.com/reports/1376
+# Reporter 
+nahamsec
+
+# Title
 XSS on https://www.starbucks.co.uk (can lead to credit card theft) (/shop/paymentmethod)
+# URL 
 https://hackerone.com/reports/227486
+# Reporter 
 bayotop
-Stored xss
-https://hackerone.com/reports/187380
-twi0x00tter
+
+# Title
 Stored XSS on vimeo.com and player.vimeo.com
+# URL 
 https://hackerone.com/reports/87577
-[now.informatica.com] Reflective Xss
-https://hackerone.com/reports/81191
+# Reporter 
+stefanofinding
+
+# Title
 [www.zomato.com] Blind XSS on one of the Admin Dashboard
+# URL 
 https://hackerone.com/reports/724889
+# Reporter 
 pandaaaa
-XSS in IE11 on portswigger.net via Flash
-https://hackerone.com/reports/182160
-opnsec
+
+# Title
+Stored xss
+# URL 
+https://hackerone.com/reports/187380
+# Reporter 
+twi0x00tter
+
+# Title
+[now.informatica.com] Reflective Xss
+# URL 
+https://hackerone.com/reports/81191
+# Reporter 
+alyssa_herrera
+
+# Title
 Reflected XSS in m.imgur.com
+# URL 
 https://hackerone.com/reports/149855
+# Reporter 
 logue
-www.shopify.com XSS on blog pages via sharing buttons
-https://hackerone.com/reports/87168
-[buttle] Unsafe rendering of Markdown files
-https://hackerone.com/reports/404126
-Cross-Site Scripting Vulnerability in urbandictionary.com
-https://hackerone.com/reports/115438
+
+# Title
 Template stored XSS
+# URL 
 https://hackerone.com/reports/141198
+# Reporter 
+s_p_q_r
+
+# Title
+XSS in IE11 on portswigger.net via Flash
+# URL 
+https://hackerone.com/reports/182160
+# Reporter 
+opnsec
+
+# Title
+www.shopify.com XSS on blog pages via sharing buttons
+# URL 
+https://hackerone.com/reports/87168
+# Reporter 
+reactors08
+
+# Title
+Cross-Site Scripting Vulnerability in urbandictionary.com
+# URL 
+https://hackerone.com/reports/115438
+# Reporter 
+ishahriyar
+
+# Title
+[buttle] Unsafe rendering of Markdown files
+# URL 
+https://hackerone.com/reports/404126
+# Reporter 
+skyn3t
+
+# Title
 Cross-Site Scripting Stored On Rich Media
+# URL 
 https://hackerone.com/reports/142540
+# Reporter 
 hussain_0x3c
-Reflective XSS
-https://hackerone.com/reports/177943
-XSS in realty.mail.ru
-https://hackerone.com/reports/51060
-[kb.informatica.com] DOM based XSS in the bindBreadCrumb function
-https://hackerone.com/reports/189834
-auth.mail.ru: XSS in login form
-https://hackerone.com/reports/13195
+
+# Title
 Stored XSS at 'Buy Button' page
+# URL 
 https://hackerone.com/reports/186462
-Various Low level Vulnerabilities
-https://hackerone.com/reports/34188
-sincerehacker
-Markdown based stored XSS (IE only)
-https://hackerone.com/reports/118024
-XSS on https://fax.pbx.itsendless.org/ (CVE-2017-18024)
-https://hackerone.com/reports/963798
-pirneci
+# Reporter 
+zuh4n
+
+# Title
+XSS in realty.mail.ru
+# URL 
+https://hackerone.com/reports/51060
+# Reporter 
+ddworken
+
+# Title
+Reflective XSS
+# URL 
+https://hackerone.com/reports/177943
+# Reporter 
+hogarth45
+
+# Title
+[kb.informatica.com] DOM based XSS in the bindBreadCrumb function
+# URL 
+https://hackerone.com/reports/189834
+# Reporter 
+s_p_q_r
+
+# Title
 [stored xss, pornhub.com] stream post function
+# URL 
 https://hackerone.com/reports/138075
-HTML Injection leads to XSS on███
-https://hackerone.com/reports/874228
-lemonoftroy
-[atlasboard-atlassian-package] Cross-site Scripting (XSS)
-https://hackerone.com/reports/456702
-XSS Vulnerability in cfire.mail.ru/screen/1/
-https://hackerone.com/reports/47322
-Stored XSS in title of date navigation
-https://hackerone.com/reports/50627
+# Reporter 
+zephrfish
+
+# Title
+XSS on https://fax.pbx.itsendless.org/ (CVE-2017-18024)
+# URL 
+https://hackerone.com/reports/963798
+# Reporter 
+pirneci
+
+# Title
+Markdown based stored XSS (IE only)
+# URL 
+https://hackerone.com/reports/118024
+# Reporter 
+a0xnirudh
+
+# Title
 Stored XSS 
+# URL 
 https://hackerone.com/reports/2926
-XSS on hardware.shopify.com
-https://hackerone.com/reports/123125
-virtualhunter
-[sms.qiwi.ru] XSS via Request-URI
-https://hackerone.com/reports/38345
+# Reporter 
+anandprakash_
+
+# Title
+XSS Vulnerability in cfire.mail.ru/screen/1/
+# URL 
+https://hackerone.com/reports/47322
+# Reporter 
+ddworken
+
+# Title
+auth.mail.ru: XSS in login form
+# URL 
+https://hackerone.com/reports/13195
+# Reporter 
+isox
+
+# Title
+Various Low level Vulnerabilities
+# URL 
+https://hackerone.com/reports/34188
+# Reporter 
+sincerehacker
+
+# Title
+HTML Injection leads to XSS on███
+# URL 
+https://hackerone.com/reports/874228
+# Reporter 
+lemonoftroy
+
+# Title
+[atlasboard-atlassian-package] Cross-site Scripting (XSS)
+# URL 
+https://hackerone.com/reports/456702
+# Reporter 
+ermilov
+
+# Title
+Stored XSS in title of date navigation
+# URL 
+https://hackerone.com/reports/50627
+# Reporter 
+ishahriyar
+
+# Title
 Stored XSS on invoice, executing on any subdomain
+# URL 
 https://hackerone.com/reports/152591
-Flash XSS on global nav
-https://hackerone.com/reports/172809
-mystech7
+# Reporter 
+eboda
+
+# Title
+XSS on hardware.shopify.com
+# URL 
+https://hackerone.com/reports/123125
+# Reporter 
+virtualhunter
+
+# Title
+[sms.qiwi.ru] XSS via Request-URI
+# URL 
+https://hackerone.com/reports/38345
+# Reporter 
+bobrov
+
+# Title
 XSS in touch.sports.mail.ru
+# URL 
 https://hackerone.com/reports/51140
-stored XSS in olx.pl - ogloszenie TITLE element - moderator acc can be hacked
-https://hackerone.com/reports/150668
-lucasm
+# Reporter 
+ddworken
+
+# Title
 Stored XSS in albums on http://m.imgur.com/
+# URL 
 https://hackerone.com/reports/169751
+# Reporter 
 strukt
-Stored XSS in drive.uber.com WordPress admin panel
-https://hackerone.com/reports/126099
-XSS on partners.uber.com due to no user input sanitisation 
-https://hackerone.com/reports/281283
-0x0luke
-Reflected XSS vector
-https://hackerone.com/reports/190247
-creased
-XSS by image file name
-https://hackerone.com/reports/93807
-Cross Site Scripting -> Reflected XSS
-https://hackerone.com/reports/150568
-[Grab Android/iOS] Insecure deeplink leads to sensitive information disclosure
-https://hackerone.com/reports/401793
-bagipro
+
+# Title
+stored XSS in olx.pl - ogloszenie TITLE element - moderator acc can be hacked
+# URL 
+https://hackerone.com/reports/150668
+# Reporter 
+lucasm
+
+# Title
+Flash XSS on global nav
+# URL 
+https://hackerone.com/reports/172809
+# Reporter 
+mystech7
+
+# Title
 Stored xss in editor 
+# URL 
 https://hackerone.com/reports/53730
+# Reporter 
 ehsahil
+
+# Title
+Reflected XSS vector
+# URL 
+https://hackerone.com/reports/190247
+# Reporter 
+creased
+
+# Title
+Stored XSS in drive.uber.com WordPress admin panel
+# URL 
+https://hackerone.com/reports/126099
+# Reporter 
+jouko
+
+# Title
+[Grab Android/iOS] Insecure deeplink leads to sensitive information disclosure
+# URL 
+https://hackerone.com/reports/401793
+# Reporter 
+bagipro
+
+# Title
+XSS by image file name
+# URL 
+https://hackerone.com/reports/93807
+# Reporter 
+strukt
+
+# Title
+XSS on partners.uber.com due to no user input sanitisation 
+# URL 
+https://hackerone.com/reports/281283
+# Reporter 
+0x0luke
+
+# Title
 Vulnerability type xss uncovered in airbnb.es
+# URL 
 https://hackerone.com/reports/49513
+# Reporter 
 hykatza
- /surveys/2auth: DOM-based XSS
-https://hackerone.com/reports/41940
+
+# Title
+Cross Site Scripting -> Reflected XSS
+# URL 
+https://hackerone.com/reports/150568
+# Reporter 
+konduru-jashwanth
+
+# Title
 Stored XSS in [shop].myshopify.com/admin/orders/[id]
+# URL 
 https://hackerone.com/reports/214044
-apps.owncloud.com: XSS via referrer
-https://hackerone.com/reports/83374
-Reflected XSS on www.boozt.com
-https://hackerone.com/reports/99594
-XSS in a file or folder name
-https://hackerone.com/reports/12588
-Reflected XSS on iltakoulu_varkaus (viestinta.lahitapiola.fi)
-https://hackerone.com/reports/201137
-yonm13
-Strored Cross Site Scripting
-https://hackerone.com/reports/106636
-hussein98d
-https://hackerone.com/reports/116006
+# Reporter 
+zombiehelp54
+
+# Title
+ /surveys/2auth: DOM-based XSS
+# URL 
+https://hackerone.com/reports/41940
+# Reporter 
+isox
+
+# Title
 XSS yaman.olx.ph
+# URL 
 https://hackerone.com/reports/151147
-Self XSS at translation page through Editor Link at demo.weblate.org
-https://hackerone.com/reports/223692
+# Reporter 
+mefkan
+
+# Title
+Reflected XSS on www.boozt.com
+# URL 
+https://hackerone.com/reports/99594
+# Reporter 
+stefanofinding
+
+# Title
+apps.owncloud.com: XSS via referrer
+# URL 
+https://hackerone.com/reports/83374
+# Reporter 
+psych0tr1a
+
+# Title
+Reflected XSS on iltakoulu_varkaus (viestinta.lahitapiola.fi)
+# URL 
+https://hackerone.com/reports/201137
+# Reporter 
+yonm13
+
+# Title
+XSS in a file or folder name
+# URL 
+https://hackerone.com/reports/12588
+# Reporter 
+reactors08
+
+# Title
 Reflected XSS.
+# URL 
 https://hackerone.com/reports/96381
+# Reporter 
+0x01alka
+
+# Title
+Strored Cross Site Scripting
+# URL 
+https://hackerone.com/reports/106636
+# Reporter 
+hussein98d
+
+# Title
+XSS on hardware.shopify.com
+# URL 
+https://hackerone.com/reports/116006
+# Reporter 
+mdv
+
+# Title
+Self XSS at translation page through Editor Link at demo.weblate.org
+# URL 
+https://hackerone.com/reports/223692
+# Reporter 
+csanuragjain
+
+# Title
 XSS on vimeo.com/home after other user follows you
+# URL 
 https://hackerone.com/reports/87854
+# Reporter 
+stefanofinding
+
+# Title
 XSS via unicode characters in upload filename
+# URL 
 https://hackerone.com/reports/179695
+# Reporter 
 kahoots
-XSS in flashmediaelement.swf (business-blog.zomato.com)
-https://hackerone.com/reports/200351
-Potential XSS vulnerability to HTML minification
-https://hackerone.com/reports/24684
+
+# Title
 cross-site scripting in get request
+# URL 
 https://hackerone.com/reports/150944
+# Reporter 
 wonderwomen007
-Stored XSS via Discussion Title and Send as Email attribute in [marketplace.informatica.com]
-https://hackerone.com/reports/203912
-fillawful
-[forum.owncloud.org] IE, Edge XSS via Request-URI
-https://hackerone.com/reports/154319
+
+# Title
+Potential XSS vulnerability to HTML minification
+# URL 
+https://hackerone.com/reports/24684
+# Reporter 
+filedescriptor
+
+# Title
 [controlsyou.quora.com] 429 Too Many Requests Error-Page XSS
+# URL 
 https://hackerone.com/reports/189768
-XSS m.imgur.com
-https://hackerone.com/reports/97938
-Self-XSS in WordPress Editor Link Modal
-https://hackerone.com/reports/224556
-xhzeem
-Persistent XSS on public wiki pages
-https://hackerone.com/reports/136333
-DOM XSS в /activation.php?act=activate_mobile
-https://hackerone.com/reports/146939
-abr1k0s
+# Reporter 
+bobrov
+
+# Title
+Stored XSS via Discussion Title and Send as Email attribute in [marketplace.informatica.com]
+# URL 
+https://hackerone.com/reports/203912
+# Reporter 
+fillawful
+
+# Title
+XSS in flashmediaelement.swf (business-blog.zomato.com)
+# URL 
+https://hackerone.com/reports/200351
+# Reporter 
+madrobot
+
+# Title
+[forum.owncloud.org] IE, Edge XSS via Request-URI
+# URL 
+https://hackerone.com/reports/154319
+# Reporter 
+bobrov
+
+# Title
 [kb.informatica.com] Stored XSS
+# URL 
 https://hackerone.com/reports/170369
-Reflected Cross-Site Scripting on French subdomain
-https://hackerone.com/reports/101108
+# Reporter 
+albinowax
+
+# Title
+XSS m.imgur.com
+# URL 
+https://hackerone.com/reports/97938
+# Reporter 
+charfee
+
+# Title
+Persistent XSS on public wiki pages
+# URL 
+https://hackerone.com/reports/136333
+# Reporter 
+jobert
+
+# Title
+Self-XSS in WordPress Editor Link Modal
+# URL 
+https://hackerone.com/reports/224556
+# Reporter 
+xhzeem
+
+# Title
+DOM XSS в /activation.php?act=activate_mobile
+# URL 
+https://hackerone.com/reports/146939
+# Reporter 
+abr1k0s
+
+# Title
 target.mail.ru: XSS через Referer
+# URL 
 https://hackerone.com/reports/19336
+# Reporter 
+isox
+
+# Title
+Reflected Cross-Site Scripting on French subdomain
+# URL 
+https://hackerone.com/reports/101108
+# Reporter 
+zephrfish
+
+# Title
 Stored cross site scripting (XSS) vulnerability on a DoD website
+# URL 
 https://hackerone.com/reports/184901
-XSS in 3rd party plugin (not affecting Uzbey's users)
-https://hackerone.com/reports/23010
+# Reporter 
+ahsan
+
+# Title
 e.mail.ru stored XSS in agent via sticker (smile)
+# URL 
 https://hackerone.com/reports/54719
-stored xss issue in folder name on go.xero.com/Docs/Folders
-https://hackerone.com/reports/122469
+# Reporter 
+reactors08
+
+# Title
+XSS in 3rd party plugin (not affecting Uzbey's users)
+# URL 
+https://hackerone.com/reports/23010
+# Reporter 
+yappare
+
+# Title
 Dangerous Persistent xss
+# URL 
 https://hackerone.com/reports/7441
+# Reporter 
 reporter
+
+# Title
 Reflected XSS at yaman.olx.ph
+# URL 
 https://hackerone.com/reports/151258
+# Reporter 
 oldc4u53
-Reflective XSS on wholesale.shopify.com
-https://hackerone.com/reports/106293
-krankopwnz
+
+# Title
+stored xss issue in folder name on go.xero.com/Docs/Folders
+# URL 
+https://hackerone.com/reports/122469
+# Reporter 
+4lemon
+
+# Title
 [stagecafrstore.starbucks.com] CRLF Injection, XSS
+# URL 
 https://hackerone.com/reports/192667
-Vulnerability found, XSS (Cross site Scripting)
-https://hackerone.com/reports/1258
-jigarthakkar39
-XSS platform.twitter.com
-https://hackerone.com/reports/29328
-XSS in twitter.com/safety/unsafe_link_warning
-https://hackerone.com/reports/53098
-SQL Injection vulnerability on a DoD website
-https://hackerone.com/reports/186156
-korprit
+# Reporter 
+bobrov
+
+# Title
+Reflective XSS on wholesale.shopify.com
+# URL 
+https://hackerone.com/reports/106293
+# Reporter 
+krankopwnz
+
+# Title
 Cross-Site Scripting Vulnerability in dovecot.fi
+# URL 
 https://hackerone.com/reports/135316
+# Reporter 
 kanti
-Reflected XSS on business-blog.zomato.com - Part 2
-https://hackerone.com/reports/137906
-XSS in OAuth Redirect Url
-https://hackerone.com/reports/163707
-XSS found on Snapchat website
-https://hackerone.com/reports/125849
-esnard
+
+# Title
+Vulnerability found, XSS (Cross site Scripting)
+# URL 
+https://hackerone.com/reports/1258
+# Reporter 
+jigarthakkar39
+
+# Title
+XSS platform.twitter.com
+# URL 
+https://hackerone.com/reports/29328
+# Reporter 
+batram
+
+# Title
+SQL Injection vulnerability on a DoD website
+# URL 
+https://hackerone.com/reports/186156
+# Reporter 
+korprit
+
+# Title
+XSS in twitter.com/safety/unsafe_link_warning
+# URL 
+https://hackerone.com/reports/53098
+# Reporter 
+masatokinugawa
+
+# Title
 Stored XSS from ticket messages in admin table in SupportFlow
+# URL 
 https://hackerone.com/reports/145091
-Reflected XSS in www.olx.ph
-https://hackerone.com/reports/150746
+# Reporter 
+whitehatter
+
+# Title
+XSS found on Snapchat website
+# URL 
+https://hackerone.com/reports/125849
+# Reporter 
+esnard
+
+# Title
+XSS in OAuth Redirect Url
+# URL 
+https://hackerone.com/reports/163707
+# Reporter 
+hussein98d
+
+# Title
+Reflected XSS on business-blog.zomato.com - Part 2
+# URL 
+https://hackerone.com/reports/137906
+# Reporter 
+dsopas
+
+# Title
 xss filter bypass [polldaddy]
+# URL 
 https://hackerone.com/reports/264832
+# Reporter 
+paresh_parmar
+
+# Title
 Stored Cross site scripting
+# URL 
 https://hackerone.com/reports/145246
+# Reporter 
 amirisme
+
+# Title
 XSS on expenses attachments
+# URL 
 https://hackerone.com/reports/165324
-[mrgs.mail.ru] Internet Explorer XSS via Request-URI
-https://hackerone.com/reports/66422
-Invoice Details activate JS that filled in 
-https://hackerone.com/reports/21034
-xss in simperium.com
-https://hackerone.com/reports/13746
-Vimeo.com - Reflected XSS Vulnerability
-https://hackerone.com/reports/42582
+# Reporter 
+eboda
+
+# Title
 Deleting team members
+# URL 
 https://hackerone.com/reports/8737
+# Reporter 
+atom
+
+# Title
+Reflected XSS in www.olx.ph
+# URL 
+https://hackerone.com/reports/150746
+# Reporter 
+kasperkarlsson
+
+# Title
+[mrgs.mail.ru] Internet Explorer XSS via Request-URI
+# URL 
+https://hackerone.com/reports/66422
+# Reporter 
+bobrov
+
+# Title
+Invoice Details activate JS that filled in 
+# URL 
+https://hackerone.com/reports/21034
+# Reporter 
+sasi2103
+
+# Title
+Vimeo.com - Reflected XSS Vulnerability
+# URL 
+https://hackerone.com/reports/42582
+# Reporter 
+dekeeu
+
+# Title
+xss in simperium.com
+# URL 
+https://hackerone.com/reports/13746
+# Reporter 
+heizes
+
+# Title
 HTML Injection in email from http://www.lahitapiola.fi/henkilo/sivut/tonttutesti
+# URL 
 https://hackerone.com/reports/209398
+# Reporter 
 billy_blaze
-Persistent XSS on ForecastApp
-https://hackerone.com/reports/199804
-lucasveigaf
+
+# Title
 Reflected XSS on sankarikoulutus (viestinta.lahitapiola.fi)
+# URL 
 https://hackerone.com/reports/191095
-Here is another XSS i got for you
-https://hackerone.com/reports/4276
-xss in the all widgets of shopifyapps.com
-https://hackerone.com/reports/119250
-target.mail.ru: XSS
-https://hackerone.com/reports/19334
+# Reporter 
+sandh0t
+
+# Title
 Reflected xss in user name thru cookie
+# URL 
 https://hackerone.com/reports/47341
-XSS in getrush.uber.com 
-https://hackerone.com/reports/125112
+# Reporter 
+4lemon
+
+# Title
+Persistent XSS on ForecastApp
+# URL 
+https://hackerone.com/reports/199804
+# Reporter 
+lucasveigaf
+
+# Title
 HTML in Diffusion not escaped in certain circumstances
+# URL 
 https://hackerone.com/reports/148865
+# Reporter 
 danny_b
+
+# Title
+XSS in getrush.uber.com 
+# URL 
+https://hackerone.com/reports/125112
+# Reporter 
+ddworken
+
+# Title
+target.mail.ru: XSS
+# URL 
+https://hackerone.com/reports/19334
+# Reporter 
+isox
+
+# Title
+xss in the all widgets of shopifyapps.com
+# URL 
+https://hackerone.com/reports/119250
+# Reporter 
+sergeym
+
+# Title
 Cross  Site Scripting
+# URL 
 https://hackerone.com/reports/16417
+# Reporter 
 architaa
-Application XSS filter function Bypass may allow Multiple stored XSS
-https://hackerone.com/reports/44217
-securityidiots
-Store XSS on Informatica University via transcript (informatica.csod.com)
-https://hackerone.com/reports/219509
-alfredsaonoy
-Cross-Site Scripting (XSS) on www.starbucks.com | .co.uk login pages
-https://hackerone.com/reports/881115
-cdl
-XSS Vulnerability on all pages
-https://hackerone.com/reports/60201
-Unvalidated redirect on team.badoo.com
-https://hackerone.com/reports/177624
-Unvalidated Redirects and Stored XSS
-https://hackerone.com/reports/44739
-aarmageddon
-upgrade Aspen on inside.gratipay.com to pick up CR injection fix
-https://hackerone.com/reports/143139
-[support.my.com] Internet Explorer XSS
-https://hackerone.com/reports/87806
-Stored XSS in Filters
-https://hackerone.com/reports/141114
-faisalahmed
+
+# Title
 HTML Injection на e.mail.ru
+# URL 
 https://hackerone.com/reports/65013
-[my.mail.ru] HTML injection в письмах от myadmin@corp.mail.ru
-https://hackerone.com/reports/140705
+# Reporter 
+c37hun
+
+# Title
+Here is another XSS i got for you
+# URL 
+https://hackerone.com/reports/4276
+# Reporter 
+shahmeer-amir
+
+# Title
+Application XSS filter function Bypass may allow Multiple stored XSS
+# URL 
+https://hackerone.com/reports/44217
+# Reporter 
+securityidiots
+
+# Title
+upgrade Aspen on inside.gratipay.com to pick up CR injection fix
+# URL 
+https://hackerone.com/reports/143139
+# Reporter 
+valievkarim
+
+# Title
+Cross-Site Scripting (XSS) on www.starbucks.com | .co.uk login pages
+# URL 
+https://hackerone.com/reports/881115
+# Reporter 
+cdl
+
+# Title
+[support.my.com] Internet Explorer XSS
+# URL 
+https://hackerone.com/reports/87806
+# Reporter 
+bobrov
+
+# Title
+Store XSS on Informatica University via transcript (informatica.csod.com)
+# URL 
+https://hackerone.com/reports/219509
+# Reporter 
+alfredsaonoy
+
+# Title
+Unvalidated Redirects and Stored XSS
+# URL 
+https://hackerone.com/reports/44739
+# Reporter 
+aarmageddon
+
+# Title
+XSS Vulnerability on all pages
+# URL 
+https://hackerone.com/reports/60201
+# Reporter 
+ddworken
+
+# Title
 Public profile is vulnerable to stored XSS / Facebook Token can be stolen
+# URL 
 https://hackerone.com/reports/175122
+# Reporter 
 robin_linus
-XSS в upload.php
-https://hackerone.com/reports/142135
-irek
+
+# Title
+Unvalidated redirect on team.badoo.com
+# URL 
+https://hackerone.com/reports/177624
+# Reporter 
+tsug0d
+
+# Title
+Stored XSS in Filters
+# URL 
+https://hackerone.com/reports/141114
+# Reporter 
+faisalahmed
+
+# Title
 csp bypass + xss
+# URL 
 https://hackerone.com/reports/153666
-Blind XSS in mapbox.com/contact
-https://hackerone.com/reports/158461
+# Reporter 
+b6117130df17feef13481e3
+
+# Title
+XSS в upload.php
+# URL 
+https://hackerone.com/reports/142135
+# Reporter 
+irek
+
+# Title
+[my.mail.ru] HTML injection в письмах от myadmin@corp.mail.ru
+# URL 
+https://hackerone.com/reports/140705
+# Reporter 
+bobrov
+
+# Title
 stored SELF xss on Basic Google Maps Placemarks Settings plugin
+# URL 
 https://hackerone.com/reports/160488
+# Reporter 
+b6117130df17feef13481e3
+
+# Title
 Flash XSS on Buick_RotatingMasthead_JellyBeanSlider.swf
+# URL 
 https://hackerone.com/reports/179826
-Stored XSS in Draft Articles. 
-https://hackerone.com/reports/103651
+# Reporter 
+mystech7
+
+# Title
+Blind XSS in mapbox.com/contact
+# URL 
+https://hackerone.com/reports/158461
+# Reporter 
+ehsahil
+
+# Title
 Stored XSS on http://top.mail.ru
+# URL 
 https://hackerone.com/reports/11919
+# Reporter 
+4lemon
+
+# Title
+Stored XSS in Draft Articles. 
+# URL 
+https://hackerone.com/reports/103651
+# Reporter 
+harry_mg
+
+# Title
 Reflected Cross Site scripting Attack (XSS)
+# URL 
 https://hackerone.com/reports/150837
+# Reporter 
 nileshsapariya
+
+# Title
 dom xss in https://www.slackatwork.com
+# URL 
 https://hackerone.com/reports/196624
+# Reporter 
 ba4fe4ca95021d367f8a574
+
+# Title
 Stored self-XSS at m.uber.com
+# URL 
 https://hackerone.com/reports/134124
-email field doesn't filtered against XSS
-https://hackerone.com/reports/17287
-XSS and cache poisoning via upload.twitter.com on ton.twitter.com
-https://hackerone.com/reports/84601
+# Reporter 
+skavans
+
+# Title
 Unsanitized Location Name in POS Channel can lead to XSS in Orders Timeline
+# URL 
 https://hackerone.com/reports/166887
-Stored XSS {dangerous?} https://www.khanacademy.org/coach/roster/?listId=allStudents
-https://hackerone.com/reports/6369
+# Reporter 
+nismo
+
+# Title
+XSS and cache poisoning via upload.twitter.com on ton.twitter.com
+# URL 
+https://hackerone.com/reports/84601
+# Reporter 
+filedescriptor
+
+# Title
+email field doesn't filtered against XSS
+# URL 
+https://hackerone.com/reports/17287
+# Reporter 
+sasi2103
+
+# Title
 Stored XSS in wis.pr
+# URL 
 https://hackerone.com/reports/149571
+# Reporter 
 huntingforbugs
-Reflected XSS on Zomato API
-https://hackerone.com/reports/125762
-Cross Site Scripting – Album Page
-https://hackerone.com/reports/82929
+
+# Title
 [Android] HTML Injection in BatterySaveArticleRenderer WebView
+# URL 
 https://hackerone.com/reports/176065
+# Reporter 
+bobrov
+
+# Title
+Stored XSS {dangerous?} https://www.khanacademy.org/coach/roster/?listId=allStudents
+# URL 
+https://hackerone.com/reports/6369
+# Reporter 
+smiegles
+
+# Title
+Reflected XSS on Zomato API
+# URL 
+https://hackerone.com/reports/125762
+# Reporter 
+murat
+
+# Title
 Stored XSS on contact name
+# URL 
 https://hackerone.com/reports/152069
-Reflected XSS vulnerability in a DoD website 
-https://hackerone.com/reports/207781
-rashedhasan007
+# Reporter 
+dsopas
+
+# Title
+Cross Site Scripting – Album Page
+# URL 
+https://hackerone.com/reports/82929
+# Reporter 
+zephrfish
+
+# Title
 [tanks.mail.ru] Internet Explorer XSS via Request-URI
+# URL 
 https://hackerone.com/reports/66423
-DOM based XSS in search functionality
-https://hackerone.com/reports/168165
-sameoldstory
-URL Advisor component in KIS products family is vulnerable to Universal XSS
-https://hackerone.com/reports/463915
-palant
+# Reporter 
+bobrov
+
+# Title
+Reflected XSS vulnerability in a DoD website 
+# URL 
+https://hackerone.com/reports/207781
+# Reporter 
+rashedhasan007
+
+# Title
+Cross Site Scripting
+# URL 
 https://hackerone.com/reports/95599
+# Reporter 
 paulos_
-XSS at  http://smarthistory.khanacademy.org
-https://hackerone.com/reports/6575
+
+# Title
+DOM based XSS in search functionality
+# URL 
+https://hackerone.com/reports/168165
+# Reporter 
+sameoldstory
+
+# Title
 Stored XSS in name selection
+# URL 
 https://hackerone.com/reports/102755
+# Reporter 
 daveysec
+
+# Title
+URL Advisor component in KIS products family is vulnerable to Universal XSS
+# URL 
+https://hackerone.com/reports/463915
+# Reporter 
+palant
+
+# Title
 [reflected xss, pornhub.com] /blog, any
+# URL 
 https://hackerone.com/reports/83566
-[allods.mail.ru] Reflected XSS
-https://hackerone.com/reports/95841
+# Reporter 
+zephrfish
+
+# Title
+XSS at  http://smarthistory.khanacademy.org
+# URL 
+https://hackerone.com/reports/6575
+# Reporter 
+prakharprasad
+
+# Title
 url.parse() hostname spoofing via javascript: URIs
+# URL 
 https://hackerone.com/reports/395845
+# Reporter 
+bayotop
+
+# Title
+[allods.mail.ru] Reflected XSS
+# URL 
+https://hackerone.com/reports/95841
+# Reporter 
+bigbear_
+
+# Title
+Reflected XSS
+# URL 
 https://hackerone.com/reports/8472
+# Reporter 
 chandrakant
+
+# Title
 XSS in editor by any user
+# URL 
 https://hackerone.com/reports/18691
-HTML Injection on ████
-https://hackerone.com/reports/198218
-akaki
-XSS in the "Poll" Feature on Twitter.com
-https://hackerone.com/reports/95231
-mazen160
-Mixed Reflected-Stored XSS on pornhub.com (without user interaction) in the playlist playing section
-https://hackerone.com/reports/222506
+# Reporter 
+tunnelshade
+
+# Title
 [sexstatic] HTML injection in directory name(s) leads to Stored XSS when malicious file is embed with <iframe> element used in directory name
+# URL 
 https://hackerone.com/reports/328210
+# Reporter 
+bl4de
+
+# Title
+XSS in the "Poll" Feature on Twitter.com
+# URL 
+https://hackerone.com/reports/95231
+# Reporter 
+mazen160
+
+# Title
+HTML Injection on ████
+# URL 
+https://hackerone.com/reports/198218
+# Reporter 
+akaki
+
+# Title
+Mixed Reflected-Stored XSS on pornhub.com (without user interaction) in the playlist playing section
+# URL 
+https://hackerone.com/reports/222506
+# Reporter 
+sp1d3rs
+
+# Title
 XSS in instacart.com/store/partner_recipe
+# URL 
 https://hackerone.com/reports/196221
+# Reporter 
 karel_origin
-[now.informatica.com] Reflective XSS
-https://hackerone.com/reports/106678
-robd4k
+
+# Title
 HTML injection in "Invite Collaborators"
+# URL 
 https://hackerone.com/reports/2735
+# Reporter 
+melvin
+
+# Title
+[now.informatica.com] Reflective XSS
+# URL 
+https://hackerone.com/reports/106678
+# Reporter 
+robd4k
+
+# Title
 XSS on added name album on videos.
+# URL 
 https://hackerone.com/reports/65324
+# Reporter 
 ruisilva
+
+# Title
 Stored XSS in Message to Display When No Pages Listed.
+# URL 
 https://hackerone.com/reports/50780
-Wrong Handling of Content-Type allows Flash injection and Rosseta flash patch bypass
-https://hackerone.com/reports/78158
-benhayak
+# Reporter 
+ishahriyar
+
+# Title
 CSRF and No password requirement in this URL Billing Info
+# URL 
 https://hackerone.com/reports/12034
-[alpha.informatica.com] Expensive DOMXSS
-https://hackerone.com/reports/158749
-Reflected XSS on business-blog.zomato.com - Part I
-https://hackerone.com/reports/137905
+# Reporter 
+shahmeer-amir
+
+# Title
+Wrong Handling of Content-Type allows Flash injection and Rosseta flash patch bypass
+# URL 
+https://hackerone.com/reports/78158
+# Reporter 
+benhayak
+
+# Title
 [contact-sys.com] XSS via Request-URI
+# URL 
 https://hackerone.com/reports/164656
+# Reporter 
+bobrov
+
+# Title
 http://smarthistory.khanacademy.org/search-results.html XSS
+# URL 
 https://hackerone.com/reports/6344
-XSS due to incomplete JS escaping
-https://hackerone.com/reports/474262
-jessecampos
-Improper filtering of classes used in codeblocks in Markdown
-https://hackerone.com/reports/12815
-markijbema
-Bad content-type in response header when getting document can lead to html injection
-https://hackerone.com/reports/173721
-unknowns132
+# Reporter 
+smiegles
+
+# Title
+[alpha.informatica.com] Expensive DOMXSS
+# URL 
+https://hackerone.com/reports/158749
+# Reporter 
+albinowax
+
+# Title
+Reflected XSS on business-blog.zomato.com - Part I
+# URL 
+https://hackerone.com/reports/137905
+# Reporter 
+dsopas
+
+# Title
 [xss, pornhub.com] /user/[username], multiple parameters
+# URL 
 https://hackerone.com/reports/100550
-Multiple Stored XSS on Sanbox.veris.in through Veris Frontdesk Android App
-https://hackerone.com/reports/121275
-XSS in ad.mail.ru
-https://hackerone.com/reports/51061
-[parc.informatica.com] Reflected Cross Site Scripting and Open Redirect
-https://hackerone.com/reports/178278
-IE 11 Self-XSS on Jira Integration Preview Base Link
-https://hackerone.com/reports/212721
-ziot
-Stored XSS in /admin/orders 
-https://hackerone.com/reports/106897
+# Reporter 
+zephrfish
+
+# Title
+XSS due to incomplete JS escaping
+# URL 
+https://hackerone.com/reports/474262
+# Reporter 
+jessecampos
+
+# Title
+Improper filtering of classes used in codeblocks in Markdown
+# URL 
+https://hackerone.com/reports/12815
+# Reporter 
+markijbema
+
+# Title
 https://polldaddy.com storage.swf XSS
+# URL 
 https://hackerone.com/reports/9522
-Lack of input validation and sanitization in react-autolinker-wrapper library causes XSS 
-https://hackerone.com/reports/592525
-rugged_info
-Reflected XSS in /Videos/ via calling a callback http://www.rockstargames.com/videos/#/?lb=
-https://hackerone.com/reports/151276
+# Reporter 
+smiegles
+
+# Title
+Bad content-type in response header when getting document can lead to html injection
+# URL 
+https://hackerone.com/reports/173721
+# Reporter 
+unknowns132
+
+# Title
+XSS in ad.mail.ru
+# URL 
+https://hackerone.com/reports/51061
+# Reporter 
+ddworken
+
+# Title
+IE 11 Self-XSS on Jira Integration Preview Base Link
+# URL 
+https://hackerone.com/reports/212721
+# Reporter 
+ziot
+
+# Title
+Multiple Stored XSS on Sanbox.veris.in through Veris Frontdesk Android App
+# URL 
+https://hackerone.com/reports/121275
+# Reporter 
+itly
+
+# Title
+[parc.informatica.com] Reflected Cross Site Scripting and Open Redirect
+# URL 
+https://hackerone.com/reports/178278
+# Reporter 
+bogdantcaciuc
+
+# Title
 CRLF and XSS stored on ton.twitter.com
+# URL 
 https://hackerone.com/reports/191380
-Reflected cross-site scripting (XSS) vulnerability in scores.ubnt.com allows attackers to inject arbitrary web script via p parameter.
-https://hackerone.com/reports/208622
-Stored XSS on newsroom.uber.com admin panel / Stream WordPress plugin
-https://hackerone.com/reports/127948
+# Reporter 
+seifelsallamy
+
+# Title
+Reflected XSS in /Videos/ via calling a callback http://www.rockstargames.com/videos/#/?lb=
+# URL 
+https://hackerone.com/reports/151276
+# Reporter 
+nahamsec
+
+# Title
+Lack of input validation and sanitization in react-autolinker-wrapper library causes XSS 
+# URL 
+https://hackerone.com/reports/592525
+# Reporter 
+rugged_info
+
+# Title
+Stored XSS in /admin/orders 
+# URL 
+https://hackerone.com/reports/106897
+# Reporter 
+zombiehelp54
+
+# Title
 XSS In archive.uber.com Due to Mime Sniffing in IE
+# URL 
 https://hackerone.com/reports/126197
+# Reporter 
+ddworken
+
+# Title
 these are my old reports and still i have not receive any good replys, these all are Cross Site Scripting(XSS) issues: POC1: https://www.youtube.com/w
+# URL 
 https://hackerone.com/reports/157889
+# Reporter 
 unkn7wn
-Reflected XSS in LTContactFormReceiver (/cs/Satellite)
-https://hackerone.com/reports/172595
-Executing scripts on slack-files.com using SVG
-https://hackerone.com/reports/100565
-kamil_hism
+
+# Title
+Reflected cross-site scripting (XSS) vulnerability in scores.ubnt.com allows attackers to inject arbitrary web script via p parameter.
+# URL 
+https://hackerone.com/reports/208622
+# Reporter 
+edoverflow
+
+# Title
 Markdown parsing issue enables insertion of malicious tags
+# URL 
 https://hackerone.com/reports/116512
+# Reporter 
 ru94mb
+
+# Title
+Reflected XSS in LTContactFormReceiver (/cs/Satellite)
+# URL 
+https://hackerone.com/reports/172595
+# Reporter 
+tsug0d
+
+# Title
+Executing scripts on slack-files.com using SVG
+# URL 
+https://hackerone.com/reports/100565
+# Reporter 
+kamil_hism
+
+# Title
+Stored XSS on newsroom.uber.com admin panel / Stream WordPress plugin
+# URL 
+https://hackerone.com/reports/127948
+# Reporter 
+jouko
+
+# Title
 Cross site scripting On api Calculator API requests
+# URL 
 https://hackerone.com/reports/78003
-Account Takeover in Periscope TV
-https://hackerone.com/reports/317476
-ngalog
+# Reporter 
+d1pakda5
+
+# Title
 Reflected XSS in reddeadredemption Site  located at www.rockstargames.com/reddeadredemption
+# URL 
 https://hackerone.com/reports/149673
-https://hackerone.com/reports/176698
-Reflected XSS in OLX.in
-https://hackerone.com/reports/175801
-yashmaurya
+# Reporter 
+nahamsec
+
+# Title
 xss vulnerability in http://ubermovement.com/community/daniel
+# URL 
 https://hackerone.com/reports/142946
+# Reporter 
+netfuzzer
+
+# Title
+Account Takeover in Periscope TV
+# URL 
+https://hackerone.com/reports/317476
+# Reporter 
+ngalog
+
+# Title
+Reflective XSS
+# URL 
+https://hackerone.com/reports/176698
+# Reporter 
+hogarth45
+
+# Title
 XSS Vulnerability
+# URL 
 https://hackerone.com/reports/87588
+# Reporter 
+robd4k
+
+# Title
+Reflected XSS in OLX.in
+# URL 
+https://hackerone.com/reports/175801
+# Reporter 
+yashmaurya
+
+# Title
 XSS vulnerable parameter in a location hash
+# URL 
 https://hackerone.com/reports/146336
+# Reporter 
+virtualhunter
+
+# Title
 Cross-site Scripting (XSS)
-XSS in imgur mobile
-https://hackerone.com/reports/106982
+# URL 
 https://hackerone.com/reports/126049
-XSS at wordpress.com
-https://hackerone.com/reports/111500
-https://hackerone.com/reports/27846
-detroitsmash
-Stored XSS On Statement
-https://hackerone.com/reports/84740
-ibram
-Sql injection And XSS
-https://hackerone.com/reports/31023
-jayden
-XSS in Search Communities Function
-https://hackerone.com/reports/47235
-XSS (Reflected)
-https://hackerone.com/reports/176477
-mr_sharma_
+# Reporter 
+djadmin
+
+# Title
+XSS in imgur mobile
+# URL 
+https://hackerone.com/reports/106982
+# Reporter 
+charfee
+
+# Title
 XSS - http://js.cloudflare.com
+# URL 
 https://hackerone.com/reports/8920
+# Reporter 
+dekeeu
+
+# Title
+Stored xss
+# URL 
+https://hackerone.com/reports/27846
+# Reporter 
+detroitsmash
+
+# Title
+Stored XSS On Statement
+# URL 
+https://hackerone.com/reports/84740
+# Reporter 
+ibram
+
+# Title
+XSS at wordpress.com
+# URL 
+https://hackerone.com/reports/111500
+# Reporter 
+valievkarim
+
+# Title
+XSS in Search Communities Function
+# URL 
+https://hackerone.com/reports/47235
+# Reporter 
+ddworken
+
+# Title
 weblate.org: X-XSS-Protection not enabled
+# URL 
 https://hackerone.com/reports/223723
+# Reporter 
+amsda
+
+# Title
+Sql injection And XSS
+# URL 
+https://hackerone.com/reports/31023
+# Reporter 
+jayden
+
+# Title
 owncloud.com: Persistent XSS In Account Profile
+# URL 
 https://hackerone.com/reports/116254
+# Reporter 
 securitary
+
+# Title
+XSS (Reflected)
+# URL 
+https://hackerone.com/reports/176477
+# Reporter 
+mr_sharma_
+
+# Title
 Reflective XSS can be triggered in IE
+# URL 
 https://hackerone.com/reports/2497
+# Reporter 
+shahmeer-amir
+
+# Title
 XSS in $shop$.myshopify.com/admin/ via "Button Objects" in malicious app
+# URL 
 https://hackerone.com/reports/217745
+# Reporter 
 bored-engineer
-XSS - Gallery Search Listing
-https://hackerone.com/reports/76713
-[contact-sys.com] XSS /ajax/transfer/status trn param
-https://hackerone.com/reports/164704
+
+# Title
 Cross Site Scripting - type Patameter
+# URL 
 https://hackerone.com/reports/114151
+# Reporter 
 vichaarya
+
+# Title
+[contact-sys.com] XSS /ajax/transfer/status trn param
+# URL 
+https://hackerone.com/reports/164704
+# Reporter 
+bobrov
+
+# Title
+XSS - Gallery Search Listing
+# URL 
+https://hackerone.com/reports/76713
+# Reporter 
+bugs3ra
+
+# Title
 MailPoet Newsletters <= 2.7.2 - Authenticated Reflected Cross-Site Scripting (XSS)
+# URL 
 https://hackerone.com/reports/200355
-HTML/XSS rendered in Android App of Crashlytics through fabric.io
-https://hackerone.com/reports/41856
-jplayer.swf Cross-site scripting
-https://hackerone.com/reports/8786
-Cross Site Scripting In Profile Statement 
-https://hackerone.com/reports/162120
-muhaddix
-Google Authenticator - Cross Site Scripting
-https://hackerone.com/reports/172606
-iamsha4yan
-https://hackerone.com/reports/208556
-guruprasadmullangi
-Stored XSS in adding fileset
-https://hackerone.com/reports/42248
+# Reporter 
+madrobot
+
+# Title
 REFLECTED CROSS SITE SCRIPTING IN OLX
+# URL 
 https://hackerone.com/reports/151305
+# Reporter 
 123456789100
-[static.qiwi.com] XSS proxy.html
-https://hackerone.com/reports/35363
+
+# Title
+HTML/XSS rendered in Android App of Crashlytics through fabric.io
+# URL 
+https://hackerone.com/reports/41856
+# Reporter 
+akhil-reni
+
+# Title
+jplayer.swf Cross-site scripting
+# URL 
+https://hackerone.com/reports/8786
+# Reporter 
+smiegles
+
+# Title
+Cross-site scripting (XSS) vulnerability on a DoD website
+# URL 
+https://hackerone.com/reports/208556
+# Reporter 
+guruprasadmullangi
+
+# Title
+Cross Site Scripting In Profile Statement 
+# URL 
+https://hackerone.com/reports/162120
+# Reporter 
+muhaddix
+
+# Title
+Stored XSS in adding fileset
+# URL 
+https://hackerone.com/reports/42248
+# Reporter 
+yujitounai
+
+# Title
 POST XSS  in https://www.khanacademy.org.tr/ via page_search_query parameter
+# URL 
 https://hackerone.com/reports/382321
+# Reporter 
 miguel_santareno
-XSS: https://light.mail.ru/compose, https://m.mail.ru/compose/[id]/reply при ответе на специальным образом сформированное письмо
-https://hackerone.com/reports/88881
-aesteral
-Full Page Caching Stored XSS Vulnerability
+
+# Title
+Google Authenticator - Cross Site Scripting
+# URL 
+https://hackerone.com/reports/172606
+# Reporter 
+iamsha4yan
+
+# Title
 Stored XSS on https://www.algolia.com/realtime-search-demo/*
-https://hackerone.com/reports/148300
+# URL 
 https://hackerone.com/reports/98012
+# Reporter 
+stefanofinding
+
+# Title
+XSS: https://light.mail.ru/compose, https://m.mail.ru/compose/[id]/reply при ответе на специальным образом сформированное письмо
+# URL 
+https://hackerone.com/reports/88881
+# Reporter 
+aesteral
+
+# Title
+[static.qiwi.com] XSS proxy.html
+# URL 
+https://hackerone.com/reports/35363
+# Reporter 
+smiegles
+
+# Title
+Full Page Caching Stored XSS Vulnerability
+# URL 
+https://hackerone.com/reports/148300
+# Reporter 
 rtyler
-XSS Stored
-https://hackerone.com/reports/205626
-hunterahsan
-Reflected XSS in mail.yahoo.com
-https://hackerone.com/reports/2240
-kbjhkc
-self xss in
-https://hackerone.com/reports/228539
-panther
+
+# Title
 Reflected Flash XSS using swfupload.swf with an epileptic reloading to bypass the button-event
+# URL 
 https://hackerone.com/reports/91421
-[tianma-static] Security issue with XSS.
-https://hackerone.com/reports/606526
-wooeong22
+# Reporter 
+fransrosen
+
+# Title
+self xss in
+# URL 
+https://hackerone.com/reports/228539
+# Reporter 
+panther
+
+# Title
+XSS Stored
+# URL 
+https://hackerone.com/reports/205626
+# Reporter 
+hunterahsan
+
+# Title
 Reflected Cross Site Scripting - 'puser' Parameter in login page
+# URL 
 https://hackerone.com/reports/50157
-XSS on 3rd party service Localtapiola is using
-https://hackerone.com/reports/210908
+# Reporter 
+vichaarya
+
+# Title
+Reflected XSS in mail.yahoo.com
+# URL 
+https://hackerone.com/reports/2240
+# Reporter 
+kbjhkc
+
+# Title
+[tianma-static] Security issue with XSS.
+# URL 
+https://hackerone.com/reports/606526
+# Reporter 
+wooeong22
+
+# Title
 files.acrobat.com stored XSS via send file
+# URL 
 https://hackerone.com/reports/50358
+# Reporter 
+reactors08
+
+# Title
+XSS on 3rd party service Localtapiola is using
+# URL 
+https://hackerone.com/reports/210908
+# Reporter 
+billy_blaze
+
+# Title
 Reflected XSS in Gallery App
+# URL 
 https://hackerone.com/reports/165686
+# Reporter 
 soreks
+
+# Title
+Reflected XSS on a DoD website
+# URL 
 https://hackerone.com/reports/190205
-doc.owncloud.org: X-XSS-Protection not enabled
-https://hackerone.com/reports/128493
-nsg20
+# Reporter 
+juliocesar
+
+# Title
+Reflected XSS vulnerability on a DoD website
+# URL 
 https://hackerone.com/reports/198259
-SSRF & XSS (W3 Total Cache)
-https://hackerone.com/reports/138721
+# Reporter 
+mantis
+
+# Title
+doc.owncloud.org: X-XSS-Protection not enabled
+# URL 
+https://hackerone.com/reports/128493
+# Reporter 
+nsg20
+
+# Title
 XSS at http://vk.com on IE using flash files
+# URL 
 https://hackerone.com/reports/66121
-HTML injection with AutoComplete suggestions
-https://hackerone.com/reports/383117
-nickvergessen
+# Reporter 
+tunnelshade
+
+# Title
 Reflected Cross Site Script in www.gmcar.gm.com
+# URL 
 https://hackerone.com/reports/116135
-[XSS] sandbox.veris.in
-https://hackerone.com/reports/137119
-Flash XSS на old.corp.mail.ru
-https://hackerone.com/reports/34130
-XSS in private message
-https://hackerone.com/reports/4826
+# Reporter 
+adrianomarcmont
+
+# Title
+SSRF & XSS (W3 Total Cache)
+# URL 
+https://hackerone.com/reports/138721
+# Reporter 
+jouko
+
+# Title
+HTML injection with AutoComplete suggestions
+# URL 
+https://hackerone.com/reports/383117
+# Reporter 
+nickvergessen
+
+# Title
 Stored XSS in Slack.com
+# URL 
 https://hackerone.com/reports/6002
-[send.qiwi.ru] XSS at auth?login=
-https://hackerone.com/reports/35413
-Reflected XSS 
-https://hackerone.com/reports/267206
-panckazzz
-[marketplace.informatica.com]- Stored XSS on Image title and Edit Property
-https://hackerone.com/reports/202951
+# Reporter 
+atom
+
+# Title
+[XSS] sandbox.veris.in
+# URL 
+https://hackerone.com/reports/137119
+# Reporter 
+bogdantcaciuc
+
+# Title
 Reflected XSS by way of jQuery function
+# URL 
 https://hackerone.com/reports/141493
-https://hackerone.com/reports/82725
-Xss via Dropbox
-https://hackerone.com/reports/72526
-blacksdawn
-[cloudcmd] Stored XSS in the filename when directories listing
-https://hackerone.com/reports/341044
+# Reporter 
+zephrfish
+
+# Title
+[marketplace.informatica.com]- Stored XSS on Image title and Edit Property
+# URL 
+https://hackerone.com/reports/202951
+# Reporter 
+fillawful
+
+# Title
+Reflected XSS 
+# URL 
+https://hackerone.com/reports/267206
+# Reporter 
+panckazzz
+
+# Title
+XSS in private message
+# URL 
+https://hackerone.com/reports/4826
+# Reporter 
+reactors08
+
+# Title
 XSS at Bulk editing products
+# URL 
 https://hackerone.com/reports/67132
+# Reporter 
 mafia
+
+# Title
+Flash XSS на old.corp.mail.ru
+# URL 
+https://hackerone.com/reports/34130
+# Reporter 
+c37hun
+
+# Title
+[send.qiwi.ru] XSS at auth?login=
+# URL 
+https://hackerone.com/reports/35413
+# Reporter 
+psych0tr1a
+
+# Title
+Stored XSS in comments
+# URL 
+https://hackerone.com/reports/82725
+# Reporter 
+zombiehelp54
+
+# Title
+[cloudcmd] Stored XSS in the filename when directories listing
+# URL 
+https://hackerone.com/reports/341044
+# Reporter 
+tungpun
+
+# Title
+Xss via Dropbox
+# URL 
+https://hackerone.com/reports/72526
+# Reporter 
+blacksdawn
+
+# Title
 Stored XSS in unifi.ubnt.com
+# URL 
 https://hackerone.com/reports/142084
-HTML Injection in email /webApp/lahti (viestinta.lahitapiola.fi)
-https://hackerone.com/reports/181810
-DOM Based XSS in Discourse Search
-https://hackerone.com/reports/191890
-khizer47
+# Reporter 
+shubham
+
+# Title
 HTML Injection on flickr screename using IOS App
+# URL 
 https://hackerone.com/reports/1483
+# Reporter 
+panchocosil
+
+# Title
+DOM Based XSS in Discourse Search
+# URL 
+https://hackerone.com/reports/191890
+# Reporter 
+khizer47
+
+# Title
 Stored XSS in all fields in Basic Google Maps Placemarks Settings
+# URL 
 https://hackerone.com/reports/9375
-DOM Based XSS on a DoD website
-https://hackerone.com/reports/191416
-[qiwi.com] /oauth/confirm.action XSS
-https://hackerone.com/reports/36319
-https://hackerone.com/reports/187822
+# Reporter 
+techintheprovince
+
+# Title
+HTML Injection in email /webApp/lahti (viestinta.lahitapiola.fi)
+# URL 
+https://hackerone.com/reports/181810
+# Reporter 
+bobrov
+
+# Title
 Self xss
+# URL 
 https://hackerone.com/reports/388527
+# Reporter 
 iwallplace
- Same-Origin Method Execution bug in plupload.flash.swf on /insights
-https://hackerone.com/reports/138226
+
+# Title
 XSS on any site that includes the moogaloop flash player | deprecated embed code 
+# URL 
 https://hackerone.com/reports/44512
+# Reporter 
+batram
+
+# Title
+Reflected XSS vulnerability on a DoD website
+# URL 
+https://hackerone.com/reports/187822
+# Reporter 
+korprit
+
+# Title
+DOM Based XSS on a DoD website
+# URL 
+https://hackerone.com/reports/191416
+# Reporter 
+juliocesar
+
+# Title
+[qiwi.com] /oauth/confirm.action XSS
+# URL 
+https://hackerone.com/reports/36319
+# Reporter 
+akhil-reni
+
+# Title
+ Same-Origin Method Execution bug in plupload.flash.swf on /insights
+# URL 
+https://hackerone.com/reports/138226
+# Reporter 
+zephrfish
+
+# Title
 DOMXSS in Tweetdeck
+# URL 
 https://hackerone.com/reports/119471
-Loadbalancer + URI XSS #3
-https://hackerone.com/reports/9703
-nnwakelam
-Stored XSS in Testimonial Position
-https://hackerone.com/reports/50645
+# Reporter 
+filedescriptor
+
+# Title
 Reflected XSS in city-mobil.ru/
+# URL 
 https://hackerone.com/reports/848742
+# Reporter 
 mariuszpoplawski
-owncloud.com: WP Super Cache plugin is outdated
-https://hackerone.com/reports/90980
-[exceljs] Possible XSS via cell value when worksheet is displayed in browser
-https://hackerone.com/reports/356809
-https://hackerone.com/reports/527296
-Stored XSS in  Testimonial  name
-https://hackerone.com/reports/50644
-https://caldav.calendar.yahoo.com/ - XSS (STORED) 
-https://hackerone.com/reports/8281
-Reflected XSS in scores.ubnt.com
-https://hackerone.com/reports/130889
-enmach
-Self-XSS in posts by formatting text as code
-https://hackerone.com/reports/89505
+
+# Title
+Loadbalancer + URI XSS #3
+# URL 
+https://hackerone.com/reports/9703
+# Reporter 
+nnwakelam
+
+# Title
 Stored XSS in Adress Book (starbucks.com/account/profile)
+# URL 
 https://hackerone.com/reports/186554
+# Reporter 
 myst404
-Reflective XSS vulnerability on a DoD website
-https://hackerone.com/reports/183854
-fantam1
-XSS - URL Redirects
-https://hackerone.com/reports/56662
-vlazeg
+
+# Title
+owncloud.com: WP Super Cache plugin is outdated
+# URL 
+https://hackerone.com/reports/90980
+# Reporter 
+ba4fe4ca95021d367f8a574
+
+# Title
+Reflected XSS in scores.ubnt.com
+# URL 
+https://hackerone.com/reports/130889
+# Reporter 
+enmach
+
+# Title
+[exceljs] Possible XSS via cell value when worksheet is displayed in browser
+# URL 
+https://hackerone.com/reports/356809
+# Reporter 
+bl4de
+
+# Title
+Stored XSS in Testimonial Position
+# URL 
+https://hackerone.com/reports/50645
+# Reporter 
+ishahriyar
+
+# Title
+XSS
+# URL 
+https://hackerone.com/reports/527296
+# Reporter 
+linkks
+
+# Title
+Stored XSS in  Testimonial  name
+# URL 
+https://hackerone.com/reports/50644
+# Reporter 
+ishahriyar
+
+# Title
 XSS ON MOPUB.COM
+# URL 
 https://hackerone.com/reports/15356
+# Reporter 
 jpsecurityresearch
+
+# Title
+https://caldav.calendar.yahoo.com/ - XSS (STORED) 
+# URL 
+https://hackerone.com/reports/8281
+# Reporter 
+nnwakelam
+
+# Title
 https://www.khanacademy.org/coach/reports/activity XSS
+# URL 
 https://hackerone.com/reports/6409
-Stored XSS in api key of operator wallet
-https://hackerone.com/reports/41758
-https://hackerone.com/reports/156373
-rishi62
-Stored XSS in Financial Account executing in Bank tab
-https://hackerone.com/reports/131038
-hackheaven123
+# Reporter 
+smiegles
+
+# Title
+Self-XSS in posts by formatting text as code
+# URL 
+https://hackerone.com/reports/89505
+# Reporter 
+harry_mg
+
+# Title
+XSS - URL Redirects
+# URL 
+https://hackerone.com/reports/56662
+# Reporter 
+vlazeg
+
+# Title
 XSS in Blog 
+# URL 
 https://hackerone.com/reports/141728
+# Reporter 
 mugeesahmed
+
+# Title
+Reflective XSS vulnerability on a DoD website
+# URL 
+https://hackerone.com/reports/183854
+# Reporter 
+fantam1
+
+# Title
+Stored XSS in Financial Account executing in Bank tab
+# URL 
+https://hackerone.com/reports/131038
+# Reporter 
+hackheaven123
+
+# Title
+Stored xss
+# URL 
+https://hackerone.com/reports/156373
+# Reporter 
+rishi62
+
+# Title
 Google Analytics could be used as CSP bypass for data exfiltration on hackerone.com
+# URL 
 https://hackerone.com/reports/199779
+# Reporter 
 aaron_costello
+
+# Title
+Stored XSS in api key of operator wallet
+# URL 
+https://hackerone.com/reports/41758
+# Reporter 
+4lemon
+
+# Title
 XSS on gravatar
+# URL 
 https://hackerone.com/reports/13794
+# Reporter 
 simon90
-Redirect url after login is not validated
-https://hackerone.com/reports/153652
-capripio
+
+# Title
 XSS on Nanostation Loco M2 Airmax
+# URL 
 https://hackerone.com/reports/158287
+# Reporter 
 grampae
-XSS in Draft Orders in Timeline i SHOPIFY Admin Site!
-https://hackerone.com/reports/117449
+
+# Title
 Send AJAX request to external domain
+# URL 
 https://hackerone.com/reports/97191
+# Reporter 
+r0x33d
+
+# Title
 Flash XSS in http://lingvo.mail.ru
+# URL 
 https://hackerone.com/reports/15250
+# Reporter 
+quistertow
+
+# Title
+XSS in Draft Orders in Timeline i SHOPIFY Admin Site!
+# URL 
+https://hackerone.com/reports/117449
+# Reporter 
+nismo
+
+# Title
+Redirect url after login is not validated
+# URL 
+https://hackerone.com/reports/153652
+# Reporter 
+capripio
+
+# Title
 Self Xss on File Replace
+# URL 
 https://hackerone.com/reports/50481
+# Reporter 
+ishahriyar
+
+# Title
 Stored XSS In Company URL
+# URL 
 https://hackerone.com/reports/50662
+# Reporter 
+ishahriyar
+
+# Title
 [marketplace.informatica.com] Profile stored XSS
+# URL 
 https://hackerone.com/reports/190217
-xss in /browse/contacts/
-https://hackerone.com/reports/38189
-defmax
-XSS / SELF XSS
-https://hackerone.com/reports/906201
-whoami991
+# Reporter 
+s_p_q_r
+
+# Title
 Stored xss in ALBUM DESCRIPTION 
+# URL 
 https://hackerone.com/reports/181955
+# Reporter 
 armaanpathan
-Twitter Card - Parent Window Redirection
-https://hackerone.com/reports/46818
-batuhan
-stored XSS in concrete5 5.7.2.1
-https://hackerone.com/reports/38890
+
+# Title
+xss in /browse/contacts/
+# URL 
+https://hackerone.com/reports/38189
+# Reporter 
+defmax
+
+# Title
 Possible XSS
+# URL 
 https://hackerone.com/reports/123278
+# Reporter 
+paulos_
+
+# Title
 DOM XSS vulnerability in search dialogue (NC-SA-2017-007)
+# URL 
 https://hackerone.com/reports/213227
-Stored XSS via "Free Shipping" option (Discounts)
-https://hackerone.com/reports/124429
-ancst
-Content-type sniffing leads to stored XSS in CMS Airship on Internet Explorer 
-https://hackerone.com/reports/151231
-Vulnerability : XSS Vulnerability 
-https://hackerone.com/reports/121705
-Html injection mycrypto.com
-https://hackerone.com/reports/324548
-w2w
-Cross-site Scripting (XSS) in /updates-pro/archive/
-https://hackerone.com/reports/235866
-paulochoupina
-Persistent XSS vulnerability on a DoD website
-https://hackerone.com/reports/187759
-OX (Guard): Stored Cross-Site Scripting via Incoming Email
-https://hackerone.com/reports/156258
+# Reporter 
+hunterahsan
+
+# Title
+XSS / SELF XSS
+# URL 
+https://hackerone.com/reports/906201
+# Reporter 
+whoami991
+
+# Title
+stored XSS in concrete5 5.7.2.1
+# URL 
+https://hackerone.com/reports/38890
+# Reporter 
+yujitounai
+
+# Title
+Twitter Card - Parent Window Redirection
+# URL 
+https://hackerone.com/reports/46818
+# Reporter 
+batuhan
+
+# Title
 Stored XSS on http://cards.mail.ru
+# URL 
 https://hackerone.com/reports/11927
-Stored XSS in developer.uber.com
-https://hackerone.com/reports/131450
+# Reporter 
+4lemon
+
+# Title
+Html injection mycrypto.com
+# URL 
+https://hackerone.com/reports/324548
+# Reporter 
+w2w
+
+# Title
+Stored XSS via "Free Shipping" option (Discounts)
+# URL 
+https://hackerone.com/reports/124429
+# Reporter 
+ancst
+
+# Title
+Vulnerability : XSS Vulnerability 
+# URL 
+https://hackerone.com/reports/121705
+# Reporter 
+bhavi
+
+# Title
+Persistent XSS vulnerability on a DoD website
+# URL 
+https://hackerone.com/reports/187759
+# Reporter 
+korprit
+
+# Title
+Cross-site Scripting (XSS) in /updates-pro/archive/
+# URL 
+https://hackerone.com/reports/235866
+# Reporter 
+paulochoupina
+
+# Title
+Content-type sniffing leads to stored XSS in CMS Airship on Internet Explorer 
+# URL 
+https://hackerone.com/reports/151231
+# Reporter 
+lukasreschke
+
+# Title
 Suffix of url-path is vulnerable to XSS-attack
+# URL 
 https://hackerone.com/reports/13285
+# Reporter 
+bigbear
+
+# Title
+OX (Guard): Stored Cross-Site Scripting via Incoming Email
+# URL 
+https://hackerone.com/reports/156258
+# Reporter 
+dejavuln
+
+# Title
+Stored XSS in developer.uber.com
+# URL 
+https://hackerone.com/reports/131450
+# Reporter 
+albinowax
+
+# Title
 XSS on manually entering Postal codes
+# URL 
 https://hackerone.com/reports/190951
+# Reporter 
 prem1807
+
+# Title
 Reflected XSS on a Navy website
+# URL 
 https://hackerone.com/reports/183878
+# Reporter 
 samux
-JSON keys are not properly escaped
-https://hackerone.com/reports/47280
-einstein_
+
+# Title
 xss on autoserch
+# URL 
 https://hackerone.com/reports/61367
+# Reporter 
 adrianbelen
+
+# Title
+Stored XSS in comments
+# URL 
 https://hackerone.com/reports/148751
+# Reporter 
 kelunik
-[Thirdparty] Stored XSS in chat module - nextcloud server 9.0.51 installed in ubuntu 14.0.4 LTS
-https://hackerone.com/reports/148897
-egrep
+
+# Title
 Stored XSS in archive.uber.com Due to Injection of Javascript:alert(0)
+# URL 
 https://hackerone.com/reports/126906
+# Reporter 
+ddworken
+
+# Title
+JSON keys are not properly escaped
+# URL 
+https://hackerone.com/reports/47280
+# Reporter 
+einstein_
+
+# Title
 Xss in website's link
+# URL 
 https://hackerone.com/reports/54321
+# Reporter 
 bohdansec
-Flash injection vulnerability on /IV/imgPlayer/imageEmbed.swf
-https://hackerone.com/reports/485382
+
+# Title
+[Thirdparty] Stored XSS in chat module - nextcloud server 9.0.51 installed in ubuntu 14.0.4 LTS
+# URL 
+https://hackerone.com/reports/148897
+# Reporter 
+egrep
+
+# Title
 Cross-site Scripting https://www.zendesk.com/product/pricing/
+# URL 
 https://hackerone.com/reports/89624
-Reflected  XSS in User-Agent
-https://hackerone.com/reports/12804
-Stored cross-site scripting (XSS) on a DoD website
-https://hackerone.com/reports/183971
-OX Guard: DOM Based Cross-Site Scripting (#2)
-https://hackerone.com/reports/164821
-Reflected XSS on hi-tech.mail.ru
-https://hackerone.com/reports/100755
-XSS on OAuth authorize/authenticate endpoint
-https://hackerone.com/reports/87040
-XSS on gmchat.gm.com
-https://hackerone.com/reports/112001
-rmashhoon
-XSS on [/concrete/concrete/elements/dashboard/sitemap.php]
-https://hackerone.com/reports/6853
-gsalazar
-Cross Site Scripting (XSS) - app.relateiq.com
-https://hackerone.com/reports/2439
-[login.newrelic.com] XSS via return_to
-https://hackerone.com/reports/115860
-Cross site scripting in type parameter
-https://hackerone.com/reports/17299
-knightsword
+# Reporter 
+mdv
+
+# Title
+Flash injection vulnerability on /IV/imgPlayer/imageEmbed.swf
+# URL 
+https://hackerone.com/reports/485382
+# Reporter 
+netfuzzer
+
+# Title
 [marketplace.informatica.com] Persistent XSS through document title
+# URL 
 https://hackerone.com/reports/181816
-Stored XSS in posts because of absence of oembed variables values escaping
-https://hackerone.com/reports/197914
-Stored XSS in Gallery application (NC-SA-2017-010)
-https://hackerone.com/reports/222838
-XSS in Subtitles of Vimeo Flash Player and Hubnut 
-https://hackerone.com/reports/137023
+# Reporter 
+kasperkarlsson
+
+# Title
+Stored cross-site scripting (XSS) on a DoD website
+# URL 
+https://hackerone.com/reports/183971
+# Reporter 
+jon_bottarini
+
+# Title
+Reflected  XSS in User-Agent
+# URL 
+https://hackerone.com/reports/12804
+# Reporter 
+bigbear
+
+# Title
+Reflected XSS on hi-tech.mail.ru
+# URL 
+https://hackerone.com/reports/100755
+# Reporter 
+0x01alka
+
+# Title
+OX Guard: DOM Based Cross-Site Scripting (#2)
+# URL 
+https://hackerone.com/reports/164821
+# Reporter 
+dejavuln
+
+# Title
+Cross site scripting in type parameter
+# URL 
+https://hackerone.com/reports/17299
+# Reporter 
+knightsword
+
+# Title
+XSS on [/concrete/concrete/elements/dashboard/sitemap.php]
+# URL 
+https://hackerone.com/reports/6853
+# Reporter 
+gsalazar
+
+# Title
+XSS on OAuth authorize/authenticate endpoint
+# URL 
+https://hackerone.com/reports/87040
+# Reporter 
+filedescriptor
+
+# Title
+XSS on gmchat.gm.com
+# URL 
+https://hackerone.com/reports/112001
+# Reporter 
+rmashhoon
+
+# Title
+Cross Site Scripting (XSS) - app.relateiq.com
+# URL 
+https://hackerone.com/reports/2439
+# Reporter 
+quistertow
+
+# Title
 Persistent XSS in https://p.imgur.com/albumview.gif and http://p.imgur.com/imageview.gif / post statistics
+# URL 
 https://hackerone.com/reports/96467
+# Reporter 
 sleepprogger
-DOM Cross-Site Scripting ( XSS )
-https://hackerone.com/reports/33091
-avram
+
+# Title
 Reflected XSS on an Army website
+# URL 
 https://hackerone.com/reports/184199
+# Reporter 
+juliocesar
+
+# Title
+[login.newrelic.com] XSS via return_to
+# URL 
+https://hackerone.com/reports/115860
+# Reporter 
+s_p_q_r
+
+# Title
+Stored XSS in posts because of absence of oembed variables values escaping
+# URL 
+https://hackerone.com/reports/197914
+# Reporter 
+skavans
+
+# Title
+DOM Cross-Site Scripting ( XSS )
+# URL 
+https://hackerone.com/reports/33091
+# Reporter 
+avram
+
+# Title
+Stored XSS in Gallery application (NC-SA-2017-010)
+# URL 
+https://hackerone.com/reports/222838
+# Reporter 
+lukasreschke
+
+# Title
+XSS in Subtitles of Vimeo Flash Player and Hubnut 
+# URL 
+https://hackerone.com/reports/137023
+# Reporter 
+opnsec
+
+# Title
 help2.m.smailru.net: XSS
+# URL 
 https://hackerone.com/reports/65921
-Reflected XSS in Meta Tag
-https://hackerone.com/reports/203974
-XSS on www.mapbox.com/authorize
-https://hackerone.com/reports/143220
-Dom based XSS https://www.khanacademy.org/
-https://hackerone.com/reports/6352
-Reflected XSS in [olx.qa]
-https://hackerone.com/reports/191332
-[uk.informatica.com] XSS on uk.informatica..com
-https://hackerone.com/reports/143323
-Cross-Site Scripting Reflected On Main Domain
-https://hackerone.com/reports/104917
+# Reporter 
+isox
+
+# Title
 XSS on https://app.shopify.com/
+# URL 
 https://hackerone.com/reports/126539
+# Reporter 
 secalert
+
+# Title
+Reflected XSS in [olx.qa]
+# URL 
+https://hackerone.com/reports/191332
+# Reporter 
+hussain_0x3c
+
+# Title
+Reflected XSS in Meta Tag
+# URL 
+https://hackerone.com/reports/203974
+# Reporter 
+myst404
+
+# Title
+XSS on www.mapbox.com/authorize
+# URL 
+https://hackerone.com/reports/143220
+# Reporter 
+stefanofinding
+
+# Title
+Dom based XSS https://www.khanacademy.org/
+# URL 
+https://hackerone.com/reports/6352
+# Reporter 
+smiegles
+
+# Title
 Reflected XSS in openapi.starbucks.com /searchasyoutype/v1/search?x-api-key=
+# URL 
 https://hackerone.com/reports/213190
-XSS Vulnerability on Image link parser
-https://hackerone.com/reports/191909
+# Reporter 
+an0n-j
+
+# Title
 http://ht.pornhub.com/ stored XSS in widget stylesheet
+# URL 
 https://hackerone.com/reports/207792
+# Reporter 
+ramsexy
+
+# Title
+[uk.informatica.com] XSS on uk.informatica..com
+# URL 
+https://hackerone.com/reports/143323
+# Reporter 
+grampae
+
+# Title
+Cross-Site Scripting Reflected On Main Domain
+# URL 
+https://hackerone.com/reports/104917
+# Reporter 
+hussain_0x3c
+
+# Title
+XSS Vulnerability on Image link parser
+# URL 
+https://hackerone.com/reports/191909
+# Reporter 
+alberto__segura
+
+# Title
 XSS via modified Zomato widget (res_search_widget.php)
+# URL 
 https://hackerone.com/reports/115402
+# Reporter 
+pr0tagon1st
+
+# Title
 XSS found In Your Web
+# URL 
 https://hackerone.com/reports/164922
+# Reporter 
 arslan1337
+
+# Title
 Persistent Cross-Site Scripting in WooCommerce WordPress plugin
+# URL 
 https://hackerone.com/reports/152692
+# Reporter 
 beurtschipper
-OX Guard: DOM Based Cross-Site Scripting
-https://hackerone.com/reports/158853
+
+# Title
 XSS in main page
+# URL 
 https://hackerone.com/reports/7882
-xss 
-https://hackerone.com/reports/92915
-geeknik
+# Reporter 
+nahamsec
+
+# Title
+OX Guard: DOM Based Cross-Site Scripting
+# URL 
+https://hackerone.com/reports/158853
+# Reporter 
+dejavuln
+
+# Title
 Album image XSS
+# URL 
 https://hackerone.com/reports/17235
-Persistent cross-site scripting (XSS) in map attribution
-https://hackerone.com/reports/54327
-ph3t
-XSS in Theme Preview Tools File
-https://hackerone.com/reports/4777
-mkly
-Внедрение произвольного javascript-сценария в функционале просмотра изображений мобильной версии сайта
-https://hackerone.com/reports/80298
-bo0om
+# Reporter 
+bitquark
+
+# Title
 Cross site scripting
+# URL 
 https://hackerone.com/reports/63888
+# Reporter 
 jaikeysarraf
-Stored xss in user name
-https://hackerone.com/reports/47343
-cross siite scripting in the blog 
-https://hackerone.com/reports/77904
-cyberboy
+
+# Title
+XSS in Theme Preview Tools File
+# URL 
+https://hackerone.com/reports/4777
+# Reporter 
+mkly
+
+# Title
 xss in group
+# URL 
 https://hackerone.com/reports/78052
+# Reporter 
 ashishdhaduk
-[STORED XSS] in debtor reports of ,,invoices''
-https://hackerone.com/reports/142893
+
+# Title
+xss 
+# URL 
+https://hackerone.com/reports/92915
+# Reporter 
+geeknik
+
+# Title
+Внедрение произвольного javascript-сценария в функционале просмотра изображений мобильной версии сайта
+# URL 
+https://hackerone.com/reports/80298
+# Reporter 
+bo0om
+
+# Title
+Persistent cross-site scripting (XSS) in map attribution
+# URL 
+https://hackerone.com/reports/54327
+# Reporter 
+ph3t
+
+# Title
+Stored xss in user name
+# URL 
+https://hackerone.com/reports/47343
+# Reporter 
+4lemon
+
+# Title
+Reflected XSS
+# URL 
 https://hackerone.com/reports/15654
-XSS via Fabrico Account Name
-https://hackerone.com/reports/34725
-adeelimtiaz90
+# Reporter 
+bigbear
+
+# Title
+cross siite scripting in the blog 
+# URL 
+https://hackerone.com/reports/77904
+# Reporter 
+cyberboy
+
+# Title
 xss profile
+# URL 
 https://hackerone.com/reports/60016
+# Reporter 
 x1622
+
+# Title
+[STORED XSS] in debtor reports of ,,invoices''
+# URL 
+https://hackerone.com/reports/142893
+# Reporter 
+bogdantcaciuc
+
+# Title
 XSS on support.shopify.com
+# URL 
 https://hackerone.com/reports/56760
+# Reporter 
+r0x33d
+
+# Title
+XSS via Fabrico Account Name
+# URL 
+https://hackerone.com/reports/34725
+# Reporter 
+adeelimtiaz90
+
+# Title
 Reflected XSS on Signup Page
+# URL 
 https://hackerone.com/reports/119090
+# Reporter 
+itly
+
+# Title
 Subdomain takeover in http://support.scan.me pointing to Zendesk (a Snapchat acquisition)
+# URL 
 https://hackerone.com/reports/114134
+# Reporter 
+harry_mg
+
+# Title
 XSS in the input
+# URL 
 https://hackerone.com/reports/12389
+# Reporter 
 stocktonontees
-Reflected cross site scripting in login page 
-https://hackerone.com/reports/9735
-robincool03111
-https://hackerone.com/reports/193481
-XSS At "pages.et.uber.com"
-https://hackerone.com/reports/156098
-raghav_bisht
+
+# Title
+Stored XSS
+# URL 
 https://hackerone.com/reports/7873
+# Reporter 
 daksh
-Wordpress  flashmediaelement.swf XSS on stopthehacker.com  
-https://hackerone.com/reports/137964
-strutsonsecurity
-XSS Vulnerability at https://www.pornhubpremium.com/premium_signup? URL endpoint 
-https://hackerone.com/reports/202548
-OPEN URL REDIRECT through PNG files
-https://hackerone.com/reports/163272
-dineshvicky
+
+# Title
+Reflected cross site scripting in login page 
+# URL 
+https://hackerone.com/reports/9735
+# Reporter 
+robincool03111
+
+# Title
+Stored XSS
+# URL 
 https://hackerone.com/reports/157958
+# Reporter 
 s44mux
+
+# Title
+Reflected XSS on a DoD website
+# URL 
+https://hackerone.com/reports/193481
+# Reporter 
+korprit
+
+# Title
+XSS At "pages.et.uber.com"
+# URL 
+https://hackerone.com/reports/156098
+# Reporter 
+raghav_bisht
+
+# Title
+XSS Vulnerability at https://www.pornhubpremium.com/premium_signup? URL endpoint 
+# URL 
+https://hackerone.com/reports/202548
+# Reporter 
+jon_bottarini
+
+# Title
+Reflected XSS vulnerability on a DoD website
+# URL 
 https://hackerone.com/reports/183835
-Post based XSS (Cross site scripting) on https://apimgr.8x8.com
-https://hackerone.com/reports/418248
-[Textile] XSS in project README files
-https://hackerone.com/reports/205498
+# Reporter 
+yaworsk
+
+# Title
+Wordpress  flashmediaelement.swf XSS on stopthehacker.com  
+# URL 
+https://hackerone.com/reports/137964
+# Reporter 
+strutsonsecurity
+
+# Title
+Reflected XSS
+# URL 
 https://hackerone.com/reports/151779
+# Reporter 
+kiraak-boy
+
+# Title
+OPEN URL REDIRECT through PNG files
+# URL 
+https://hackerone.com/reports/163272
+# Reporter 
+dineshvicky
+
+# Title
+Post based XSS (Cross site scripting) on https://apimgr.8x8.com
+# URL 
+https://hackerone.com/reports/418248
+# Reporter 
+madrobot
+
+# Title
+[Textile] XSS in project README files
+# URL 
+https://hackerone.com/reports/205498
+# Reporter 
+ysx
+
+# Title
 Cross-site scripting in "Contact customer" form
+# URL 
 https://hackerone.com/reports/294505
+# Reporter 
 protector47
+
+# Title
 Stored XSS in Access Rules
+# URL 
 https://hackerone.com/reports/123905
+# Reporter 
+bugs3ra
+
+# Title
 XSS in zendesk.com/product/
+# URL 
 https://hackerone.com/reports/141244
-Reflected XSS @ games.mail.ru
-https://hackerone.com/reports/164039
-Wordpress 4.7.2 - Two XSS in Media Upload when file too large.
-https://hackerone.com/reports/203515
-skansing
-Blind Stored XSS Against Lahitapiola Employees - Session and Information leakage
-https://hackerone.com/reports/135154
-mlitchfield
-Multiple Reflected XSS /webApp/lahti (viestinta.lahitapiola.fi)
-https://hackerone.com/reports/181842
+# Reporter 
+virtualhunter
+
+# Title
 Stored Cross-Site Scripting in Map Share Page
+# URL 
 https://hackerone.com/reports/65284
-Reflected XSS and Open Redirect in several parameters (viestinta.lahitapiola.fi)
-https://hackerone.com/reports/191387
+# Reporter 
+hussain_0x3c
+
+# Title
+Blind Stored XSS Against Lahitapiola Employees - Session and Information leakage
+# URL 
+https://hackerone.com/reports/135154
+# Reporter 
+mlitchfield
+
+# Title
+Wordpress 4.7.2 - Two XSS in Media Upload when file too large.
+# URL 
+https://hackerone.com/reports/203515
+# Reporter 
+skansing
+
+# Title
+Reflected XSS @ games.mail.ru
+# URL 
+https://hackerone.com/reports/164039
+# Reporter 
+ahsan
+
+# Title
 Reflective XSS at m.olx.ph
+# URL 
 https://hackerone.com/reports/177230
-[Stored XSS] vine.co - profile page
-https://hackerone.com/reports/36986
-xorb
-Reflected Cross site scripting
-https://hackerone.com/reports/174909
-Xss On http://my.mail.ru/
-https://hackerone.com/reports/8448
+# Reporter 
+hogarth45
+
+# Title
+Multiple Reflected XSS /webApp/lahti (viestinta.lahitapiola.fi)
+# URL 
+https://hackerone.com/reports/181842
+# Reporter 
+bobrov
+
+# Title
 Persistent XSS found on bin.pinion.gg due to outdated FlowPlayer SWF file with Remote File Inclusion vulnerability.
+# URL 
 https://hackerone.com/reports/254269
-XSS using javascript:alert(8007)
-https://hackerone.com/reports/127154
-bains
-XSS in gist integration
-https://hackerone.com/reports/11073
-zemnmez
+# Reporter 
+sp1d3rs
+
+# Title
+Xss On http://my.mail.ru/
+# URL 
+https://hackerone.com/reports/8448
+# Reporter 
+chandrakant
+
+# Title
+Reflected XSS and Open Redirect in several parameters (viestinta.lahitapiola.fi)
+# URL 
+https://hackerone.com/reports/191387
+# Reporter 
+sandh0t
+
+# Title
+[Stored XSS] vine.co - profile page
+# URL 
+https://hackerone.com/reports/36986
+# Reporter 
+xorb
+
+# Title
+Reflected Cross site scripting
+# URL 
+https://hackerone.com/reports/174909
+# Reporter 
+mr_sharma_
+
+# Title
 Almost all the subdomains are infected.
+# URL 
 https://hackerone.com/reports/4359
-Html Injection and Possible XSS via MathML
-https://hackerone.com/reports/502926
-z41b1337_
-Cookie-Based Injection
-https://hackerone.com/reports/105419
+# Reporter 
+4p00rv
+
+# Title
+XSS using javascript:alert(8007)
+# URL 
+https://hackerone.com/reports/127154
+# Reporter 
+bains
+
+# Title
+XSS in gist integration
+# URL 
+https://hackerone.com/reports/11073
+# Reporter 
+zemnmez
+
+# Title
 Reflected XSS on vimeo.com/musicstore
+# URL 
 https://hackerone.com/reports/85615
-[marketplace.informatica.com] Search XSS
-https://hackerone.com/reports/200034
-Reflected XSS in Pastebin-view
-https://hackerone.com/reports/17540
-pseudochu
+# Reporter 
+stefanofinding
+
+# Title
+Html Injection and Possible XSS via MathML
+# URL 
+https://hackerone.com/reports/502926
+# Reporter 
+z41b1337_
+
+# Title
 Self xss in product reviews
+# URL 
 https://hackerone.com/reports/1029668
+# Reporter 
 tomorrow_future
-XSS in fabric.io
-https://hackerone.com/reports/32519
+
+# Title
+Cookie-Based Injection
+# URL 
+https://hackerone.com/reports/105419
+# Reporter 
+hussain_0x3c
+
+# Title
 HTML injection vulnerability on a DoD website
+# URL 
 https://hackerone.com/reports/191902
+# Reporter 
 kunal_khubchandani
+
+# Title
+[marketplace.informatica.com] Search XSS
+# URL 
+https://hackerone.com/reports/200034
+# Reporter 
+s_p_q_r
+
+# Title
+Reflected XSS in Pastebin-view
+# URL 
+https://hackerone.com/reports/17540
+# Reporter 
+pseudochu
+
+# Title
 [Rails42] We can inject HTML tags when server is using strip_tags method
+# URL 
 https://hackerone.com/reports/81396
+# Reporter 
 arthurnn
+
+# Title
 XSS during presentation
+# URL 
 https://hackerone.com/reports/112372
+# Reporter 
+hogarth45
+
+# Title
+XSS in fabric.io
+# URL 
+https://hackerone.com/reports/32519
+# Reporter 
+atom
+
+# Title
+Cross site scripting
+# URL 
 https://hackerone.com/reports/78412
+# Reporter 
 sumit7
-Stored XSS in Discounts section
-https://hackerone.com/reports/618031
-mosuan
-Java Applet Execution On Y! Messenger
-https://hackerone.com/reports/933
-XSS in a newrelic.com site
-https://hackerone.com/reports/152368
-sinkmanu
-Stored XSS on Search Title
-https://hackerone.com/reports/50556
-https://hackerone.com/reports/184286
-XSS in https://www.coursera.org/courses/
-https://hackerone.com/reports/127163
-[render.bitstrips.com] Stored XSS via an incorrect avatar property value
-https://hackerone.com/reports/159878
-Vulnerability with the way \ escaped characters in <http://danlec.com> style links are rendered
-https://hackerone.com/reports/46072
+
+# Title
 Arbitrary File Upload in Logo & Log in image Theming setting.
+# URL 
 https://hackerone.com/reports/155690
+# Reporter 
 bastianwelfrid
+
+# Title
+[render.bitstrips.com] Stored XSS via an incorrect avatar property value
+# URL 
+https://hackerone.com/reports/159878
+# Reporter 
+s_p_q_r
+
+# Title
+Stored XSS in Discounts section
+# URL 
+https://hackerone.com/reports/618031
+# Reporter 
+mosuan
+
+# Title
+Stored XSS on Search Title
+# URL 
+https://hackerone.com/reports/50556
+# Reporter 
+ishahriyar
+
+# Title
+Java Applet Execution On Y! Messenger
+# URL 
+https://hackerone.com/reports/933
+# Reporter 
+nahamsec
+
+# Title
+XSS in a newrelic.com site
+# URL 
+https://hackerone.com/reports/152368
+# Reporter 
+sinkmanu
+
+# Title
+Reflected XSS on a Department of Defense website
+# URL 
+https://hackerone.com/reports/184286
+# Reporter 
+juliocesar
+
+# Title
+XSS in https://www.coursera.org/courses/
+# URL 
+https://hackerone.com/reports/127163
+# Reporter 
+secalert
+
+# Title
+Vulnerability with the way \ escaped characters in <http://danlec.com> style links are rendered
+# URL 
+https://hackerone.com/reports/46072
+# Reporter 
+danlec
+
+# Title
 XSS in Team Only Area
+# URL 
 https://hackerone.com/reports/10577
+# Reporter 
+atom
+
+# Title
 XSS via Email Link
+# URL 
 https://hackerone.com/reports/8010
-Cross-site Scripting (XSS) autocomplete generation in https://www.uber.com/
-https://hackerone.com/reports/124975
-exodia_forbidden_one
-XSS on https://www.udemy.com/asset/export.html
-https://hackerone.com/reports/62400
-Open redirect / Reflected XSS payload in root that affects all your sites (store.starbucks.* / shop.starbucks.* / teavana.com)
-https://hackerone.com/reports/196846
+# Reporter 
+prakharprasad
+
+# Title
 [pokerist.mail.ru] XSS Request-URI
+# URL 
 https://hackerone.com/reports/178253
-an xss issue
-https://hackerone.com/reports/99368
+# Reporter 
+bobrov
+
+# Title
 Reflected XSS in Step 2 of the Installation
+# URL 
 https://hackerone.com/reports/170156
+# Reporter 
+pavanw3b
+
+# Title
+Cross-site Scripting (XSS) autocomplete generation in https://www.uber.com/
+# URL 
+https://hackerone.com/reports/124975
+# Reporter 
+exodia_forbidden_one
+
+# Title
+XSS on https://www.udemy.com/asset/export.html
+# URL 
+https://hackerone.com/reports/62400
+# Reporter 
+adrianbelen
+
+# Title
+Open redirect / Reflected XSS payload in root that affects all your sites (store.starbucks.* / shop.starbucks.* / teavana.com)
+# URL 
+https://hackerone.com/reports/196846
+# Reporter 
+inhibitor181
+
+# Title
+an xss issue
+# URL 
+https://hackerone.com/reports/99368
+# Reporter 
+securitythinker
+
+# Title
 XSS On meta tags in profile page
+# URL 
 https://hackerone.com/reports/159984
+# Reporter 
 plazmaz
+
+# Title
 Stored XSS in https://checkout.shopify.com/
+# URL 
 https://hackerone.com/reports/122849
-Reflected Cross-Site Scripting in www.zomato.com/php/instagram_tag_relay
-https://hackerone.com/reports/138262
+# Reporter 
+niyaax
+
+# Title
 Self-XSS can be achieved in the editor link using filter bypass
+# URL 
 https://hackerone.com/reports/229735
+# Reporter 
+sp1d3rs
+
+# Title
 Potential XSS on sanitize/Rails::Html::WhiteListSanitizer
+# URL 
 https://hackerone.com/reports/81212
+# Reporter 
 garnu
-Cross Site Scripting - On Mouse Over, Blog page
-https://hackerone.com/reports/100552
-hosted.weblate.org: X-XSS-Protection not enabled
-https://hackerone.com/reports/223396
+
+# Title
 Stored XSS on Title of Page List in edit page list
+# URL 
 https://hackerone.com/reports/50554
-Stored XSS in buy topup OLX Gold Credits 
-https://hackerone.com/reports/169625
+# Reporter 
+ishahriyar
+
+# Title
+Cross Site Scripting - On Mouse Over, Blog page
+# URL 
+https://hackerone.com/reports/100552
+# Reporter 
+zephrfish
+
+# Title
+Reflected Cross-Site Scripting in www.zomato.com/php/instagram_tag_relay
+# URL 
+https://hackerone.com/reports/138262
+# Reporter 
+dejavuln
+
+# Title
 reflected in xss
+# URL 
 https://hackerone.com/reports/107358
+# Reporter 
 ilsen
+
+# Title
+hosted.weblate.org: X-XSS-Protection not enabled
+# URL 
+https://hackerone.com/reports/223396
+# Reporter 
+amsda
+
+# Title
+Stored XSS in buy topup OLX Gold Credits 
+# URL 
+https://hackerone.com/reports/169625
+# Reporter 
+tsug0d
+
+# Title
 Reflected XSS by exploiting CSRF vulnerability on teavana.com wishlist comment module. (wishlist-comments)
+# URL 
 https://hackerone.com/reports/177508
+# Reporter 
+faisalahmed
+
+# Title
 Cross site scripting on ads.twitter.com
+# URL 
 https://hackerone.com/reports/28150
-XSS [flow] - on www.paypal.com/paypalme/my/landing (requires user interaction)
-https://hackerone.com/reports/425200
-Cross-Site Scripting in getMarketplacePurchaseFrame
-https://hackerone.com/reports/6843
-[Stored Cross-Site-Scripting] When search about Incoming ( Manual Jurnal )
-https://hackerone.com/reports/154397
-Persistent Cross-site scripting vulnerability settings.
-IE search XSS
-https://hackerone.com/reports/7898
-https://hackerone.com/reports/142078
-XSS via login cookie
-https://hackerone.com/reports/206737
+# Reporter 
+anandprakash_
+
+# Title
 xss on demo.nextcloud.com due to outdated version
+# URL 
 https://hackerone.com/reports/177713
+# Reporter 
 bm666
-Stored XSS in member book
-https://hackerone.com/reports/129342
-XSS at importing Product List
-https://hackerone.com/reports/67125
+
+# Title
+Persistent Cross-site scripting vulnerability settings.
+# URL 
+https://hackerone.com/reports/7898
+# Reporter 
+smiegles
+
+# Title
+XSS [flow] - on www.paypal.com/paypalme/my/landing (requires user interaction)
+# URL 
+https://hackerone.com/reports/425200
+# Reporter 
+stefanofinding
+
+# Title
+[Stored Cross-Site-Scripting] When search about Incoming ( Manual Jurnal )
+# URL 
+https://hackerone.com/reports/154397
+# Reporter 
+bogdantcaciuc
+
+# Title
+XSS via login cookie
+# URL 
+https://hackerone.com/reports/206737
+# Reporter 
+myst404
+
+# Title
+Cross-Site Scripting in getMarketplacePurchaseFrame
+# URL 
+https://hackerone.com/reports/6843
+# Reporter 
+melvin
+
+# Title
 XSS Vulnerability in developer.gm.com
+# URL 
 https://hackerone.com/reports/120683
+# Reporter 
+ddworken
+
+# Title
+IE search XSS
+# URL 
+https://hackerone.com/reports/142078
+# Reporter 
+s_p_q_r
+
+# Title
+XSS at importing Product List
+# URL 
+https://hackerone.com/reports/67125
+# Reporter 
+mafia
+
+# Title
+Stored XSS in member book
+# URL 
+https://hackerone.com/reports/129342
+# Reporter 
+eboda
+
+# Title
+Blind Stored XSS Against Lahitapiola Employees - Session and Information leakage
+# URL 
 https://hackerone.com/reports/159498
+# Reporter 
 putsi
-XSS in WordPress 
-https://hackerone.com/reports/81736
-blinkms
+
+# Title
 XSS in Email Input [intensedebate.com]
+# URL 
 https://hackerone.com/reports/1037714
+# Reporter 
 ahmd_halabi
-XSS in creating tweets
-https://hackerone.com/reports/101450
-Multiple Reflected Cross Site Scripting Vulnerabilities in Concrete5 version 5.7.3.1
-https://hackerone.com/reports/59661
+
+# Title
 XSS Vulnerability (my.yahoo.com)
+# URL 
 https://hackerone.com/reports/4256
-XSS Yahoo Messenger Via Calendar.Yahoo.Com 
-https://hackerone.com/reports/914
+# Reporter 
+heizes
+
+# Title
+Multiple Reflected Cross Site Scripting Vulnerabilities in Concrete5 version 5.7.3.1
+# URL 
+https://hackerone.com/reports/59661
+# Reporter 
+egix
+
+# Title
+XSS in WordPress 
+# URL 
+https://hackerone.com/reports/81736
+# Reporter 
+blinkms
+
+# Title
 Reflected XSS via. search
-https://hackerone.com/reports/118950
+# URL 
 https://hackerone.com/reports/93550
-(HackerOne SSO-SAML) Login CSRF, Open Redirect, and Self-XSS Possible Exploitation
-https://hackerone.com/reports/171398
-whhackersbr
+# Reporter 
+skansing
+
+# Title
+XSS in creating tweets
+# URL 
+https://hackerone.com/reports/101450
+# Reporter 
+haxs101
+
+# Title
+Reflected XSS.
+# URL 
 https://hackerone.com/reports/95146
-Web Browser XSS Protection Not Enabled
-https://hackerone.com/reports/187225
-snicker2812
+# Reporter 
+0x01alka
+
+# Title
+Stored XSS 
+# URL 
+https://hackerone.com/reports/118950
+# Reporter 
+itly
+
+# Title
+XSS Yahoo Messenger Via Calendar.Yahoo.Com 
+# URL 
+https://hackerone.com/reports/914
+# Reporter 
+nahamsec
+
+# Title
+(HackerOne SSO-SAML) Login CSRF, Open Redirect, and Self-XSS Possible Exploitation
+# URL 
+https://hackerone.com/reports/171398
+# Reporter 
+whhackersbr
+
+# Title
 Stored Cross-Site Scripting Vulnerability in /admin.php?/cp/admin_system/general_configuration
+# URL 
 https://hackerone.com/reports/26482
+# Reporter 
 deadlock
-Self XSS
-https://hackerone.com/reports/982510
-wannacry0x01
-XSS in GM 
-https://hackerone.com/reports/109352
-koolacac
-XSS at Bulk editing ProductVariants
-https://hackerone.com/reports/72331
+
+# Title
 Stored XSS в личных сообщениях
+# URL 
 https://hackerone.com/reports/181823
+# Reporter 
 n1__
+
+# Title
+Web Browser XSS Protection Not Enabled
+# URL 
+https://hackerone.com/reports/187225
+# Reporter 
+snicker2812
+
+# Title
+Self XSS
+# URL 
+https://hackerone.com/reports/982510
+# Reporter 
+wannacry0x01
+
+# Title
+XSS in GM 
+# URL 
+https://hackerone.com/reports/109352
+# Reporter 
+koolacac
+
+# Title
+XSS at Bulk editing ProductVariants
+# URL 
+https://hackerone.com/reports/72331
+# Reporter 
+mafia
+
+# Title
 rs.mail.ru - Flash Based XSS
+# URL 
 https://hackerone.com/reports/8375
+# Reporter 
+quistertow
+
+# Title
 Outdated MediaElement.js Reflected Cross-Site Scripting (XSS)
+# URL 
 https://hackerone.com/reports/155228
+# Reporter 
 mrtn
-Stored XSS vulnerability on a DoD website
-https://hackerone.com/reports/202496
+
+# Title
 3k.mail.ru: XSS
+# URL 
 https://hackerone.com/reports/43723
-[persistent cross-site scripting] customers can target admins
-https://hackerone.com/reports/55842
+# Reporter 
+isox
+
+# Title
 Subdomain takeover on s3.shopify.com
+# URL 
 https://hackerone.com/reports/207576
+# Reporter 
 avlidienbrunn
+
+# Title
+Reflected XSS on a DoD website
+# URL 
 https://hackerone.com/reports/184200
-https://hackerone.com/reports/167321
+# Reporter 
+korprit
+
+# Title
+Stored XSS vulnerability on a DoD website
+# URL 
+https://hackerone.com/reports/202496
+# Reporter 
+rashedhasan007
+
+# Title
 XSS when clicking "Share to Twitter" at quora.com/widgets/embed_iframe?path=...
-hacking79
+# URL 
 https://hackerone.com/reports/258876
-XSS via .eml file
-https://hackerone.com/reports/26935
+# Reporter 
+stefanofinding
+
+# Title
 antispambot does not always escape <, >, &, " and '
+# URL 
 https://hackerone.com/reports/298218
+# Reporter 
 flimm
-Lazy Load stored XSS
-https://hackerone.com/reports/152416
-XSS on love.uber.com
-https://hackerone.com/reports/125179
-laps-forever
-XSS https://delivery.shopifyapps.com/  (Digital Downloads App  in myshopify.com)
-https://hackerone.com/reports/81441
-www.starbucks.co.uk Reflected XSS via utm_source parameter
-https://hackerone.com/reports/140616
-meals
-XSS in $shop$.myshopify.com/admin/ via twine template injection in "Shopify.API.Modal.input" method when using a malicious app
-https://hackerone.com/reports/217790
-Stored XSS in Direct debit name
-https://hackerone.com/reports/45233
-[github.algolia.com] XSS
-XSS in password
-https://hackerone.com/reports/7995
-https://hackerone.com/reports/155576
+
+# Title
 Flash XSS on homepage fliptilescroller
+# URL 
 https://hackerone.com/reports/172821
+# Reporter 
+mystech7
+
+# Title
+XSS via .eml file
+# URL 
+https://hackerone.com/reports/26935
+# Reporter 
+reactors08
+
+# Title
+[persistent cross-site scripting] customers can target admins
+# URL 
+https://hackerone.com/reports/55842
+# Reporter 
+akhil-reni
+
+# Title
+XSS
+# URL 
+https://hackerone.com/reports/167321
+# Reporter 
+hacking79
+
+# Title
+XSS on love.uber.com
+# URL 
+https://hackerone.com/reports/125179
+# Reporter 
+laps-forever
+
+# Title
+Lazy Load stored XSS
+# URL 
+https://hackerone.com/reports/152416
+# Reporter 
+jouko
+
+# Title
+Stored XSS in Direct debit name
+# URL 
+https://hackerone.com/reports/45233
+# Reporter 
+4lemon
+
+# Title
+www.starbucks.co.uk Reflected XSS via utm_source parameter
+# URL 
+https://hackerone.com/reports/140616
+# Reporter 
+meals
+
+# Title
+[github.algolia.com] XSS
+# URL 
+https://hackerone.com/reports/155576
+# Reporter 
+bogdantcaciuc
+
+# Title
+XSS https://delivery.shopifyapps.com/  (Digital Downloads App  in myshopify.com)
+# URL 
+https://hackerone.com/reports/81441
+# Reporter 
+dz_samir
+
+# Title
 Subdomain takeover due to unclaimed Amazon S3 bucket on a2.bime.io
+# URL 
 https://hackerone.com/reports/121461
+# Reporter 
+michiel
+
+# Title
+XSS in password
+# URL 
+https://hackerone.com/reports/7995
+# Reporter 
+reactors08
+
+# Title
+XSS in $shop$.myshopify.com/admin/ via twine template injection in "Shopify.API.Modal.input" method when using a malicious app
+# URL 
+https://hackerone.com/reports/217790
+# Reporter 
+bored-engineer
+
+# Title
 www.veris.in DOM based XSS
+# URL 
 https://hackerone.com/reports/119453
+# Reporter 
+reactors08
+
+# Title
+XSS
+# URL 
 https://hackerone.com/reports/111131
+# Reporter 
 thalaivarsubu
+
+# Title
 Markdown parsing issue enables insertion of malicious tags and event handlers
+# URL 
 https://hackerone.com/reports/46916
-Reflected XSS in Backend search
-https://hackerone.com/reports/136600
-Vulnerability :- "XSS vulnerability"
-https://hackerone.com/reports/89081
+# Reporter 
+danlec
+
+# Title
 Stored XSS in Bio/Quote
+# URL 
 https://hackerone.com/reports/50779
-XSS In /zuora/ functionality
-https://hackerone.com/reports/134434
+# Reporter 
+ishahriyar
+
+# Title
+Reflected XSS in Backend search
+# URL 
+https://hackerone.com/reports/136600
+# Reporter 
+krankopwnz
+
+# Title
+Vulnerability :- "XSS vulnerability"
+# URL 
+https://hackerone.com/reports/89081
+# Reporter 
+bhavi
+
+# Title
 Webview Vulnerablity [OwnCloudAndroid Application] 
+# URL 
 https://hackerone.com/reports/87835
+# Reporter 
 avicoder_
-Html Injection and Possible XSS in sms-be-vip.twitter.com
-https://hackerone.com/reports/150179
-secgeek
+
+# Title
+XSS In /zuora/ functionality
+# URL 
+https://hackerone.com/reports/134434
+# Reporter 
+apok
+
+# Title
 XSS on player.vimeo.com without user interaction and vimeo.com with user interaction
+# URL 
 https://hackerone.com/reports/96229
+# Reporter 
+stefanofinding
+
+# Title
+Html Injection and Possible XSS in sms-be-vip.twitter.com
+# URL 
+https://hackerone.com/reports/150179
+# Reporter 
+secgeek
+

@@ -1,4 +1,11 @@
 # Title
+Possible Subdomain Takeover
+# URL 
+https://hackerone.com/reports/233402
+# Reporter 
+z3t
+
+# Title
 Admin Salt Leakage on DoD site.
 # URL 
 https://hackerone.com/reports/241116
@@ -12,39 +19,87 @@ https://hackerone.com/reports/805027
 # Reporter 
 rootuser
 
-Possible Subdomain Takeover
-https://hackerone.com/reports/233402
-z3t
-Partial password leak over DNS on HTTP redirect
-https://hackerone.com/reports/874778
-mszpl
+# Title
 Sensitive Information Leaking Through DoD Owned Website. [██████████]
+# URL 
 https://hackerone.com/reports/806213
+# Reporter 
+rootuser
+
+# Title
 Improper integrity protection of server-side encryption keys
+# URL 
 https://hackerone.com/reports/732431
+# Reporter 
 yahe
+
+# Title
 China - Leaked credentials permitted a limited ability to create Starbucks coupons and cards
-Uninstalling Slack for Windows (64-bit), then reinstalling keeps you logged in without authentication
+# URL 
 https://hackerone.com/reports/766770
+# Reporter 
 neweq
+
+# Title
+Partial password leak over DNS on HTTP redirect
+# URL 
+https://hackerone.com/reports/874778
+# Reporter 
+mszpl
+
+# Title
+Uninstalling Slack for Windows (64-bit), then reinstalling keeps you logged in without authentication
+# URL 
 https://hackerone.com/reports/238260
+# Reporter 
 pclinger
-h1-202 leaderboard photo discloses local wifi password 
-https://hackerone.com/reports/329798
-0x0g
-Form Replay in customer information form
-https://hackerone.com/reports/411620
-imran_nazir
+
+# Title
 kubeadm logs tokens before deleting them
+# URL 
 https://hackerone.com/reports/972561
+# Reporter 
 mlevesquedion
-“email” MFA mode allows bypassing MFA from victim’s device when the device trust is not expired
-https://hackerone.com/reports/665722
-l1nkworld
+
+# Title
+Form Replay in customer information form
+# URL 
+https://hackerone.com/reports/411620
+# Reporter 
+imran_nazir
+
+# Title
 Improper confidentiality protection of server-side encryption keys
+# URL 
 https://hackerone.com/reports/743505
-Exposed FTP Credentials on ███████
-https://hackerone.com/reports/235216
+# Reporter 
+yahe
+
+# Title
+h1-202 leaderboard photo discloses local wifi password 
+# URL 
+https://hackerone.com/reports/329798
+# Reporter 
+0x0g
+
+# Title
+“email” MFA mode allows bypassing MFA from victim’s device when the device trust is not expired
+# URL 
+https://hackerone.com/reports/665722
+# Reporter 
+l1nkworld
+
+# Title
 Account takeover intercepting magic link for Arrive app
+# URL 
 https://hackerone.com/reports/855618
+# Reporter 
 nsl182
+
+# Title
+Exposed FTP Credentials on ███████
+# URL 
+https://hackerone.com/reports/235216
+# Reporter 
+z3t
+
