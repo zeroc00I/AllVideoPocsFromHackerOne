@@ -1,4 +1,8 @@
 # AllPocsFromHackerOne
+Contact me on
+
+[![Twitter](https://aleen42.github.io/badges/src/twitter.svg)](https://twitter.com/zeroc00I)
+[![Telegram](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/bminossi)
 #### Work in progress!
 
 This script grabs public report from hacker one and download all JSON files to be grepable
