@@ -5,6 +5,11 @@ This script grabs public report from hacker one and download all JSON files to b
 
 The main goal is make easy categorize vulns by technique
 
+#### Do you have some suggest? 
+Please open it on issues tab =)
+
+I would love hear from you.
+
 # All Categorized Vulns
 
 [Allocation of Resources Without Limits or Throttling](https://github.com/bminossi/AllVideoPocsFromHackerOne/blob/main/weakness/Allocation%20of%20Resources%20Without%20Limits%20or%20Throttling/index.md)
