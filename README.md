@@ -23,3 +23,5 @@ Script helping you finding keys and values into JSON
 ### buildRepo.sh
 Do your own jsonReports folder, downloading all disclosed reports from hackerone 
 
+Test
+https://github.com/bminossi/AllVideoPocsFromHackerOne/blob/main/weakness/Cross-site Scripting (XSS) - DOM/index.md
