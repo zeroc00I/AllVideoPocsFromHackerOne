@@ -13,7 +13,7 @@ Please open it on issues tab =)
 
 I would love hear from you.
 # TOP 20 Weakness from HackerOne disclosed Reports
-## From 9k disclosed reports
+### From 9k disclosed reports
 ![](https://pbs.twimg.com/media/EqdhbOeXYAAgc0O?format=png&name=small)
 # All Categorized Vulns
 
