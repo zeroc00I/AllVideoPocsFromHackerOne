@@ -14,7 +14,30 @@ Please open it on issues tab =)
 I would love hear from you.
 # TOP 20 Weakness from HackerOne disclosed Reports
 ### From 9k disclosed reports
-![](https://pbs.twimg.com/media/EqdhbOeXYAAgc0O?format=png&name=small)
+```
+   1019 Information Disclosure
+    915 Cross-site Scripting (XSS) - Generic
+    723 Violation of Secure Design Principles
+    610 Improper Authentication - Generic
+    416 Cross-Site Request Forgery (CSRF)
+    415 Cross-site Scripting (XSS) - Stored
+    357 Denial of Service
+    324 Cross-site Scripting (XSS) - Reflected
+    320 Privilege Escalation
+    314 Memory Corruption - Generic
+    293 Improper Access Control - Generic
+    261 Open Redirect
+    226 Code Injection
+    198 Business Logic Errors
+    197 SQL Injection
+    186 Command Injection - Generic
+    169 Insecure Direct Object Reference (IDOR)
+    165 Server-Side Request Forgery (SSRF)
+    165 Cryptographic Issues - Generic
+    130 Path Traversal
+
+```
+
 # All Categorized Vulns
 
 [Allocation of Resources Without Limits or Throttling](https://github.com/bminossi/AllVideoPocsFromHackerOne/blob/main/weakness/Allocation%20of%20Resources%20Without%20Limits%20or%20Throttling/readme.md)
