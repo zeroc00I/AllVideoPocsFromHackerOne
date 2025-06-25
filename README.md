@@ -1,13 +1,16 @@
 # AllPocsFromHackerOne
 
+### Note
+If jxscout helped you find cool bugs, [consider buying me a coffee!](https://ko-fi.com/zeroc00i) ☕
+
 Want to keep up with the latest in bug bounty, cybersecurity, and my ongoing studies? Feel free to join my Telegram channel (It's in Portuguese, but packed with English content!).
 
 https://t.me/zeroc00i_news => [![Telegram](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/zeroc00i_news)
 
-Contact me on
-
 [![Twitter](https://aleen42.github.io/badges/src/twitter.svg)](https://twitter.com/zeroc00I)
 [![Telegram](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/zeroc00I)
+
+### Description
 
 This script grabs public report from hacker one and download all JSON files to be grepable
 
