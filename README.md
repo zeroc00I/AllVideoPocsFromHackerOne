@@ -1,4 +1,9 @@
 # AllPocsFromHackerOne
+
+Want to keep up with the latest in bug bounty, cybersecurity, and my ongoing studies? Feel free to join my Telegram channel (It's in Portuguese, but packed with English content!).
+
+https://t.me/zeroc00i_news => [![Telegram](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/zeroc00i_news)
+
 Contact me on
 
 [![Twitter](https://aleen42.github.io/badges/src/twitter.svg)](https://twitter.com/zeroc00I)
